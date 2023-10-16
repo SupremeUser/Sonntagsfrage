@@ -1,7 +1,5 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
-from matplotlib import pyplot as plt
 import csv
 from helper import convert_percentage_to_float
 from helper import convert_befragte
