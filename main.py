@@ -93,7 +93,7 @@ for row in urls:
     data.Ergebnis = data.Ergebnis.apply(convert_percentage_to_float)
 
     # Ergänze die Spalte Befragte, falls diese nicht existiert
-    if not "Befragte" in data:
+    if not ("Befragte" in data):
         data["Befragte"] = np.NaN
 
     # Unterscheide zwischen Umfragen und Wahlen
@@ -106,7 +106,7 @@ for row in urls:
     data.Befragte = data.Befragte.apply(convert_befragte)
 
     # Ergänze die Spalte Zeitraum, falls diese nicht existiert
-    if not "Zeitraum" in data:
+    if not ("Zeitraum" in data):
         data["Zeitraum"] = np.NaN
 
     # Entferne "Bundestagswahl" aus der Spalte "Zeitraum"
