@@ -46,8 +46,8 @@ for row in urls:
     )
 
     # Extrahiere die Parteinamen
-    parteinamen = [x for x in data.columns if not x in ["Datum", "Befragte", "Zeitraum"]]
-    variablen = [x for x in data.columns if not x in parteinamen]
+    parteinamen = [x for x in data.columns if x not in ["Datum", "Befragte", "Zeitraum"]]
+    variablen = [x for x in data.columns if x not in parteinamen]
 
     # Fülle leere Ergebnisse mit "-"
     for partei in parteinamen:
@@ -93,7 +93,7 @@ for row in urls:
     data.Ergebnis = data.Ergebnis.apply(convert_percentage_to_float)
 
     # Ergänze die Spalte Befragte, falls diese nicht existiert
-    if not "Befragte" in data:
+    if "Befragte" not in data:
         data["Befragte"] = np.NaN
 
     # Unterscheide zwischen Umfragen und Wahlen
@@ -106,7 +106,7 @@ for row in urls:
     data.Befragte = data.Befragte.apply(convert_befragte)
 
     # Ergänze die Spalte Zeitraum, falls diese nicht existiert
-    if not "Zeitraum" in data:
+    if "Zeitraum" not in data:
         data["Zeitraum"] = np.NaN
 
     # Entferne "Bundestagswahl" aus der Spalte "Zeitraum"
@@ -144,7 +144,7 @@ complete_data = pd.concat(all_data).reset_index(drop=True)
 
 # Entferne Duplikate bei den Wahlen
 complete_data.drop_duplicates(
-    subset=["Tag", "Monat", "Jahr", "Partei", "Art"],
+    subset=["Tag", "Monat", "Jahr", "Partei", "Art", "Institut"],
     inplace=True
 )
 
@@ -152,7 +152,6 @@ complete_data["Datum"] = pd.to_datetime(dict(year=complete_data.Jahr, month=comp
                                         errors="coerce")
 
 print(complete_data.info())
-print(complete_data)
 
 # Schreibe die Daten in eine csv
 complete_data.to_csv("sonntagsfrage.csv", index=False)
