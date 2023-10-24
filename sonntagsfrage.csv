@@ -11309,6 +11309,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,17,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-17
 ,,Sonstige,7.0,10,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-10
 ,,Sonstige,7.0,3,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-03
+2504.0,17.10.–23.10.,CDU/CSU,31.0,24,10,2023,Umfrage,Deutschland,Forsa,2023-10-24
 2501.0,10.10.–16.10.,CDU/CSU,32.0,17,10,2023,Umfrage,Deutschland,Forsa,2023-10-17
 2003.0,04.10.–09.10.,CDU/CSU,28.0,10,10,2023,Umfrage,Deutschland,Forsa,2023-10-10
 2004.0,26.09.–29.09.,CDU/CSU,28.0,2,10,2023,Umfrage,Deutschland,Forsa,2023-10-02
@@ -11833,6 +11834,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,CDU/CSU,45.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,CDU/CSU,42.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2504.0,17.10.–23.10.,SPD,14.0,24,10,2023,Umfrage,Deutschland,Forsa,2023-10-24
 2501.0,10.10.–16.10.,SPD,14.0,17,10,2023,Umfrage,Deutschland,Forsa,2023-10-17
 2003.0,04.10.–09.10.,SPD,18.0,10,10,2023,Umfrage,Deutschland,Forsa,2023-10-10
 2004.0,26.09.–29.09.,SPD,18.0,2,10,2023,Umfrage,Deutschland,Forsa,2023-10-02
@@ -12357,6 +12359,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,SPD,24.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,SPD,25.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2504.0,17.10.–23.10.,GRÜNE,14.0,24,10,2023,Umfrage,Deutschland,Forsa,2023-10-24
 2501.0,10.10.–16.10.,GRÜNE,14.0,17,10,2023,Umfrage,Deutschland,Forsa,2023-10-17
 2003.0,04.10.–09.10.,GRÜNE,14.0,10,10,2023,Umfrage,Deutschland,Forsa,2023-10-10
 2004.0,26.09.–29.09.,GRÜNE,14.0,2,10,2023,Umfrage,Deutschland,Forsa,2023-10-02
@@ -12881,6 +12884,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,GRÜNE,8.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,GRÜNE,8.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2504.0,17.10.–23.10.,FDP,5.0,24,10,2023,Umfrage,Deutschland,Forsa,2023-10-24
 2501.0,10.10.–16.10.,FDP,4.0,17,10,2023,Umfrage,Deutschland,Forsa,2023-10-17
 2003.0,04.10.–09.10.,FDP,6.0,10,10,2023,Umfrage,Deutschland,Forsa,2023-10-10
 2004.0,26.09.–29.09.,FDP,5.0,2,10,2023,Umfrage,Deutschland,Forsa,2023-10-02
@@ -13405,6 +13409,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,FDP,3.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,FDP,4.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2504.0,17.10.–23.10.,LINKE,4.0,24,10,2023,Umfrage,Deutschland,Forsa,2023-10-24
 2501.0,10.10.–16.10.,LINKE,4.0,17,10,2023,Umfrage,Deutschland,Forsa,2023-10-17
 2003.0,04.10.–09.10.,LINKE,4.0,10,10,2023,Umfrage,Deutschland,Forsa,2023-10-10
 2004.0,26.09.–29.09.,LINKE,4.0,2,10,2023,Umfrage,Deutschland,Forsa,2023-10-02
@@ -13929,6 +13934,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,LINKE,8.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,LINKE,9.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2504.0,17.10.–23.10.,AfD,21.0,24,10,2023,Umfrage,Deutschland,Forsa,2023-10-24
 2501.0,10.10.–16.10.,AfD,21.0,17,10,2023,Umfrage,Deutschland,Forsa,2023-10-17
 2003.0,04.10.–09.10.,AfD,20.0,10,10,2023,Umfrage,Deutschland,Forsa,2023-10-10
 2004.0,26.09.–29.09.,AfD,20.0,2,10,2023,Umfrage,Deutschland,Forsa,2023-10-02
@@ -14453,6 +14459,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,AfD,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,AfD,5.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2504.0,17.10.–23.10.,Sonstige,11.0,24,10,2023,Umfrage,Deutschland,Forsa,2023-10-24
 2501.0,10.10.–16.10.,Sonstige,11.0,17,10,2023,Umfrage,Deutschland,Forsa,2023-10-17
 2003.0,04.10.–09.10.,Sonstige,10.0,10,10,2023,Umfrage,Deutschland,Forsa,2023-10-10
 2004.0,26.09.–29.09.,Sonstige,11.0,2,10,2023,Umfrage,Deutschland,Forsa,2023-10-02
@@ -14977,6 +14984,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,Sonstige,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,Sonstige,7.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,Sonstige,6.2,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2504.0,17.10.–23.10.,Nichtwähler/ Unentschl.,22.0,24,10,2023,Umfrage,Deutschland,Forsa,2023-10-24
 2501.0,10.10.–16.10.,Nichtwähler/ Unentschl.,22.0,17,10,2023,Umfrage,Deutschland,Forsa,2023-10-17
 2003.0,04.10.–09.10.,Nichtwähler/ Unentschl.,0.0,10,10,2023,Umfrage,Deutschland,Forsa,2023-10-10
 2004.0,26.09.–29.09.,Nichtwähler/ Unentschl.,25.0,2,10,2023,Umfrage,Deutschland,Forsa,2023-10-02
