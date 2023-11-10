@@ -21103,6 +21103,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,16,4,1998,Umfrage,Deutschland,Forsa,1998-04-16
 ,,Sonstige,5.0,8,4,1998,Umfrage,Deutschland,Forsa,1998-04-08
 ,,Sonstige,5.0,2,4,1998,Umfrage,Deutschland,Forsa,1998-04-02
+1234.0,07.11.–09.11.,CDU/CSU,30.0,10,11,2023,Umfrage,Deutschland,Politbarometer,2023-11-10
 1252.0,17.10.–19.10.,CDU/CSU,30.0,20,10,2023,Umfrage,Deutschland,Politbarometer,2023-10-20
 1201.0,12.09.–14.09.,CDU/CSU,26.0,15,9,2023,Umfrage,Deutschland,Politbarometer,2023-09-15
 1288.0,15.08.–17.08.,CDU/CSU,26.0,18,8,2023,Umfrage,Deutschland,Politbarometer,2023-08-18
@@ -21221,6 +21222,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,CDU/CSU,31.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,CDU/CSU,32.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1234.0,07.11.–09.11.,SPD,16.0,10,11,2023,Umfrage,Deutschland,Politbarometer,2023-11-10
 1252.0,17.10.–19.10.,SPD,15.0,20,10,2023,Umfrage,Deutschland,Politbarometer,2023-10-20
 1201.0,12.09.–14.09.,SPD,17.0,15,9,2023,Umfrage,Deutschland,Politbarometer,2023-09-15
 1288.0,15.08.–17.08.,SPD,19.0,18,8,2023,Umfrage,Deutschland,Politbarometer,2023-08-18
@@ -21339,6 +21341,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,SPD,21.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,SPD,21.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1234.0,07.11.–09.11.,GRÜNE,15.0,10,11,2023,Umfrage,Deutschland,Politbarometer,2023-11-10
 1252.0,17.10.–19.10.,GRÜNE,14.0,20,10,2023,Umfrage,Deutschland,Politbarometer,2023-10-20
 1201.0,12.09.–14.09.,GRÜNE,16.0,15,9,2023,Umfrage,Deutschland,Politbarometer,2023-09-15
 1288.0,15.08.–17.08.,GRÜNE,15.0,18,8,2023,Umfrage,Deutschland,Politbarometer,2023-08-18
@@ -21457,6 +21460,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,GRÜNE,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,GRÜNE,11.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1234.0,07.11.–09.11.,FDP,5.0,10,11,2023,Umfrage,Deutschland,Politbarometer,2023-11-10
 1252.0,17.10.–19.10.,FDP,5.0,20,10,2023,Umfrage,Deutschland,Politbarometer,2023-10-20
 1201.0,12.09.–14.09.,FDP,6.0,15,9,2023,Umfrage,Deutschland,Politbarometer,2023-09-15
 1288.0,15.08.–17.08.,FDP,7.0,18,8,2023,Umfrage,Deutschland,Politbarometer,2023-08-18
@@ -21575,6 +21579,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FDP,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FDP,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1234.0,07.11.–09.11.,LINKE,4.0,10,11,2023,Umfrage,Deutschland,Politbarometer,2023-11-10
 1252.0,17.10.–19.10.,LINKE,5.0,20,10,2023,Umfrage,Deutschland,Politbarometer,2023-10-20
 1201.0,12.09.–14.09.,LINKE,5.0,15,9,2023,Umfrage,Deutschland,Politbarometer,2023-09-15
 1288.0,15.08.–17.08.,LINKE,5.0,18,8,2023,Umfrage,Deutschland,Politbarometer,2023-08-18
@@ -21693,6 +21698,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,LINKE,10.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,LINKE,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1234.0,07.11.–09.11.,AfD,21.0,10,11,2023,Umfrage,Deutschland,Politbarometer,2023-11-10
 1252.0,17.10.–19.10.,AfD,21.0,20,10,2023,Umfrage,Deutschland,Politbarometer,2023-10-20
 1201.0,12.09.–14.09.,AfD,21.0,15,9,2023,Umfrage,Deutschland,Politbarometer,2023-09-15
 1288.0,15.08.–17.08.,AfD,20.0,18,8,2023,Umfrage,Deutschland,Politbarometer,2023-08-18
@@ -21811,6 +21817,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,AfD,12.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,AfD,12.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1234.0,07.11.–09.11.,Sonstige,9.0,10,11,2023,Umfrage,Deutschland,Politbarometer,2023-11-10
 1252.0,17.10.–19.10.,Sonstige,10.0,20,10,2023,Umfrage,Deutschland,Politbarometer,2023-10-20
 1201.0,12.09.–14.09.,Sonstige,9.0,15,9,2023,Umfrage,Deutschland,Politbarometer,2023-09-15
 1288.0,15.08.–17.08.,Sonstige,8.0,18,8,2023,Umfrage,Deutschland,Politbarometer,2023-08-18
@@ -26302,6 +26309,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1501.0,10.06.–16.06.,Sonstige,3.5,19,6,2002,Umfrage,Deutschland,GMS,2002-06-19
 1524.0,08.04.–14.04.,Sonstige,3.0,18,4,2002,Umfrage,Deutschland,GMS,2002-04-18
 1512.0,14.02.–20.02.,Sonstige,3.0,22,2,2002,Umfrage,Deutschland,GMS,2002-02-22
+1195.0,07.11.–08.11.,CDU/CSU,30.0,9,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-09
 1314.0,30.10.–01.11.,CDU/CSU,30.0,2,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-02
 1203.0,10.10.–11.10.,CDU/CSU,29.0,12,10,2023,Umfrage,Deutschland,Infratest dimap,2023-10-12
 1302.0,25.09.–27.09.,CDU/CSU,28.0,28,9,2023,Umfrage,Deutschland,Infratest dimap,2023-09-28
@@ -26549,6 +26557,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,CDU/CSU,40.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,CDU/CSU,42.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1195.0,07.11.–08.11.,SPD,15.0,9,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-09
 1314.0,30.10.–01.11.,SPD,16.0,2,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-02
 1203.0,10.10.–11.10.,SPD,15.0,12,10,2023,Umfrage,Deutschland,Infratest dimap,2023-10-12
 1302.0,25.09.–27.09.,SPD,16.0,28,9,2023,Umfrage,Deutschland,Infratest dimap,2023-09-28
@@ -26796,6 +26805,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,SPD,27.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,SPD,26.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1195.0,07.11.–08.11.,GRÜNE,15.0,9,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-09
 1314.0,30.10.–01.11.,GRÜNE,14.0,2,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-02
 1203.0,10.10.–11.10.,GRÜNE,13.0,12,10,2023,Umfrage,Deutschland,Infratest dimap,2023-10-12
 1302.0,25.09.–27.09.,GRÜNE,14.0,28,9,2023,Umfrage,Deutschland,Infratest dimap,2023-09-28
@@ -27043,6 +27053,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,GRÜNE,9.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,GRÜNE,8.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1195.0,07.11.–08.11.,FDP,5.0,9,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-09
 1314.0,30.10.–01.11.,FDP,4.0,2,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-02
 1203.0,10.10.–11.10.,FDP,5.0,12,10,2023,Umfrage,Deutschland,Infratest dimap,2023-10-12
 1302.0,25.09.–27.09.,FDP,6.0,28,9,2023,Umfrage,Deutschland,Infratest dimap,2023-09-28
@@ -27290,6 +27301,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,FDP,4.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,FDP,3.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1195.0,07.11.–08.11.,LINKE,4.0,9,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-09
 1314.0,30.10.–01.11.,LINKE,5.0,2,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-02
 1203.0,10.10.–11.10.,LINKE,4.0,12,10,2023,Umfrage,Deutschland,Infratest dimap,2023-10-12
 1302.0,25.09.–27.09.,LINKE,4.0,28,9,2023,Umfrage,Deutschland,Infratest dimap,2023-09-28
@@ -27537,6 +27549,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,LINKE,9.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,LINKE,9.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1195.0,07.11.–08.11.,AfD,21.0,9,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-09
 1314.0,30.10.–01.11.,AfD,22.0,2,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-02
 1203.0,10.10.–11.10.,AfD,23.0,12,10,2023,Umfrage,Deutschland,Infratest dimap,2023-10-12
 1302.0,25.09.–27.09.,AfD,22.0,28,9,2023,Umfrage,Deutschland,Infratest dimap,2023-09-28
@@ -27784,6 +27797,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,AfD,5.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,AfD,4.5,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1195.0,07.11.–08.11.,Sonstige,10.0,9,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-09
 1314.0,30.10.–01.11.,Sonstige,9.0,2,11,2023,Umfrage,Deutschland,Infratest dimap,2023-11-02
 1203.0,10.10.–11.10.,Sonstige,11.0,12,10,2023,Umfrage,Deutschland,Infratest dimap,2023-10-12
 1302.0,25.09.–27.09.,Sonstige,10.0,28,9,2023,Umfrage,Deutschland,Infratest dimap,2023-09-28
@@ -39663,6 +39677,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,Unnamed: 11,0.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,Unnamed: 11,0.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,Unnamed: 11,0.0,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1732.0,03.11.–07.11,CDU/CSU,29.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
 1842.0,06.10.–10.10.,CDU/CSU,29.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
 1833.0,01.09.–06.09.,CDU/CSU,29.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
 1756.0,25.07.–02.08.,CDU/CSU,27.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
@@ -39755,6 +39770,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,CDU/CSU,37.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,CDU/CSU,35.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1732.0,03.11.–07.11,SPD,15.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
 1842.0,06.10.–10.10.,SPD,16.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
 1833.0,01.09.–06.09.,SPD,16.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
 1756.0,25.07.–02.08.,SPD,17.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
@@ -39847,6 +39863,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,SPD,25.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,SPD,28.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1732.0,03.11.–07.11,GRÜNE,15.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
 1842.0,06.10.–10.10.,GRÜNE,15.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
 1833.0,01.09.–06.09.,GRÜNE,14.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
 1756.0,25.07.–02.08.,GRÜNE,14.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
@@ -39939,6 +39956,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,GRÜNE,7.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,GRÜNE,7.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1732.0,03.11.–07.11,FDP,5.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
 1842.0,06.10.–10.10.,FDP,5.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
 1833.0,01.09.–06.09.,FDP,5.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
 1756.0,25.07.–02.08.,FDP,5.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
@@ -40031,6 +40049,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,FDP,9.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,FDP,7.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1732.0,03.11.–07.11,LINKE,5.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
 1842.0,06.10.–10.10.,LINKE,6.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
 1833.0,01.09.–06.09.,LINKE,5.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
 1756.0,25.07.–02.08.,LINKE,6.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
@@ -40123,6 +40142,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,LINKE,8.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,LINKE,9.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1732.0,03.11.–07.11,AfD,22.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
 1842.0,06.10.–10.10.,AfD,21.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
 1833.0,01.09.–06.09.,AfD,23.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
 1756.0,25.07.–02.08.,AfD,23.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
@@ -40215,6 +40235,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,AfD,9.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,AfD,9.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1732.0,03.11.–07.11,Sonstige,9.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
 1842.0,06.10.–10.10.,Sonstige,7.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
 1833.0,01.09.–06.09.,Sonstige,9.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
 1756.0,25.07.–02.08.,Sonstige,8.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
