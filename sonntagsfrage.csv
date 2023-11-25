@@ -2335,6 +2335,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.9,20,5,1998,Umfrage,Deutschland,Allensbach,1998-05-20
 ,,Sonstige,1.2,29,4,1998,Umfrage,Deutschland,Allensbach,1998-04-29
 ,,Sonstige,1.8,25,3,1998,Umfrage,Deutschland,Allensbach,1998-03-25
+1452.0,14.11.–21.11.,CDU/CSU,29.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
 1421.0,08.11.–14.11.,CDU/CSU,28.0,18,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-18
 1443.0,25.10.–07.11.,CDU/CSU,28.0,11,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-11
 1418.0,19.10.–25.10.,CDU/CSU,27.0,4,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-04
@@ -2849,6 +2850,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,CDU/CSU,42.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,CDU/CSU,43.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,14.11.–21.11.,SPD,16.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
 1421.0,08.11.–14.11.,SPD,16.0,18,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-18
 1443.0,25.10.–07.11.,SPD,16.0,11,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-11
 1418.0,19.10.–25.10.,SPD,17.0,4,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-04
@@ -3363,6 +3365,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,SPD,25.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,SPD,26.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,14.11.–21.11.,GRÜNE,17.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
 1421.0,08.11.–14.11.,GRÜNE,16.0,18,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-18
 1443.0,25.10.–07.11.,GRÜNE,16.0,11,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-11
 1418.0,19.10.–25.10.,GRÜNE,16.0,4,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-04
@@ -3877,6 +3880,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,GRÜNE,8.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,GRÜNE,7.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,14.11.–21.11.,FDP,5.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
 1421.0,08.11.–14.11.,FDP,6.0,18,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-18
 1443.0,25.10.–07.11.,FDP,6.0,11,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-11
 1418.0,19.10.–25.10.,FDP,5.0,4,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-04
@@ -4391,6 +4395,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FDP,4.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FDP,3.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,14.11.–21.11.,LINKE,4.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
 1421.0,08.11.–14.11.,LINKE,4.0,18,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-18
 1443.0,25.10.–07.11.,LINKE,4.0,11,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-11
 1418.0,19.10.–25.10.,LINKE,4.0,4,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-04
@@ -4905,6 +4910,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,LINKE,9.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,LINKE,9.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,14.11.–21.11.,AfD,20.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
 1421.0,08.11.–14.11.,AfD,20.0,18,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-18
 1443.0,25.10.–07.11.,AfD,20.0,11,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-11
 1418.0,19.10.–25.10.,AfD,21.0,4,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-04
@@ -5419,6 +5425,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,AfD,6.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,AfD,6.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,14.11.–21.11.,Sonstige,9.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
 1421.0,08.11.–14.11.,Sonstige,10.0,18,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-18
 1443.0,25.10.–07.11.,Sonstige,10.0,11,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-11
 1418.0,19.10.–25.10.,Sonstige,10.0,4,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-04
@@ -32371,6 +32378,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.0,18,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-18
 ,,Sonstige,3.0,11,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-11
 ,,Sonstige,3.0,4,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-04
+1202.0,20.11.–24.11.,CDU/CSU,30.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,CDU/CSU,30.0,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,CDU/CSU,30.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,CDU/CSU,30.5,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
@@ -33110,6 +33118,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,CDU/CSU,36.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,CDU/CSU,36.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,CDU/CSU,33.8,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1202.0,20.11.–24.11.,SPD,16.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,SPD,16.5,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,SPD,16.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,SPD,16.5,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
@@ -33849,6 +33858,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,SPD,29.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,SPD,29.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,SPD,23.0,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1202.0,20.11.–24.11.,GRÜNE,12.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,GRÜNE,13.0,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,GRÜNE,13.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,GRÜNE,13.5,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
@@ -34588,6 +34598,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,GRÜNE,14.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,GRÜNE,15.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,GRÜNE,10.7,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1202.0,20.11.–24.11.,FDP,6.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,FDP,5.5,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,FDP,6.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,FDP,5.0,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
@@ -35327,6 +35338,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,FDP,4.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,FDP,4.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,FDP,14.6,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1202.0,20.11.–24.11.,LINKE,4.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,LINKE,4.5,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,LINKE,4.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,LINKE,4.5,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
@@ -36066,6 +36078,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,LINKE,6.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,LINKE,7.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,LINKE,11.9,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1202.0,20.11.–24.11.,PIRATEN,0.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,PIRATEN,0.0,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,PIRATEN,0.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,PIRATEN,0.0,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
@@ -36805,6 +36818,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,PIRATEN,8.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,PIRATEN,6.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,PIRATEN,2.0,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1202.0,20.11.–24.11.,FW,3.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,FW,3.0,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,FW,3.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,FW,3.0,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
@@ -37544,6 +37558,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,FW,0.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,FW,0.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,FW,0.0,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1202.0,20.11.–24.11.,AfD,22.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,AfD,21.0,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,AfD,21.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,AfD,21.5,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
@@ -38283,6 +38298,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,AfD,0.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,AfD,0.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,AfD,0.0,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1202.0,20.11.–24.11.,Sonstige,7.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,Sonstige,6.5,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,Sonstige,7.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,Sonstige,5.5,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
@@ -39022,6 +39038,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2085.0,30.03.–02.04.,Sonstige,3.0,3,4,2012,Umfrage,Deutschland,INSA / YouGov,2012-04-03
 2099.0,23.03.–26.03.,Sonstige,3.0,27,3,2012,Umfrage,Deutschland,INSA / YouGov,2012-03-27
 ,,Sonstige,4.0,27,9,2009,Wahl,Deutschland,INSA / YouGov,2009-09-27
+1202.0,20.11.–24.11.,Unnamed: 11,0.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
 2003.0,17.11.–20.11.,Unnamed: 11,0.0,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
 1201.0,13.11.–17.11.,Unnamed: 11,0.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
 2008.0,10.11.–13.11.,Unnamed: 11,0.0,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
