@@ -2335,6 +2335,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.9,20,5,1998,Umfrage,Deutschland,Allensbach,1998-05-20
 ,,Sonstige,1.2,29,4,1998,Umfrage,Deutschland,Allensbach,1998-04-29
 ,,Sonstige,1.8,25,3,1998,Umfrage,Deutschland,Allensbach,1998-03-25
+1515.0,06.12.–12.12.,CDU/CSU,30.0,16,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-16
 1402.0,29.11.–05.12.,CDU/CSU,30.0,9,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-09
 1806.0,20.11.–28.11.,CDU/CSU,29.0,2,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-02
 1452.0,14.11.–21.11.,CDU/CSU,29.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
@@ -2852,6 +2853,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,CDU/CSU,42.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,CDU/CSU,43.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1515.0,06.12.–12.12.,SPD,15.0,16,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-16
 1402.0,29.11.–05.12.,SPD,14.0,9,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-09
 1806.0,20.11.–28.11.,SPD,17.0,2,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-02
 1452.0,14.11.–21.11.,SPD,16.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
@@ -3369,6 +3371,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,SPD,25.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,SPD,26.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1515.0,06.12.–12.12.,GRÜNE,16.0,16,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-16
 1402.0,29.11.–05.12.,GRÜNE,17.0,9,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-09
 1806.0,20.11.–28.11.,GRÜNE,16.0,2,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-02
 1452.0,14.11.–21.11.,GRÜNE,17.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
@@ -3886,6 +3889,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,GRÜNE,8.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,GRÜNE,7.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1515.0,06.12.–12.12.,FDP,5.0,16,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-16
 1402.0,29.11.–05.12.,FDP,4.0,9,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-09
 1806.0,20.11.–28.11.,FDP,5.0,2,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-02
 1452.0,14.11.–21.11.,FDP,5.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
@@ -4403,6 +4407,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FDP,4.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FDP,3.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1515.0,06.12.–12.12.,LINKE,4.0,16,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-16
 1402.0,29.11.–05.12.,LINKE,4.0,9,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-09
 1806.0,20.11.–28.11.,LINKE,4.0,2,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-02
 1452.0,14.11.–21.11.,LINKE,4.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
@@ -4920,6 +4925,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,LINKE,9.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,LINKE,9.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1515.0,06.12.–12.12.,AfD,20.0,16,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-16
 1402.0,29.11.–05.12.,AfD,20.0,9,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-09
 1806.0,20.11.–28.11.,AfD,19.0,2,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-02
 1452.0,14.11.–21.11.,AfD,20.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
@@ -5437,6 +5443,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,AfD,6.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,AfD,6.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1515.0,06.12.–12.12.,Sonstige,10.0,16,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-16
 1402.0,29.11.–05.12.,Sonstige,11.0,9,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-09
 1806.0,20.11.–28.11.,Sonstige,10.0,2,12,2023,Umfrage,Deutschland,Kantar (Emnid),2023-12-02
 1452.0,14.11.–21.11.,Sonstige,9.0,25,11,2023,Umfrage,Deutschland,Kantar (Emnid),2023-11-25
