@@ -26508,6 +26508,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1501.0,10.06.–16.06.,Sonstige,3.5,19,6,2002,Umfrage,Deutschland,GMS,2002-06-19
 1524.0,08.04.–14.04.,Sonstige,3.0,18,4,2002,Umfrage,Deutschland,GMS,2002-04-18
 1512.0,14.02.–20.02.,Sonstige,3.0,22,2,2002,Umfrage,Deutschland,GMS,2002-02-22
+1303.0,29.01.–31.01.,CDU/CSU,30.0,1,2,2024,Umfrage,Deutschland,Infratest dimap,2024-02-01
 1321.0,02.01.–03.01.,CDU/CSU,31.0,4,1,2024,Umfrage,Deutschland,Infratest dimap,2024-01-04
 1210.0,18.12.–20.12.,CDU/CSU,32.0,21,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-21
 1364.0,04.12.–06.12.,CDU/CSU,32.0,7,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-07
@@ -26759,6 +26760,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,CDU/CSU,40.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,CDU/CSU,42.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1303.0,29.01.–31.01.,SPD,16.0,1,2,2024,Umfrage,Deutschland,Infratest dimap,2024-02-01
 1321.0,02.01.–03.01.,SPD,14.0,4,1,2024,Umfrage,Deutschland,Infratest dimap,2024-01-04
 1210.0,18.12.–20.12.,SPD,14.0,21,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-21
 1364.0,04.12.–06.12.,SPD,14.0,7,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-07
@@ -27010,6 +27012,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,SPD,27.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,SPD,26.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1303.0,29.01.–31.01.,GRÜNE,14.0,1,2,2024,Umfrage,Deutschland,Infratest dimap,2024-02-01
 1321.0,02.01.–03.01.,GRÜNE,13.0,4,1,2024,Umfrage,Deutschland,Infratest dimap,2024-01-04
 1210.0,18.12.–20.12.,GRÜNE,14.0,21,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-21
 1364.0,04.12.–06.12.,GRÜNE,15.0,7,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-07
@@ -27261,6 +27264,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,GRÜNE,9.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,GRÜNE,8.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1303.0,29.01.–31.01.,FDP,4.0,1,2,2024,Umfrage,Deutschland,Infratest dimap,2024-02-01
 1321.0,02.01.–03.01.,FDP,5.0,4,1,2024,Umfrage,Deutschland,Infratest dimap,2024-01-04
 1210.0,18.12.–20.12.,FDP,5.0,21,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-21
 1364.0,04.12.–06.12.,FDP,4.0,7,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-07
@@ -27512,6 +27516,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,FDP,4.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,FDP,3.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1303.0,29.01.–31.01.,LINKE,3.0,1,2,2024,Umfrage,Deutschland,Infratest dimap,2024-02-01
 1321.0,02.01.–03.01.,LINKE,4.0,4,1,2024,Umfrage,Deutschland,Infratest dimap,2024-01-04
 1210.0,18.12.–20.12.,LINKE,3.0,21,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-21
 1364.0,04.12.–06.12.,LINKE,3.0,7,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-07
@@ -27763,6 +27768,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,LINKE,9.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,LINKE,9.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1303.0,29.01.–31.01.,AfD,19.0,1,2,2024,Umfrage,Deutschland,Infratest dimap,2024-02-01
 1321.0,02.01.–03.01.,AfD,22.0,4,1,2024,Umfrage,Deutschland,Infratest dimap,2024-01-04
 1210.0,18.12.–20.12.,AfD,21.0,21,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-21
 1364.0,04.12.–06.12.,AfD,21.0,7,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-07
@@ -28014,6 +28020,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,AfD,5.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,AfD,4.5,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1303.0,29.01.–31.01.,Sonstige,14.0,1,2,2024,Umfrage,Deutschland,Infratest dimap,2024-02-01
 1321.0,02.01.–03.01.,Sonstige,11.0,4,1,2024,Umfrage,Deutschland,Infratest dimap,2024-01-04
 1210.0,18.12.–20.12.,Sonstige,11.0,21,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-21
 1364.0,04.12.–06.12.,Sonstige,11.0,7,12,2023,Umfrage,Deutschland,Infratest dimap,2023-12-07
