@@ -34269,11 +34269,255 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,AfD,10.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,AfD,10.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,AfD,10.3,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
-1202.0,29.01.–02.02.,Sonstige,11.0,3,2,2024,Umfrage,Deutschland,INSA / YouGov,2024-02-03
-2002.0,26.01.–29.01.,Sonstige,11.0,29,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-29
-1201.0,22.01.–26.01.,Sonstige,11.0,27,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-27
+1202.0,29.01.–02.02.,BSW,7.0,3,2,2024,Umfrage,Deutschland,INSA / YouGov,2024-02-03
+2002.0,26.01.–29.01.,BSW,7.0,29,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-29
+1201.0,22.01.–26.01.,BSW,7.0,27,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-27
+2006.0,19.01.–22.01.,BSW,0.0,22,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-22
+1203.0,15.01.–19.01.,BSW,7.0,20,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-20
+2004.0,12.01.–15.01.,BSW,0.0,15,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-15
+1202.0,08.01.–12.01.,BSW,0.0,13,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-13
+2008.0,05.01.–08.01.,BSW,0.0,9,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-09
+1204.0,02.01.–05.01.,BSW,0.0,6,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-06
+2002.0,29.12.–02.01.,BSW,0.0,3,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-03
+1001.0,28.12.–29.12.,BSW,0.0,31,12,2023,Umfrage,Deutschland,INSA / YouGov,2023-12-31
+2000.0,22.12.–27.12.,BSW,0.0,28,12,2023,Umfrage,Deutschland,INSA / YouGov,2023-12-28
+1202.0,18.12.–22.12.,BSW,0.0,23,12,2023,Umfrage,Deutschland,INSA / YouGov,2023-12-23
+2002.0,15.12.–18.12.,BSW,0.0,18,12,2023,Umfrage,Deutschland,INSA / YouGov,2023-12-18
+1202.0,11.12.–15.12.,BSW,0.0,16,12,2023,Umfrage,Deutschland,INSA / YouGov,2023-12-16
+2008.0,08.12.–11.12.,BSW,0.0,12,12,2023,Umfrage,Deutschland,INSA / YouGov,2023-12-12
+1203.0,04.12.–08.12.,BSW,0.0,9,12,2023,Umfrage,Deutschland,INSA / YouGov,2023-12-09
+2006.0,01.12.–04.12.,BSW,0.0,5,12,2023,Umfrage,Deutschland,INSA / YouGov,2023-12-05
+1202.0,27.11.–01.12.,BSW,0.0,2,12,2023,Umfrage,Deutschland,INSA / YouGov,2023-12-02
+2007.0,24.11.–27.11.,BSW,0.0,27,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-27
+1202.0,20.11.–24.11.,BSW,0.0,25,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-25
+2003.0,17.11.–20.11.,BSW,0.0,21,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-21
+1201.0,13.11.–17.11.,BSW,0.0,18,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-18
+2008.0,10.11.–13.11.,BSW,0.0,13,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-13
+1204.0,06.11.–10.11.,BSW,0.0,11,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-11
+2006.0,03.11.–06.11.,BSW,0.0,6,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-06
+1204.0,30.10.–03.11.,BSW,0.0,5,11,2023,Umfrage,Deutschland,INSA / YouGov,2023-11-05
+2010.0,27.10.–30.10.,BSW,0.0,30,10,2023,Umfrage,Deutschland,INSA / YouGov,2023-10-30
+1216.0,23.10.–27.10.,BSW,0.0,28,10,2023,Umfrage,Deutschland,INSA / YouGov,2023-10-28
+2004.0,20.10.–23.10.,BSW,0.0,24,10,2023,Umfrage,Deutschland,INSA / YouGov,2023-10-24
+1202.0,16.10.–20.10.,BSW,0.0,21,10,2023,Umfrage,Deutschland,INSA / YouGov,2023-10-21
+2006.0,13.10.–16.10.,BSW,0.0,16,10,2023,Umfrage,Deutschland,INSA / YouGov,2023-10-16
+1202.0,09.10.–13.10.,BSW,0.0,14,10,2023,Umfrage,Deutschland,INSA / YouGov,2023-10-14
+2001.0,06.10.–09.10.,BSW,0.0,10,10,2023,Umfrage,Deutschland,INSA / YouGov,2023-10-10
+1201.0,02.10.–06.10.,BSW,0.0,7,10,2023,Umfrage,Deutschland,INSA / YouGov,2023-10-07
+2010.0,29.09.–02.10.,BSW,0.0,2,10,2023,Umfrage,Deutschland,INSA / YouGov,2023-10-02
+1206.0,25.09.–29.09.,BSW,0.0,30,9,2023,Umfrage,Deutschland,INSA / YouGov,2023-09-30
+2003.0,22.09.–25.09.,BSW,0.0,26,9,2023,Umfrage,Deutschland,INSA / YouGov,2023-09-26
+1203.0,18.09.–22.09.,BSW,0.0,23,9,2023,Umfrage,Deutschland,INSA / YouGov,2023-09-23
+2008.0,15.09.–18.09.,BSW,0.0,19,9,2023,Umfrage,Deutschland,INSA / YouGov,2023-09-19
+1204.0,11.09.–15.09.,BSW,0.0,16,9,2023,Umfrage,Deutschland,INSA / YouGov,2023-09-16
+2002.0,08.09.–11.09.,BSW,0.0,11,9,2023,Umfrage,Deutschland,INSA / YouGov,2023-09-11
+1201.0,04.09.–08.09.,BSW,0.0,9,9,2023,Umfrage,Deutschland,INSA / YouGov,2023-09-09
+2010.0,01.09.–04.09.,BSW,0.0,4,9,2023,Umfrage,Deutschland,INSA / YouGov,2023-09-04
+1195.0,28.08.–01.09.,BSW,0.0,2,9,2023,Umfrage,Deutschland,INSA / YouGov,2023-09-02
+2006.0,25.08.–28.08.,BSW,0.0,28,8,2023,Umfrage,Deutschland,INSA / YouGov,2023-08-28
+1285.0,21.08.–25.08.,BSW,0.0,26,8,2023,Umfrage,Deutschland,INSA / YouGov,2023-08-26
+2008.0,18.08.–21.08.,BSW,0.0,21,8,2023,Umfrage,Deutschland,INSA / YouGov,2023-08-21
+1203.0,14.08.–18.08.,BSW,0.0,19,8,2023,Umfrage,Deutschland,INSA / YouGov,2023-08-19
+2002.0,11.08.–14.08.,BSW,0.0,14,8,2023,Umfrage,Deutschland,INSA / YouGov,2023-08-14
+1200.0,07.08.–11.08.,BSW,0.0,12,8,2023,Umfrage,Deutschland,INSA / YouGov,2023-08-12
+2004.0,04.08.–07.08.,BSW,0.0,7,8,2023,Umfrage,Deutschland,INSA / YouGov,2023-08-07
+1203.0,31.07.–04.08.,BSW,0.0,5,8,2023,Umfrage,Deutschland,INSA / YouGov,2023-08-05
+2003.0,28.07.–31.07.,BSW,0.0,31,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-31
+1200.0,24.07.–28.07.,BSW,0.0,29,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-29
+2006.0,21.07.–24.07.,BSW,0.0,25,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-25
+1266.0,17.07.–21.07.,BSW,0.0,22,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-22
+2004.0,14.07.–17.07.,BSW,0.0,17,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-17
+1184.0,10.07.–14.07.,BSW,0.0,15,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-15
+2008.0,07.07.–10.07.,BSW,0.0,10,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-10
+1204.0,03.07.–07.07.,BSW,0.0,8,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-08
+2897.0,30.06.–03.07.,BSW,0.0,3,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-03
+1401.0,26.06.–30.06.,BSW,0.0,1,7,2023,Umfrage,Deutschland,INSA / YouGov,2023-07-01
+2004.0,23.06.–26.06.,BSW,0.0,26,6,2023,Umfrage,Deutschland,INSA / YouGov,2023-06-26
+1203.0,19.06.–23.06.,BSW,0.0,24,6,2023,Umfrage,Deutschland,INSA / YouGov,2023-06-24
+2006.0,16.06.–19.06.,BSW,0.0,19,6,2023,Umfrage,Deutschland,INSA / YouGov,2023-06-19
+1203.0,12.06.–16.06.,BSW,0.0,17,6,2023,Umfrage,Deutschland,INSA / YouGov,2023-06-17
+2003.0,09.06.–12.06.,BSW,0.0,12,6,2023,Umfrage,Deutschland,INSA / YouGov,2023-06-12
+1201.0,05.06.–09.06.,BSW,0.0,10,6,2023,Umfrage,Deutschland,INSA / YouGov,2023-06-10
+2009.0,02.06.–05.06.,BSW,0.0,5,6,2023,Umfrage,Deutschland,INSA / YouGov,2023-06-05
+1205.0,30.05.–02.06.,BSW,0.0,3,6,2023,Umfrage,Deutschland,INSA / YouGov,2023-06-03
+2004.0,26.05.–30.05.,BSW,0.0,31,5,2023,Umfrage,Deutschland,INSA / YouGov,2023-05-31
+1207.0,22.05.–26.05.,BSW,0.0,27,5,2023,Umfrage,Deutschland,INSA / YouGov,2023-05-27
+2004.0,19.05.–22.05.,BSW,0.0,22,5,2023,Umfrage,Deutschland,INSA / YouGov,2023-05-22
+1195.0,15.05.–19.05.,BSW,0.0,20,5,2023,Umfrage,Deutschland,INSA / YouGov,2023-05-20
+2010.0,12.05.–15.05.,BSW,0.0,15,5,2023,Umfrage,Deutschland,INSA / YouGov,2023-05-15
+1205.0,08.05.–12.05.,BSW,0.0,13,5,2023,Umfrage,Deutschland,INSA / YouGov,2023-05-13
+2008.0,05.05.–08.05.,BSW,0.0,8,5,2023,Umfrage,Deutschland,INSA / YouGov,2023-05-08
+1204.0,02.05.–05.05.,BSW,0.0,6,5,2023,Umfrage,Deutschland,INSA / YouGov,2023-05-06
+2006.0,28.04.–02.05.,BSW,0.0,2,5,2023,Umfrage,Deutschland,INSA / YouGov,2023-05-02
+1202.0,24.04.–28.04.,BSW,0.0,29,4,2023,Umfrage,Deutschland,INSA / YouGov,2023-04-29
+2004.0,21.04.–24.04.,BSW,0.0,24,4,2023,Umfrage,Deutschland,INSA / YouGov,2023-04-24
+1202.0,17.04.–21.04.,BSW,0.0,22,4,2023,Umfrage,Deutschland,INSA / YouGov,2023-04-22
+2008.0,14.04.–17.04.,BSW,0.0,17,4,2023,Umfrage,Deutschland,INSA / YouGov,2023-04-17
+1204.0,11.04.–14.04.,BSW,0.0,15,4,2023,Umfrage,Deutschland,INSA / YouGov,2023-04-15
+2005.0,06.04.–11.04.,BSW,0.0,11,4,2023,Umfrage,Deutschland,INSA / YouGov,2023-04-11
+1204.0,03.04.–06.04.,BSW,0.0,8,4,2023,Umfrage,Deutschland,INSA / YouGov,2023-04-08
+2007.0,31.03.–03.04.,BSW,0.0,3,4,2023,Umfrage,Deutschland,INSA / YouGov,2023-04-03
+1200.0,27.03.–31.03.,BSW,0.0,1,4,2023,Umfrage,Deutschland,INSA / YouGov,2023-04-01
+2004.0,24.03.–27.03.,BSW,0.0,27,3,2023,Umfrage,Deutschland,INSA / YouGov,2023-03-27
+1203.0,20.03.–24.03.,BSW,0.0,25,3,2023,Umfrage,Deutschland,INSA / YouGov,2023-03-25
+2006.0,17.03.–20.03.,BSW,0.0,20,3,2023,Umfrage,Deutschland,INSA / YouGov,2023-03-20
+1202.0,13.03.–17.03.,BSW,0.0,19,3,2023,Umfrage,Deutschland,INSA / YouGov,2023-03-19
+2002.0,10.03.–13.03.,BSW,0.0,13,3,2023,Umfrage,Deutschland,INSA / YouGov,2023-03-13
+1268.0,06.03.–10.03.,BSW,0.0,11,3,2023,Umfrage,Deutschland,INSA / YouGov,2023-03-11
+2007.0,03.03.–06.03.,BSW,0.0,7,3,2023,Umfrage,Deutschland,INSA / YouGov,2023-03-07
+1203.0,27.02.–03.03.,BSW,0.0,5,3,2023,Umfrage,Deutschland,INSA / YouGov,2023-03-05
+2010.0,24.02.–27.02.,BSW,0.0,27,2,2023,Umfrage,Deutschland,INSA / YouGov,2023-02-27
+1200.0,20.02.–24.02.,BSW,0.0,25,2,2023,Umfrage,Deutschland,INSA / YouGov,2023-02-25
+2006.0,17.02.–20.02.,BSW,0.0,20,2,2023,Umfrage,Deutschland,INSA / YouGov,2023-02-20
+1207.0,13.02.–17.02.,BSW,0.0,18,2,2023,Umfrage,Deutschland,INSA / YouGov,2023-02-18
+2005.0,10.02.–13.02.,BSW,0.0,13,2,2023,Umfrage,Deutschland,INSA / YouGov,2023-02-13
+1457.0,06.02.–10.02.,BSW,0.0,11,2,2023,Umfrage,Deutschland,INSA / YouGov,2023-02-11
+2008.0,03.02.–06.02.,BSW,0.0,6,2,2023,Umfrage,Deutschland,INSA / YouGov,2023-02-06
+1462.0,30.01.–03.02.,BSW,0.0,4,2,2023,Umfrage,Deutschland,INSA / YouGov,2023-02-04
+2007.0,27.01.–30.01.,BSW,0.0,30,1,2023,Umfrage,Deutschland,INSA / YouGov,2023-01-30
+1506.0,24.01.–27.01.,BSW,0.0,28,1,2023,Umfrage,Deutschland,INSA / YouGov,2023-01-28
+2009.0,20.01.–23.01.,BSW,0.0,23,1,2023,Umfrage,Deutschland,INSA / YouGov,2023-01-23
+1504.0,16.01.–20.01.,BSW,0.0,21,1,2023,Umfrage,Deutschland,INSA / YouGov,2023-01-21
+2006.0,13.01.–16.01.,BSW,0.0,16,1,2023,Umfrage,Deutschland,INSA / YouGov,2023-01-16
+1202.0,09.01.–13.01.,BSW,0.0,14,1,2023,Umfrage,Deutschland,INSA / YouGov,2023-01-14
+2006.0,06.01.–09.01.,BSW,0.0,9,1,2023,Umfrage,Deutschland,INSA / YouGov,2023-01-09
+1465.0,02.01.–06.01.,BSW,0.0,8,1,2023,Umfrage,Deutschland,INSA / YouGov,2023-01-08
+2010.0,29.12.–02.01.,BSW,0.0,2,1,2023,Umfrage,Deutschland,INSA / YouGov,2023-01-02
+1205.0,27.12.–29.12.,BSW,0.0,31,12,2022,Umfrage,Deutschland,INSA / YouGov,2022-12-31
+1203.0,19.12.–22.12.,BSW,0.0,24,12,2022,Umfrage,Deutschland,INSA / YouGov,2022-12-24
+2005.0,16.12.–19.12.,BSW,0.0,19,12,2022,Umfrage,Deutschland,INSA / YouGov,2022-12-19
+1501.0,12.12.–16.12.,BSW,0.0,17,12,2022,Umfrage,Deutschland,INSA / YouGov,2022-12-17
+2007.0,09.12.–12.12.,BSW,0.0,13,12,2022,Umfrage,Deutschland,INSA / YouGov,2022-12-13
+1502.0,02.12.–09.12.,BSW,0.0,11,12,2022,Umfrage,Deutschland,INSA / YouGov,2022-12-11
+2008.0,03.12.–05.12.,BSW,0.0,6,12,2022,Umfrage,Deutschland,INSA / YouGov,2022-12-06
+1502.0,28.11.–02.12.,BSW,0.0,3,12,2022,Umfrage,Deutschland,INSA / YouGov,2022-12-03
+2006.0,25.11.–28.11.,BSW,0.0,28,11,2022,Umfrage,Deutschland,INSA / YouGov,2022-11-28
+1501.0,21.11.–25.11.,BSW,0.0,27,11,2022,Umfrage,Deutschland,INSA / YouGov,2022-11-27
+2004.0,18.11.–21.11.,BSW,0.0,21,11,2022,Umfrage,Deutschland,INSA / YouGov,2022-11-21
+1314.0,14.11.–18.11.,BSW,0.0,20,11,2022,Umfrage,Deutschland,INSA / YouGov,2022-11-20
+2010.0,11.11.–14.11.,BSW,0.0,14,11,2022,Umfrage,Deutschland,INSA / YouGov,2022-11-14
+1255.0,08.11.–11.11.,BSW,0.0,13,11,2022,Umfrage,Deutschland,INSA / YouGov,2022-11-13
+2007.0,04.11.–07.11.,BSW,0.0,7,11,2022,Umfrage,Deutschland,INSA / YouGov,2022-11-07
+1286.0,01.11.–04.11.,BSW,0.0,6,11,2022,Umfrage,Deutschland,INSA / YouGov,2022-11-06
+2009.0,28.10.–31.10.,BSW,0.0,1,11,2022,Umfrage,Deutschland,INSA / YouGov,2022-11-01
+1230.0,24.10.–28.10.,BSW,0.0,30,10,2022,Umfrage,Deutschland,INSA / YouGov,2022-10-30
+2007.0,21.10.–24.10.,BSW,0.0,25,10,2022,Umfrage,Deutschland,INSA / YouGov,2022-10-25
+1503.0,17.10.–21.10.,BSW,0.0,23,10,2022,Umfrage,Deutschland,INSA / YouGov,2022-10-23
+2000.0,14.10.–17.10.,BSW,0.0,17,10,2022,Umfrage,Deutschland,INSA / YouGov,2022-10-17
+1327.0,10.10.–14.10.,BSW,0.0,16,10,2022,Umfrage,Deutschland,INSA / YouGov,2022-10-16
+2005.0,07.10.–10.10.,BSW,0.0,10,10,2022,Umfrage,Deutschland,INSA / YouGov,2022-10-10
+1315.0,04.10.–07.10.,BSW,0.0,8,10,2022,Umfrage,Deutschland,INSA / YouGov,2022-10-08
+2008.0,29.09.–04.10.,BSW,0.0,4,10,2022,Umfrage,Deutschland,INSA / YouGov,2022-10-04
+1210.0,26.09.–30.09.,BSW,0.0,1,10,2022,Umfrage,Deutschland,INSA / YouGov,2022-10-01
+2102.0,23.09.–26.09.,BSW,0.0,26,9,2022,Umfrage,Deutschland,INSA / YouGov,2022-09-26
+1255.0,19.09.–23.09.,BSW,0.0,24,9,2022,Umfrage,Deutschland,INSA / YouGov,2022-09-24
+2080.0,16.09.–19.09.,BSW,0.0,20,9,2022,Umfrage,Deutschland,INSA / YouGov,2022-09-20
+1476.0,12.09.–16.09.,BSW,0.0,17,9,2022,Umfrage,Deutschland,INSA / YouGov,2022-09-17
+2039.0,09.09.–12.09.,BSW,0.0,12,9,2022,Umfrage,Deutschland,INSA / YouGov,2022-09-12
+1443.0,05.09.–09.09.,BSW,0.0,10,9,2022,Umfrage,Deutschland,INSA / YouGov,2022-09-10
+2004.0,02.09.–05.09.,BSW,0.0,6,9,2022,Umfrage,Deutschland,INSA / YouGov,2022-09-06
+1203.0,29.08.–02.09.,BSW,0.0,3,9,2022,Umfrage,Deutschland,INSA / YouGov,2022-09-03
+2138.0,26.08.–29.08.,BSW,0.0,29,8,2022,Umfrage,Deutschland,INSA / YouGov,2022-08-29
+1204.0,22.08.–26.08.,BSW,0.0,27,8,2022,Umfrage,Deutschland,INSA / YouGov,2022-08-27
+2091.0,19.08.–22.08.,BSW,0.0,22,8,2022,Umfrage,Deutschland,INSA / YouGov,2022-08-22
+1427.0,15.08.–19.08.,BSW,0.0,20,8,2022,Umfrage,Deutschland,INSA / YouGov,2022-08-20
+2146.0,12.08.–15.08.,BSW,0.0,15,8,2022,Umfrage,Deutschland,INSA / YouGov,2022-08-15
+1502.0,05.08.–12.08.,BSW,0.0,13,8,2022,Umfrage,Deutschland,INSA / YouGov,2022-08-13
+2099.0,05.08.–08.08.,BSW,0.0,8,8,2022,Umfrage,Deutschland,INSA / YouGov,2022-08-08
+1701.0,01.08.–05.08.,BSW,0.0,6,8,2022,Umfrage,Deutschland,INSA / YouGov,2022-08-06
+2144.0,29.07.–01.08.,BSW,0.0,1,8,2022,Umfrage,Deutschland,INSA / YouGov,2022-08-01
+1202.0,25.07.–29.07.,BSW,0.0,30,7,2022,Umfrage,Deutschland,INSA / YouGov,2022-07-30
+2043.0,22.07.–25.07.,BSW,0.0,25,7,2022,Umfrage,Deutschland,INSA / YouGov,2022-07-25
+1501.0,18.07.–22.07.,BSW,0.0,23,7,2022,Umfrage,Deutschland,INSA / YouGov,2022-07-23
+2062.0,15.07.–18.07.,BSW,0.0,18,7,2022,Umfrage,Deutschland,INSA / YouGov,2022-07-18
+1277.0,11.07.–15.07.,BSW,0.0,16,7,2022,Umfrage,Deutschland,INSA / YouGov,2022-07-16
+2044.0,08.07.–11.07.,BSW,0.0,12,7,2022,Umfrage,Deutschland,INSA / YouGov,2022-07-12
+1202.0,04.07.–08.07.,BSW,0.0,10,7,2022,Umfrage,Deutschland,INSA / YouGov,2022-07-10
+2066.0,01.07.–04.07.,BSW,0.0,4,7,2022,Umfrage,Deutschland,INSA / YouGov,2022-07-04
+1253.0,27.06.–01.07.,BSW,0.0,2,7,2022,Umfrage,Deutschland,INSA / YouGov,2022-07-02
+2101.0,24.06.–27.06.,BSW,0.0,27,6,2022,Umfrage,Deutschland,INSA / YouGov,2022-06-27
+1414.0,20.06.–24.06.,BSW,0.0,25,6,2022,Umfrage,Deutschland,INSA / YouGov,2022-06-25
+2063.0,17.06.–20.06.,BSW,0.0,20,6,2022,Umfrage,Deutschland,INSA / YouGov,2022-06-20
+1501.0,13.06.–17.06.,BSW,0.0,19,6,2022,Umfrage,Deutschland,INSA / YouGov,2022-06-19
+2082.0,10.06.–13.06.,BSW,0.0,13,6,2022,Umfrage,Deutschland,INSA / YouGov,2022-06-13
+1203.0,07.06.–10.06.,BSW,0.0,11,6,2022,Umfrage,Deutschland,INSA / YouGov,2022-06-11
+2055.0,03.06.–07.06.,BSW,0.0,7,6,2022,Umfrage,Deutschland,INSA / YouGov,2022-06-07
+1501.0,30.05.–03.06.,BSW,0.0,4,6,2022,Umfrage,Deutschland,INSA / YouGov,2022-06-04
+2056.0,27.05.–30.05.,BSW,0.0,30,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-30
+1337.0,23.05.–27.05.,BSW,0.0,28,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-28
+2100.0,20.05.–23.05.,BSW,0.0,23,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-23
+1214.0,16.05.–20.05.,BSW,0.0,21,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-21
+2147.0,13.05.–16.05.,BSW,0.0,16,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-16
+1501.0,09.05.–13.05.,BSW,0.0,14,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-14
+2086.0,06.05.–09.05.,BSW,0.0,9,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-09
+1501.0,02.05.–06.05.,BSW,0.0,7,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-07
+2146.0,29.04.–02.05.,BSW,0.0,2,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-02
+1202.0,25.04.–29.04.,BSW,0.0,1,5,2022,Umfrage,Deutschland,INSA / YouGov,2022-05-01
+2056.0,22.04.–25.04.,BSW,0.0,25,4,2022,Umfrage,Deutschland,INSA / YouGov,2022-04-25
+1296.0,19.04.–22.04.,BSW,0.0,23,4,2022,Umfrage,Deutschland,INSA / YouGov,2022-04-23
+2073.0,15.04.–18.04.,BSW,0.0,19,4,2022,Umfrage,Deutschland,INSA / YouGov,2022-04-19
+1402.0,11.04.–14.04.,BSW,0.0,16,4,2022,Umfrage,Deutschland,INSA / YouGov,2022-04-16
+2061.0,08.04.–11.04.,BSW,0.0,11,4,2022,Umfrage,Deutschland,INSA / YouGov,2022-04-11
+1503.0,04.04.–08.04.,BSW,0.0,9,4,2022,Umfrage,Deutschland,INSA / YouGov,2022-04-09
+2063.0,01.04.–04.04.,BSW,0.0,4,4,2022,Umfrage,Deutschland,INSA / YouGov,2022-04-04
+1501.0,25.03.–01.04.,BSW,0.0,2,4,2022,Umfrage,Deutschland,INSA / YouGov,2022-04-02
+2070.0,25.03.–28.03.,BSW,0.0,29,3,2022,Umfrage,Deutschland,INSA / YouGov,2022-03-29
+1205.0,21.03.–25.03.,BSW,0.0,26,3,2022,Umfrage,Deutschland,INSA / YouGov,2022-03-26
+2122.0,18.03.–21.03.,BSW,0.0,21,3,2022,Umfrage,Deutschland,INSA / YouGov,2022-03-21
+1198.0,14.03.–18.03.,BSW,0.0,19,3,2022,Umfrage,Deutschland,INSA / YouGov,2022-03-19
+2073.0,11.03.–14.03.,BSW,0.0,14,3,2022,Umfrage,Deutschland,INSA / YouGov,2022-03-14
+1201.0,07.03.–11.03.,BSW,0.0,12,3,2022,Umfrage,Deutschland,INSA / YouGov,2022-03-12
+2103.0,04.03.–07.03.,BSW,0.0,7,3,2022,Umfrage,Deutschland,INSA / YouGov,2022-03-07
+1185.0,28.02.–04.03.,BSW,0.0,5,3,2022,Umfrage,Deutschland,INSA / YouGov,2022-03-05
+2067.0,25.02.–28.02.,BSW,0.0,1,3,2022,Umfrage,Deutschland,INSA / YouGov,2022-03-01
+1405.0,21.02.–25.02.,BSW,0.0,27,2,2022,Umfrage,Deutschland,INSA / YouGov,2022-02-27
+1539.0,18.02.–21.02.,BSW,0.0,21,2,2022,Umfrage,Deutschland,INSA / YouGov,2022-02-21
+1303.0,14.02.–18.02.,BSW,0.0,19,2,2022,Umfrage,Deutschland,INSA / YouGov,2022-02-19
+2141.0,11.02.–14.02.,BSW,0.0,14,2,2022,Umfrage,Deutschland,INSA / YouGov,2022-02-14
+1504.0,07.02.–11.02.,BSW,0.0,12,2,2022,Umfrage,Deutschland,INSA / YouGov,2022-02-12
+2067.0,04.02.–07.02.,BSW,0.0,7,2,2022,Umfrage,Deutschland,INSA / YouGov,2022-02-07
+1202.0,01.02.–04.02.,BSW,0.0,5,2,2022,Umfrage,Deutschland,INSA / YouGov,2022-02-05
+2147.0,28.01.–31.01.,BSW,0.0,31,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-31
+1383.0,24.01.–28.01.,BSW,0.0,29,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-29
+2146.0,21.01.–24.01.,BSW,0.0,24,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-24
+1204.0,17.01.–21.01.,BSW,0.0,22,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-22
+2130.0,14.01.–17.01.,BSW,0.0,17,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-17
+1504.0,10.01.–14.01.,BSW,0.0,15,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-15
+2107.0,07.01.–10.01.,BSW,0.0,10,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-10
+1504.0,03.01.–08.01.,BSW,0.0,8,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-08
+2060.0,30.12.–03.01.,BSW,0.0,3,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-03
+1201.0,27.12.–30.12.,BSW,0.0,1,1,2022,Umfrage,Deutschland,INSA / YouGov,2022-01-01
+1195.0,20.12.–23.12.,BSW,0.0,26,12,2021,Umfrage,Deutschland,INSA / YouGov,2021-12-26
+2075.0,17.12.–20.12.,BSW,0.0,20,12,2021,Umfrage,Deutschland,INSA / YouGov,2021-12-20
+1501.0,13.12.–18.12.,BSW,0.0,18,12,2021,Umfrage,Deutschland,INSA / YouGov,2021-12-18
+2221.0,10.12.–13.12.,BSW,0.0,13,12,2021,Umfrage,Deutschland,INSA / YouGov,2021-12-13
+1480.0,06.12.–10.12.,BSW,0.0,11,12,2021,Umfrage,Deutschland,INSA / YouGov,2021-12-11
+2119.0,03.12.–06.12.,BSW,0.0,6,12,2021,Umfrage,Deutschland,INSA / YouGov,2021-12-06
+1348.0,29.11.–03.12.,BSW,0.0,4,12,2021,Umfrage,Deutschland,INSA / YouGov,2021-12-04
+2129.0,26.11.–29.11.,BSW,0.0,29,11,2021,Umfrage,Deutschland,INSA / YouGov,2021-11-29
+1403.0,22.11.–26.11.,BSW,0.0,27,11,2021,Umfrage,Deutschland,INSA / YouGov,2021-11-27
+2096.0,19.11.–22.11.,BSW,0.0,22,11,2021,Umfrage,Deutschland,INSA / YouGov,2021-11-22
+1501.0,15.11.–19.11.,BSW,0.0,20,11,2021,Umfrage,Deutschland,INSA / YouGov,2021-11-20
+2091.0,12.11.–15.11.,BSW,0.0,15,11,2021,Umfrage,Deutschland,INSA / YouGov,2021-11-15
+1202.0,08.11.–12.11.,BSW,0.0,13,11,2021,Umfrage,Deutschland,INSA / YouGov,2021-11-13
+2112.0,05.11.–08.11.,BSW,0.0,8,11,2021,Umfrage,Deutschland,INSA / YouGov,2021-11-08
+1212.0,01.11.–05.11.,BSW,0.0,6,11,2021,Umfrage,Deutschland,INSA / YouGov,2021-11-06
+2140.0,29.10.–01.11.,BSW,0.0,2,11,2021,Umfrage,Deutschland,INSA / YouGov,2021-11-02
+1503.0,25.10.–29.10.,BSW,0.0,30,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-30
+2105.0,22.10.–25.10.,BSW,0.0,25,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-25
+1205.0,18.10.–22.10.,BSW,0.0,23,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-23
+2140.0,15.10.–18.10.,BSW,0.0,18,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-18
+1195.0,11.10.–15.10.,BSW,0.0,16,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-16
+2101.0,08.10.–11.10.,BSW,0.0,11,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-11
+1509.0,04.10.–08.10.,BSW,0.0,9,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-09
+2000.0,01.10.–04.10.,BSW,0.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
+1254.0,27.09.–01.10.,BSW,0.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
+,,BSW,0.0,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1202.0,29.01.–02.02.,Sonstige,4.0,3,2,2024,Umfrage,Deutschland,INSA / YouGov,2024-02-03
+2002.0,26.01.–29.01.,Sonstige,4.0,29,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-29
+1201.0,22.01.–26.01.,Sonstige,4.0,27,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-27
 2006.0,19.01.–22.01.,Sonstige,11.5,22,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-22
-1203.0,15.01.–19.01.,Sonstige,11.0,20,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-20
+1203.0,15.01.–19.01.,Sonstige,4.0,20,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-20
 2004.0,12.01.–15.01.,Sonstige,8.0,15,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-15
 1202.0,08.01.–12.01.,Sonstige,9.0,13,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-13
 2008.0,05.01.–08.01.,Sonstige,5.0,9,1,2024,Umfrage,Deutschland,INSA / YouGov,2024-01-09
@@ -35083,36 +35327,131 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,AfD,9.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,AfD,9.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
-1614.0,03.01.–08.01.,Sonstige,9.0,11,1,2024,Umfrage,Deutschland,YouGov,2024-01-11
-1669.0,01.12.–06.12,Sonstige,9.0,8,12,2023,Umfrage,Deutschland,YouGov,2023-12-08
-1732.0,03.11.–07.11,Sonstige,9.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
-1842.0,06.10.–10.10.,Sonstige,7.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
-1833.0,01.09.–06.09.,Sonstige,9.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
-1756.0,25.07.–02.08.,Sonstige,8.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
-1694.0,30.06.–04.07.,Sonstige,7.0,7,7,2023,Umfrage,Deutschland,YouGov,2023-07-07
-1628.0,02.06.–07.06.,Sonstige,8.0,9,6,2023,Umfrage,Deutschland,YouGov,2023-06-09
-1700.0,05.05.–09.05.,Sonstige,9.0,12,5,2023,Umfrage,Deutschland,YouGov,2023-05-12
-1522.0,30.03.–04.04.,Sonstige,7.0,6,4,2023,Umfrage,Deutschland,YouGov,2023-04-06
-1649.0,03.03.–07.03.,Sonstige,7.0,10,3,2023,Umfrage,Deutschland,YouGov,2023-03-10
-1736.0,03.02.–09.02.,Sonstige,9.0,10,2,2023,Umfrage,Deutschland,YouGov,2023-02-10
-1561.0,06.01.–10.01.,Sonstige,7.0,13,1,2023,Umfrage,Deutschland,YouGov,2023-01-13
-1608.0,16.12.–21.12.,Sonstige,9.0,22,12,2022,Umfrage,Deutschland,YouGov,2022-12-22
-1608.0,04.11.–09.11.,Sonstige,6.0,11,11,2022,Umfrage,Deutschland,YouGov,2022-11-11
-1617.0,07.10.–12.10.,Sonstige,9.0,14,10,2022,Umfrage,Deutschland,YouGov,2022-10-14
-1635.0,09.09.–13.09.,Sonstige,8.0,16,9,2022,Umfrage,Deutschland,YouGov,2022-09-16
-1595.0,05.08.–10.08.,Sonstige,8.0,12,8,2022,Umfrage,Deutschland,YouGov,2022-08-12
-1655.0,01.07.–05.07.,Sonstige,9.0,8,7,2022,Umfrage,Deutschland,YouGov,2022-07-08
-1633.0,03.06.–07.06.,Sonstige,7.0,10,6,2022,Umfrage,Deutschland,YouGov,2022-06-10
-1659.0,06.05.–10.05.,Sonstige,8.0,12,5,2022,Umfrage,Deutschland,YouGov,2022-05-12
-1643.0,08.04.–12.04.,Sonstige,8.0,14,4,2022,Umfrage,Deutschland,YouGov,2022-04-14
-1629.0,04.03.–08.03.,Sonstige,8.0,11,3,2022,Umfrage,Deutschland,YouGov,2022-03-11
-1659.0,10.02.–15.02.,Sonstige,7.0,21,2,2022,Umfrage,Deutschland,YouGov,2022-02-21
-1602.0,21.01.–25.01.,Sonstige,9.0,28,1,2022,Umfrage,Deutschland,YouGov,2022-01-28
-1715.0,10.12.–14.12.,Sonstige,8.0,17,12,2021,Umfrage,Deutschland,YouGov,2021-12-17
-1797.0,19.11.–23.11.,Sonstige,7.0,26,11,2021,Umfrage,Deutschland,YouGov,2021-11-26
-,,Sonstige,8.7,26,9,2021,Wahl,Deutschland,YouGov,2021-09-26
-2364.0,16.09.–22.09.,Sonstige,9.0,23,9,2021,Umfrage,Deutschland,YouGov,2021-09-23
-1816.0,09.09.–14.09.,Sonstige,10.0,16,9,2021,Umfrage,Deutschland,YouGov,2021-09-16
+1614.0,03.01.–08.01.,FW,2.0,11,1,2024,Umfrage,Deutschland,YouGov,2024-01-11
+1669.0,01.12.–06.12,FW,2.0,8,12,2023,Umfrage,Deutschland,YouGov,2023-12-08
+1732.0,03.11.–07.11,FW,2.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
+1842.0,06.10.–10.10.,FW,2.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
+1833.0,01.09.–06.09.,FW,1.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
+1756.0,25.07.–02.08.,FW,1.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
+1694.0,30.06.–04.07.,FW,1.0,7,7,2023,Umfrage,Deutschland,YouGov,2023-07-07
+1628.0,02.06.–07.06.,FW,1.0,9,6,2023,Umfrage,Deutschland,YouGov,2023-06-09
+1700.0,05.05.–09.05.,FW,2.0,12,5,2023,Umfrage,Deutschland,YouGov,2023-05-12
+1522.0,30.03.–04.04.,FW,1.0,6,4,2023,Umfrage,Deutschland,YouGov,2023-04-06
+1649.0,03.03.–07.03.,FW,1.0,10,3,2023,Umfrage,Deutschland,YouGov,2023-03-10
+1736.0,03.02.–09.02.,FW,2.0,10,2,2023,Umfrage,Deutschland,YouGov,2023-02-10
+1561.0,06.01.–10.01.,FW,1.0,13,1,2023,Umfrage,Deutschland,YouGov,2023-01-13
+1608.0,16.12.–21.12.,FW,1.0,22,12,2022,Umfrage,Deutschland,YouGov,2022-12-22
+1608.0,04.11.–09.11.,FW,1.0,11,11,2022,Umfrage,Deutschland,YouGov,2022-11-11
+1617.0,07.10.–12.10.,FW,2.0,14,10,2022,Umfrage,Deutschland,YouGov,2022-10-14
+1635.0,09.09.–13.09.,FW,1.0,16,9,2022,Umfrage,Deutschland,YouGov,2022-09-16
+1595.0,05.08.–10.08.,FW,1.0,12,8,2022,Umfrage,Deutschland,YouGov,2022-08-12
+1655.0,01.07.–05.07.,FW,1.0,8,7,2022,Umfrage,Deutschland,YouGov,2022-07-08
+1633.0,03.06.–07.06.,FW,1.0,10,6,2022,Umfrage,Deutschland,YouGov,2022-06-10
+1659.0,06.05.–10.05.,FW,1.0,12,5,2022,Umfrage,Deutschland,YouGov,2022-05-12
+1643.0,08.04.–12.04.,FW,1.0,14,4,2022,Umfrage,Deutschland,YouGov,2022-04-14
+1629.0,04.03.–08.03.,FW,1.0,11,3,2022,Umfrage,Deutschland,YouGov,2022-03-11
+1659.0,10.02.–15.02.,FW,1.0,21,2,2022,Umfrage,Deutschland,YouGov,2022-02-21
+1602.0,21.01.–25.01.,FW,2.0,28,1,2022,Umfrage,Deutschland,YouGov,2022-01-28
+1715.0,10.12.–14.12.,FW,2.0,17,12,2021,Umfrage,Deutschland,YouGov,2021-12-17
+1797.0,19.11.–23.11.,FW,2.0,26,11,2021,Umfrage,Deutschland,YouGov,2021-11-26
+,,FW,2.4,26,9,2021,Wahl,Deutschland,YouGov,2021-09-26
+2364.0,16.09.–22.09.,FW,2.0,23,9,2021,Umfrage,Deutschland,YouGov,2021-09-23
+1816.0,09.09.–14.09.,FW,3.0,16,9,2021,Umfrage,Deutschland,YouGov,2021-09-16
+1700.0,03.09.–07.09.,FW,0.0,10,9,2021,Umfrage,Deutschland,YouGov,2021-09-10
+1729.0,27.08.–31.08.,FW,0.0,3,9,2021,Umfrage,Deutschland,YouGov,2021-09-03
+1689.0,20.08.–24.08.,FW,0.0,27,8,2021,Umfrage,Deutschland,YouGov,2021-08-27
+1748.0,23.07.–26.07.,FW,0.0,30,7,2021,Umfrage,Deutschland,YouGov,2021-07-30
+1648.0,25.06.–28.06.,FW,0.0,2,7,2021,Umfrage,Deutschland,YouGov,2021-07-02
+1706.0,21.05.–24.05.,FW,0.0,27,5,2021,Umfrage,Deutschland,YouGov,2021-05-27
+1643.0,23.04.–26.04.,FW,0.0,30,4,2021,Umfrage,Deutschland,YouGov,2021-04-30
+1637.0,25.03.–29.03.,FW,0.0,1,4,2021,Umfrage,Deutschland,YouGov,2021-04-01
+1619.0,18.02.–22.02.,FW,0.0,26,2,2021,Umfrage,Deutschland,YouGov,2021-02-26
+1606.0,29.01.–01.02.,FW,0.0,4,2,2021,Umfrage,Deutschland,YouGov,2021-02-04
+1588.0,30.12.–05.01.,FW,0.0,6,1,2021,Umfrage,Deutschland,YouGov,2021-01-06
+1632.0,19.11.–23.11.,FW,0.0,26,11,2020,Umfrage,Deutschland,YouGov,2020-11-26
+1656.0,22.10.–26.10.,FW,0.0,30,10,2020,Umfrage,Deutschland,YouGov,2020-10-30
+1623.0,19.09.–21.09.,FW,0.0,25,9,2020,Umfrage,Deutschland,YouGov,2020-09-25
+1611.0,20.08.–24.08.,FW,0.0,28,8,2020,Umfrage,Deutschland,YouGov,2020-08-28
+1623.0,30.07.–04.08.,FW,0.0,6,8,2020,Umfrage,Deutschland,YouGov,2020-08-06
+1636.0,18.06.–22.06.,FW,0.0,26,6,2020,Umfrage,Deutschland,YouGov,2020-06-26
+1584.0,20.05.–26.05.,FW,0.0,28,5,2020,Umfrage,Deutschland,YouGov,2020-05-28
+1636.0,23.04.–27.04.,FW,0.0,30,4,2020,Umfrage,Deutschland,YouGov,2020-04-30
+1615.0,27.03.–30.03.,FW,0.0,3,4,2020,Umfrage,Deutschland,YouGov,2020-04-03
+1632.0,28.02.–02.03.,FW,0.0,6,3,2020,Umfrage,Deutschland,YouGov,2020-03-06
+1586.0,13.12.–17.12.,FW,0.0,18,12,2019,Umfrage,Deutschland,YouGov,2019-12-18
+1648.0,22.11.–26.11.,FW,0.0,27,11,2019,Umfrage,Deutschland,YouGov,2019-11-27
+1583.0,31.10.–05.11.,FW,0.0,6,11,2019,Umfrage,Deutschland,YouGov,2019-11-06
+1573.0,27.09.–01.10.,FW,0.0,3,10,2019,Umfrage,Deutschland,YouGov,2019-10-03
+1632.0,06.09.–10.09.,FW,0.0,11,9,2019,Umfrage,Deutschland,YouGov,2019-09-11
+1594.0,26.07.–29.07.,FW,0.0,31,7,2019,Umfrage,Deutschland,YouGov,2019-07-31
+1644.0,28.06.–02.07.,FW,0.0,3,7,2019,Umfrage,Deutschland,YouGov,2019-07-03
+1609.0,17.05.–21.05.,FW,0.0,23,5,2019,Umfrage,Deutschland,YouGov,2019-05-23
+1642.0,26.04.–29.04.,FW,0.0,3,5,2019,Umfrage,Deutschland,YouGov,2019-05-03
+1633.0,22.03.–26.03.,FW,0.0,28,3,2019,Umfrage,Deutschland,YouGov,2019-03-28
+1620.0,22.02.–26.02.,FW,0.0,27,2,2019,Umfrage,Deutschland,YouGov,2019-02-27
+1578.0,25.01.–29.01.,FW,0.0,31,1,2019,Umfrage,Deutschland,YouGov,2019-01-31
+1665.0,21.12.–27.12.,FW,0.0,28,12,2018,Umfrage,Deutschland,YouGov,2018-12-28
+1580.0,23.11.–27.11.,FW,0.0,28,11,2018,Umfrage,Deutschland,YouGov,2018-11-28
+1542.0,28.10.–04.11.,FW,0.0,7,11,2018,Umfrage,Deutschland,YouGov,2018-11-07
+1504.0,21.09.–25.09.,FW,0.0,27,9,2018,Umfrage,Deutschland,YouGov,2018-09-27
+1538.0,24.08.–28.08.,FW,0.0,30,8,2018,Umfrage,Deutschland,YouGov,2018-08-30
+1520.0,20.07.–24.07.,FW,0.0,25,7,2018,Umfrage,Deutschland,YouGov,2018-07-25
+1525.0,22.06.–26.06.,FW,0.0,27,6,2018,Umfrage,Deutschland,YouGov,2018-06-27
+1556.0,25.05.–29.05.,FW,0.0,30,5,2018,Umfrage,Deutschland,YouGov,2018-05-30
+1573.0,20.04.–24.04.,FW,0.0,25,4,2018,Umfrage,Deutschland,YouGov,2018-04-25
+1579.0,23.03.–27.03.,FW,0.0,28,3,2018,Umfrage,Deutschland,YouGov,2018-03-28
+1585.0,26.02.–28.02.,FW,0.0,28,2,2018,Umfrage,Deutschland,YouGov,2018-02-28
+1566.0,19.01.–23.01.,FW,0.0,25,1,2018,Umfrage,Deutschland,YouGov,2018-01-25
+1489.0,25.12.–27.12.,FW,0.0,28,12,2017,Umfrage,Deutschland,YouGov,2017-12-28
+1570.0,24.11.–28.11.,FW,0.0,29,11,2017,Umfrage,Deutschland,YouGov,2017-11-29
+,,FW,1.0,24,9,2017,Wahl,Deutschland,YouGov,2017-09-24
+1862.0,15.09.–19.09.,FW,0.0,21,9,2017,Umfrage,Deutschland,YouGov,2017-09-21
+1600.0,08.09.–12.09.,FW,0.0,13,9,2017,Umfrage,Deutschland,YouGov,2017-09-13
+1617.0,04.09.–06.09.,FW,0.0,6,9,2017,Umfrage,Deutschland,YouGov,2017-09-06
+1557.0,25.08.–29.08.,FW,0.0,30,8,2017,Umfrage,Deutschland,YouGov,2017-08-30
+1520.0,18.08.–22.08.,FW,0.0,24,8,2017,Umfrage,Deutschland,YouGov,2017-08-24
+1538.0,11.08.–15.08.,FW,0.0,16,8,2017,Umfrage,Deutschland,YouGov,2017-08-16
+1513.0,04.08.–08.08.,FW,0.0,10,8,2017,Umfrage,Deutschland,YouGov,2017-08-10
+2000.0,28.07.–01.08.,FW,0.0,3,8,2017,Umfrage,Deutschland,YouGov,2017-08-03
+2000.0,21.07.–25.07.,FW,0.0,27,7,2017,Umfrage,Deutschland,YouGov,2017-07-27
+1535.0,10.07.–12.07.,FW,0.0,12,7,2017,Umfrage,Deutschland,YouGov,2017-07-12
+2000.0,26.06.–28.06.,FW,0.0,29,6,2017,Umfrage,Deutschland,YouGov,2017-06-29
+1523.0,19.06.–22.06.,FW,0.0,23,6,2017,Umfrage,Deutschland,YouGov,2017-06-23
+2040.0,29.05.–31.05.,FW,0.0,2,6,2017,Umfrage,Deutschland,YouGov,2017-06-02
+2000.0,15.05.–17.05.,FW,0.0,19,5,2017,Umfrage,Deutschland,YouGov,2017-05-19
+2010.0,08.05.–11.05.,FW,0.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
+1957.0,27.04.–02.05.,FW,0.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
+,,FW,1.0,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1614.0,03.01.–08.01.,Sonstige,7.0,11,1,2024,Umfrage,Deutschland,YouGov,2024-01-11
+1669.0,01.12.–06.12,Sonstige,7.0,8,12,2023,Umfrage,Deutschland,YouGov,2023-12-08
+1732.0,03.11.–07.11,Sonstige,7.0,10,11,2023,Umfrage,Deutschland,YouGov,2023-11-10
+1842.0,06.10.–10.10.,Sonstige,5.0,13,10,2023,Umfrage,Deutschland,YouGov,2023-10-13
+1833.0,01.09.–06.09.,Sonstige,8.0,8,9,2023,Umfrage,Deutschland,YouGov,2023-09-08
+1756.0,25.07.–02.08.,Sonstige,7.0,4,8,2023,Umfrage,Deutschland,YouGov,2023-08-04
+1694.0,30.06.–04.07.,Sonstige,6.0,7,7,2023,Umfrage,Deutschland,YouGov,2023-07-07
+1628.0,02.06.–07.06.,Sonstige,7.0,9,6,2023,Umfrage,Deutschland,YouGov,2023-06-09
+1700.0,05.05.–09.05.,Sonstige,7.0,12,5,2023,Umfrage,Deutschland,YouGov,2023-05-12
+1522.0,30.03.–04.04.,Sonstige,6.0,6,4,2023,Umfrage,Deutschland,YouGov,2023-04-06
+1649.0,03.03.–07.03.,Sonstige,6.0,10,3,2023,Umfrage,Deutschland,YouGov,2023-03-10
+1736.0,03.02.–09.02.,Sonstige,7.0,10,2,2023,Umfrage,Deutschland,YouGov,2023-02-10
+1561.0,06.01.–10.01.,Sonstige,6.0,13,1,2023,Umfrage,Deutschland,YouGov,2023-01-13
+1608.0,16.12.–21.12.,Sonstige,8.0,22,12,2022,Umfrage,Deutschland,YouGov,2022-12-22
+1608.0,04.11.–09.11.,Sonstige,5.0,11,11,2022,Umfrage,Deutschland,YouGov,2022-11-11
+1617.0,07.10.–12.10.,Sonstige,7.0,14,10,2022,Umfrage,Deutschland,YouGov,2022-10-14
+1635.0,09.09.–13.09.,Sonstige,7.0,16,9,2022,Umfrage,Deutschland,YouGov,2022-09-16
+1595.0,05.08.–10.08.,Sonstige,7.0,12,8,2022,Umfrage,Deutschland,YouGov,2022-08-12
+1655.0,01.07.–05.07.,Sonstige,8.0,8,7,2022,Umfrage,Deutschland,YouGov,2022-07-08
+1633.0,03.06.–07.06.,Sonstige,6.0,10,6,2022,Umfrage,Deutschland,YouGov,2022-06-10
+1659.0,06.05.–10.05.,Sonstige,7.0,12,5,2022,Umfrage,Deutschland,YouGov,2022-05-12
+1643.0,08.04.–12.04.,Sonstige,7.0,14,4,2022,Umfrage,Deutschland,YouGov,2022-04-14
+1629.0,04.03.–08.03.,Sonstige,7.0,11,3,2022,Umfrage,Deutschland,YouGov,2022-03-11
+1659.0,10.02.–15.02.,Sonstige,6.0,21,2,2022,Umfrage,Deutschland,YouGov,2022-02-21
+1602.0,21.01.–25.01.,Sonstige,7.0,28,1,2022,Umfrage,Deutschland,YouGov,2022-01-28
+1715.0,10.12.–14.12.,Sonstige,6.0,17,12,2021,Umfrage,Deutschland,YouGov,2021-12-17
+1797.0,19.11.–23.11.,Sonstige,5.0,26,11,2021,Umfrage,Deutschland,YouGov,2021-11-26
+,,Sonstige,6.3,26,9,2021,Wahl,Deutschland,YouGov,2021-09-26
+2364.0,16.09.–22.09.,Sonstige,7.0,23,9,2021,Umfrage,Deutschland,YouGov,2021-09-23
+1816.0,09.09.–14.09.,Sonstige,7.0,16,9,2021,Umfrage,Deutschland,YouGov,2021-09-16
 1700.0,03.09.–07.09.,Sonstige,10.0,10,9,2021,Umfrage,Deutschland,YouGov,2021-09-10
 1729.0,27.08.–31.08.,Sonstige,8.0,3,9,2021,Umfrage,Deutschland,YouGov,2021-09-03
 1689.0,20.08.–24.08.,Sonstige,7.0,27,8,2021,Umfrage,Deutschland,YouGov,2021-08-27
@@ -35160,7 +35499,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1566.0,19.01.–23.01.,Sonstige,4.0,25,1,2018,Umfrage,Deutschland,YouGov,2018-01-25
 1489.0,25.12.–27.12.,Sonstige,4.0,28,12,2017,Umfrage,Deutschland,YouGov,2017-12-28
 1570.0,24.11.–28.11.,Sonstige,5.0,29,11,2017,Umfrage,Deutschland,YouGov,2017-11-29
-,,Sonstige,5.0,24,9,2017,Wahl,Deutschland,YouGov,2017-09-24
+,,Sonstige,4.0,24,9,2017,Wahl,Deutschland,YouGov,2017-09-24
 1862.0,15.09.–19.09.,Sonstige,5.0,21,9,2017,Umfrage,Deutschland,YouGov,2017-09-21
 1600.0,08.09.–12.09.,Sonstige,4.0,13,9,2017,Umfrage,Deutschland,YouGov,2017-09-13
 1617.0,04.09.–06.09.,Sonstige,6.0,6,9,2017,Umfrage,Deutschland,YouGov,2017-09-06
@@ -35177,4 +35516,4 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,15.05.–17.05.,Sonstige,3.0,19,5,2017,Umfrage,Deutschland,YouGov,2017-05-19
 2010.0,08.05.–11.05.,Sonstige,5.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,Sonstige,5.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
-,,Sonstige,6.2,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+,,Sonstige,5.2,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
