@@ -13028,7 +13028,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,GRÜNE,8.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,GRÜNE,8.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
-2503.0,30.01.–04.02.,FDP,3.0,6,2,2024,Umfrage,Deutschland,Forsa,2024-02-06
+2503.0,30.01.–04.02.,FDP,4.0,6,2,2024,Umfrage,Deutschland,Forsa,2024-02-06
 2506.0,23.01.–29.01.,FDP,3.0,30,1,2024,Umfrage,Deutschland,Forsa,2024-01-30
 2503.0,16.01.–22.01.,FDP,4.0,23,1,2024,Umfrage,Deutschland,Forsa,2024-01-23
 2504.0,09.01.–15.01.,FDP,4.0,16,1,2024,Umfrage,Deutschland,Forsa,2024-01-16
@@ -15180,7 +15180,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,Sonstige,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,Sonstige,7.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,Sonstige,6.2,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
-2503.0,30.01.–04.02.,Nichtwähler/ Unentschl.,0.0,6,2,2024,Umfrage,Deutschland,Forsa,2024-02-06
+2503.0,30.01.–04.02.,Nichtwähler/ Unentschl.,25.0,6,2,2024,Umfrage,Deutschland,Forsa,2024-02-06
 2506.0,23.01.–29.01.,Nichtwähler/ Unentschl.,27.0,30,1,2024,Umfrage,Deutschland,Forsa,2024-01-30
 2503.0,16.01.–22.01.,Nichtwähler/ Unentschl.,0.0,23,1,2024,Umfrage,Deutschland,Forsa,2024-01-23
 2504.0,09.01.–15.01.,Nichtwähler/ Unentschl.,0.0,16,1,2024,Umfrage,Deutschland,Forsa,2024-01-16
