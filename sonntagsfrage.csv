@@ -1,4 +1,5 @@
 Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
+1053.0,03.02.–15.02.,CDU/CSU,32.0,22,2,2024,Umfrage,Deutschland,Allensbach,2024-02-22
 1018.0,05.01.–18.01.,CDU/CSU,34.0,25,1,2024,Umfrage,Deutschland,Allensbach,2024-01-25
 1013.0,01.12.–14.12.,CDU/CSU,34.0,21,12,2023,Umfrage,Deutschland,Allensbach,2023-12-21
 1047.0,03.11.–16.11.,CDU/CSU,32.0,23,11,2023,Umfrage,Deutschland,Allensbach,2023-11-23
@@ -80,6 +81,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,CDU/CSU,33.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,CDU/CSU,33.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1053.0,03.02.–15.02.,SPD,15.0,22,2,2024,Umfrage,Deutschland,Allensbach,2024-02-22
 1018.0,05.01.–18.01.,SPD,15.0,25,1,2024,Umfrage,Deutschland,Allensbach,2024-01-25
 1013.0,01.12.–14.12.,SPD,17.0,21,12,2023,Umfrage,Deutschland,Allensbach,2023-12-21
 1047.0,03.11.–16.11.,SPD,17.0,23,11,2023,Umfrage,Deutschland,Allensbach,2023-11-23
@@ -161,6 +163,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,SPD,21.5,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,SPD,20.5,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1053.0,03.02.–15.02.,GRÜNE,14.0,22,2,2024,Umfrage,Deutschland,Allensbach,2024-02-22
 1018.0,05.01.–18.01.,GRÜNE,13.5,25,1,2024,Umfrage,Deutschland,Allensbach,2024-01-25
 1013.0,01.12.–14.12.,GRÜNE,15.0,21,12,2023,Umfrage,Deutschland,Allensbach,2023-12-21
 1047.0,03.11.–16.11.,GRÜNE,13.5,23,11,2023,Umfrage,Deutschland,Allensbach,2023-11-23
@@ -242,6 +245,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,GRÜNE,11.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,GRÜNE,9.5,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1053.0,03.02.–15.02.,FDP,6.0,22,2,2024,Umfrage,Deutschland,Allensbach,2024-02-22
 1018.0,05.01.–18.01.,FDP,6.0,25,1,2024,Umfrage,Deutschland,Allensbach,2024-01-25
 1013.0,01.12.–14.12.,FDP,5.0,21,12,2023,Umfrage,Deutschland,Allensbach,2023-12-21
 1047.0,03.11.–16.11.,FDP,6.0,23,11,2023,Umfrage,Deutschland,Allensbach,2023-11-23
@@ -323,6 +327,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,FDP,10.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,FDP,12.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1053.0,03.02.–15.02.,LINKE,3.0,22,2,2024,Umfrage,Deutschland,Allensbach,2024-02-22
 1018.0,05.01.–18.01.,LINKE,4.0,25,1,2024,Umfrage,Deutschland,Allensbach,2024-01-25
 1013.0,01.12.–14.12.,LINKE,3.5,21,12,2023,Umfrage,Deutschland,Allensbach,2023-12-21
 1047.0,03.11.–16.11.,LINKE,3.5,23,11,2023,Umfrage,Deutschland,Allensbach,2023-11-23
@@ -404,6 +409,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,LINKE,9.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,LINKE,9.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1053.0,03.02.–15.02.,AfD,18.0,22,2,2024,Umfrage,Deutschland,Allensbach,2024-02-22
 1018.0,05.01.–18.01.,AfD,19.5,25,1,2024,Umfrage,Deutschland,Allensbach,2024-01-25
 1013.0,01.12.–14.12.,AfD,18.0,21,12,2023,Umfrage,Deutschland,Allensbach,2023-12-21
 1047.0,03.11.–16.11.,AfD,19.0,23,11,2023,Umfrage,Deutschland,Allensbach,2023-11-23
@@ -485,6 +491,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,AfD,11.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,AfD,12.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1053.0,03.02.–15.02.,Sonstige,12.0,22,2,2024,Umfrage,Deutschland,Allensbach,2024-02-22
 1018.0,05.01.–18.01.,Sonstige,8.0,25,1,2024,Umfrage,Deutschland,Allensbach,2024-01-25
 1013.0,01.12.–14.12.,Sonstige,7.5,21,12,2023,Umfrage,Deutschland,Allensbach,2023-12-21
 1047.0,03.11.–16.11.,Sonstige,4.0,23,11,2023,Umfrage,Deutschland,Allensbach,2023-11-23
