@@ -21298,6 +21298,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,16,4,1998,Umfrage,Deutschland,Forsa,1998-04-16
 ,,Sonstige,5.0,8,4,1998,Umfrage,Deutschland,Forsa,1998-04-08
 ,,Sonstige,5.0,2,4,1998,Umfrage,Deutschland,Forsa,1998-04-02
+1294.0,20.02.–22.02.,CDU/CSU,30.0,23,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-23
 1217.0,30.01.–01.02.,CDU/CSU,31.0,2,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-02
 1337.0,09.01.–11.01.,CDU/CSU,31.0,12,1,2024,Umfrage,Deutschland,Politbarometer,2024-01-12
 1146.0,12.12.–14.12.,CDU/CSU,32.0,15,12,2023,Umfrage,Deutschland,Politbarometer,2023-12-15
@@ -21421,6 +21422,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,CDU/CSU,31.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,CDU/CSU,32.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1294.0,20.02.–22.02.,SPD,15.0,23,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-23
 1217.0,30.01.–01.02.,SPD,15.0,2,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-02
 1337.0,09.01.–11.01.,SPD,13.0,12,1,2024,Umfrage,Deutschland,Politbarometer,2024-01-12
 1146.0,12.12.–14.12.,SPD,14.0,15,12,2023,Umfrage,Deutschland,Politbarometer,2023-12-15
@@ -21544,6 +21546,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,SPD,21.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,SPD,21.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1294.0,20.02.–22.02.,GRÜNE,14.0,23,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-23
 1217.0,30.01.–01.02.,GRÜNE,13.0,2,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-02
 1337.0,09.01.–11.01.,GRÜNE,14.0,12,1,2024,Umfrage,Deutschland,Politbarometer,2024-01-12
 1146.0,12.12.–14.12.,GRÜNE,14.0,15,12,2023,Umfrage,Deutschland,Politbarometer,2023-12-15
@@ -21667,6 +21670,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,GRÜNE,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,GRÜNE,11.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1294.0,20.02.–22.02.,FDP,4.0,23,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-23
 1217.0,30.01.–01.02.,FDP,4.0,2,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-02
 1337.0,09.01.–11.01.,FDP,4.0,12,1,2024,Umfrage,Deutschland,Politbarometer,2024-01-12
 1146.0,12.12.–14.12.,FDP,5.0,15,12,2023,Umfrage,Deutschland,Politbarometer,2023-12-15
@@ -21790,6 +21794,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FDP,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FDP,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1294.0,20.02.–22.02.,LINKE,4.0,23,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-23
 1217.0,30.01.–01.02.,LINKE,3.0,2,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-02
 1337.0,09.01.–11.01.,LINKE,4.0,12,1,2024,Umfrage,Deutschland,Politbarometer,2024-01-12
 1146.0,12.12.–14.12.,LINKE,4.0,15,12,2023,Umfrage,Deutschland,Politbarometer,2023-12-15
@@ -21913,6 +21918,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,LINKE,10.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,LINKE,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1294.0,20.02.–22.02.,AfD,19.0,23,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-23
 1217.0,30.01.–01.02.,AfD,19.0,2,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-02
 1337.0,09.01.–11.01.,AfD,22.0,12,1,2024,Umfrage,Deutschland,Politbarometer,2024-01-12
 1146.0,12.12.–14.12.,AfD,22.0,15,12,2023,Umfrage,Deutschland,Politbarometer,2023-12-15
@@ -22036,6 +22042,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,AfD,12.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,AfD,12.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1294.0,20.02.–22.02.,Sonstige,14.0,23,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-23
 1217.0,30.01.–01.02.,Sonstige,15.0,2,2,2024,Umfrage,Deutschland,Politbarometer,2024-02-02
 1337.0,09.01.–11.01.,Sonstige,12.0,12,1,2024,Umfrage,Deutschland,Politbarometer,2024-01-12
 1146.0,12.12.–14.12.,Sonstige,9.0,15,12,2023,Umfrage,Deutschland,Politbarometer,2023-12-15
