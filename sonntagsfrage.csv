@@ -32650,6 +32650,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.0,18,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-18
 ,,Sonstige,3.0,11,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-11
 ,,Sonstige,3.0,4,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-04
+2079.0,08.03.–11.03.,CDU/CSU,31.0,11,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-11
 1249.0,04.03.–08.03.,CDU/CSU,31.0,9,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-09
 2004.0,01.03.–04.03.,CDU/CSU,30.5,4,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-04
 1200.0,26.02.–01.03.,CDU/CSU,30.0,2,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-02
@@ -32904,6 +32905,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,CDU/CSU,21.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,CDU/CSU,21.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,CDU/CSU,24.1,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2079.0,08.03.–11.03.,SPD,14.5,11,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-11
 1249.0,04.03.–08.03.,SPD,15.0,9,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-09
 2004.0,01.03.–04.03.,SPD,14.5,4,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-04
 1200.0,26.02.–01.03.,SPD,15.0,2,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-02
@@ -33158,6 +33160,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,SPD,28.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,SPD,28.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,SPD,25.7,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2079.0,08.03.–11.03.,GRÜNE,12.5,11,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-11
 1249.0,04.03.–08.03.,GRÜNE,12.0,9,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-09
 2004.0,01.03.–04.03.,GRÜNE,13.0,4,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-04
 1200.0,26.02.–01.03.,GRÜNE,13.0,2,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-02
@@ -33412,6 +33415,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,GRÜNE,15.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,GRÜNE,16.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,GRÜNE,14.8,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2079.0,08.03.–11.03.,FDP,5.5,11,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-11
 1249.0,04.03.–08.03.,FDP,5.0,9,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-09
 2004.0,01.03.–04.03.,FDP,5.5,4,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-04
 1200.0,26.02.–01.03.,FDP,5.0,2,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-02
@@ -33666,6 +33670,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,FDP,13.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,FDP,12.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,FDP,11.5,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2079.0,08.03.–11.03.,LINKE,3.5,11,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-11
 1249.0,04.03.–08.03.,LINKE,3.0,9,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-09
 2004.0,01.03.–04.03.,LINKE,3.0,4,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-04
 1200.0,26.02.–01.03.,LINKE,3.0,2,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-02
@@ -33920,6 +33925,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,LINKE,4.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,LINKE,5.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,LINKE,4.9,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2079.0,08.03.–11.03.,FW,2.5,11,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-11
 1249.0,04.03.–08.03.,FW,2.0,9,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-09
 2004.0,01.03.–04.03.,FW,2.5,4,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-04
 1200.0,26.02.–01.03.,FW,3.0,2,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-02
@@ -34174,6 +34180,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,FW,0.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,FW,0.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,FW,2.4,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2079.0,08.03.–11.03.,AfD,18.5,11,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-11
 1249.0,04.03.–08.03.,AfD,19.0,9,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-09
 2004.0,01.03.–04.03.,AfD,19.5,4,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-04
 1200.0,26.02.–01.03.,AfD,19.0,2,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-02
@@ -34428,6 +34435,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,AfD,10.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,AfD,10.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,AfD,10.3,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2079.0,08.03.–11.03.,BSW,6.5,11,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-11
 1249.0,04.03.–08.03.,BSW,7.0,9,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-09
 2004.0,01.03.–04.03.,BSW,6.5,4,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-04
 1200.0,26.02.–01.03.,BSW,7.0,2,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-02
@@ -34682,6 +34690,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,BSW,0.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,BSW,0.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,BSW,0.0,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2079.0,08.03.–11.03.,Sonstige,5.5,11,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-11
 1249.0,04.03.–08.03.,Sonstige,6.0,9,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-09
 2004.0,01.03.–04.03.,Sonstige,5.0,4,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-04
 1200.0,26.02.–01.03.,Sonstige,5.0,2,3,2024,Umfrage,Deutschland,INSA / YouGov,2024-03-02
