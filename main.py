@@ -92,6 +92,7 @@ for row in urls:
     # Konvertiere die Prozentangaben zu floats
     data.Ergebnis = data.Ergebnis.apply(convert_percentage_to_float)
     data.Ergebnis = data.Ergebnis / 100
+    data.Ergebnis = data.Ergebnis.apply(lambda x: x if x > 0 else np.nan)
 
     # Ergänze die Spalte Befragte, falls diese nicht existiert
     if "Befragte" not in data:
