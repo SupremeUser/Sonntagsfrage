@@ -2363,6 +2363,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.9,20,5,1998,Umfrage,Deutschland,Allensbach,1998-05-20
 ,,Sonstige,1.2,29,4,1998,Umfrage,Deutschland,Allensbach,1998-04-29
 ,,Sonstige,1.8,25,3,1998,Umfrage,Deutschland,Allensbach,1998-03-25
+1480.0,13.03.–19.03.,CDU/CSU,29.0,22,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-22
 1392.0,21.02.–27.02.,CDU/CSU,30.0,2,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-02
 1505.0,14.02.–20.02.,CDU/CSU,29.0,24,2,2024,Umfrage,Deutschland,Kantar (Emnid),2024-02-24
 1922.0,16.01.–23.01.,CDU/CSU,29.0,27,1,2024,Umfrage,Deutschland,Kantar (Emnid),2024-01-27
@@ -2886,6 +2887,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,CDU/CSU,42.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,CDU/CSU,43.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1480.0,13.03.–19.03.,SPD,17.0,22,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-22
 1392.0,21.02.–27.02.,SPD,16.0,2,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-02
 1505.0,14.02.–20.02.,SPD,16.0,24,2,2024,Umfrage,Deutschland,Kantar (Emnid),2024-02-24
 1922.0,16.01.–23.01.,SPD,16.0,27,1,2024,Umfrage,Deutschland,Kantar (Emnid),2024-01-27
@@ -3409,6 +3411,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,SPD,25.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,SPD,26.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1480.0,13.03.–19.03.,GRÜNE,15.0,22,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-22
 1392.0,21.02.–27.02.,GRÜNE,15.0,2,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-02
 1505.0,14.02.–20.02.,GRÜNE,15.0,24,2,2024,Umfrage,Deutschland,Kantar (Emnid),2024-02-24
 1922.0,16.01.–23.01.,GRÜNE,16.0,27,1,2024,Umfrage,Deutschland,Kantar (Emnid),2024-01-27
@@ -3932,6 +3935,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,GRÜNE,8.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,GRÜNE,7.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1480.0,13.03.–19.03.,FDP,5.0,22,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-22
 1392.0,21.02.–27.02.,FDP,5.0,2,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-02
 1505.0,14.02.–20.02.,FDP,4.0,24,2,2024,Umfrage,Deutschland,Kantar (Emnid),2024-02-24
 1922.0,16.01.–23.01.,FDP,4.0,27,1,2024,Umfrage,Deutschland,Kantar (Emnid),2024-01-27
@@ -4455,6 +4459,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FDP,4.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FDP,3.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1480.0,13.03.–19.03.,LINKE,3.0,22,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-22
 1392.0,21.02.–27.02.,LINKE,3.0,2,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-02
 1505.0,14.02.–20.02.,LINKE,3.0,24,2,2024,Umfrage,Deutschland,Kantar (Emnid),2024-02-24
 1922.0,16.01.–23.01.,LINKE,4.0,27,1,2024,Umfrage,Deutschland,Kantar (Emnid),2024-01-27
@@ -4978,6 +4983,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,LINKE,9.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,LINKE,9.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1480.0,13.03.–19.03.,AfD,18.0,22,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-22
 1392.0,21.02.–27.02.,AfD,18.0,2,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-02
 1505.0,14.02.–20.02.,AfD,19.0,24,2,2024,Umfrage,Deutschland,Kantar (Emnid),2024-02-24
 1922.0,16.01.–23.01.,AfD,19.0,27,1,2024,Umfrage,Deutschland,Kantar (Emnid),2024-01-27
@@ -5501,6 +5507,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,AfD,6.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,AfD,6.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1480.0,13.03.–19.03.,Sonstige,13.0,22,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-22
 1392.0,21.02.–27.02.,Sonstige,13.0,2,3,2024,Umfrage,Deutschland,Kantar (Emnid),2024-03-02
 1505.0,14.02.–20.02.,Sonstige,14.0,24,2,2024,Umfrage,Deutschland,Kantar (Emnid),2024-02-24
 1922.0,16.01.–23.01.,Sonstige,12.0,27,1,2024,Umfrage,Deutschland,Kantar (Emnid),2024-01-27
