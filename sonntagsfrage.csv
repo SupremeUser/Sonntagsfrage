@@ -12699,6 +12699,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,17,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-17
 ,,Sonstige,7.0,10,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-10
 ,,Sonstige,7.0,3,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-03
+2506.0,28.05.–03.06.,CDU/CSU,30.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,CDU/CSU,30.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,CDU/CSU,32.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,CDU/CSU,32.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
@@ -13253,6 +13254,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,CDU/CSU,45.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,CDU/CSU,42.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2506.0,28.05.–03.06.,SPD,17.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,SPD,16.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,SPD,16.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,SPD,16.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
@@ -13807,6 +13809,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,SPD,24.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,SPD,25.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2506.0,28.05.–03.06.,GRÜNE,13.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,GRÜNE,13.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,GRÜNE,14.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,GRÜNE,13.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
@@ -14361,6 +14364,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,GRÜNE,8.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,GRÜNE,8.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2506.0,28.05.–03.06.,FDP,6.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,FDP,6.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,FDP,5.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,FDP,5.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
@@ -14915,6 +14919,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,FDP,3.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,FDP,4.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2506.0,28.05.–03.06.,LINKE,0.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,LINKE,0.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,LINKE,0.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,LINKE,3.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
@@ -15469,6 +15474,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,LINKE,8.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,LINKE,9.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2506.0,28.05.–03.06.,AfD,15.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,AfD,15.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,AfD,15.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,AfD,15.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
@@ -16023,6 +16029,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,AfD,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,AfD,5.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2506.0,28.05.–03.06.,FW,0.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,FW,0.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,FW,0.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,FW,0.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
@@ -16577,6 +16584,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,FW,0.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,FW,0.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,FW,1.0,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2506.0,28.05.–03.06.,BSW,6.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,BSW,6.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,BSW,5.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,BSW,5.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
@@ -17131,6 +17139,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,BSW,0.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,BSW,0.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,BSW,0.0,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2506.0,28.05.–03.06.,Sonstige,13.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,Sonstige,14.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,Sonstige,13.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,Sonstige,11.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
@@ -17685,6 +17694,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,Sonstige,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,Sonstige,7.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,Sonstige,5.300000000000001,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2506.0,28.05.–03.06.,Nichtwähler/ Unentschl.,22.0,4,6,2024,Umfrage,Deutschland,Forsa,2024-06-04
 2503.0,21.05.–27.05.,Nichtwähler/ Unentschl.,22.0,28,5,2024,Umfrage,Deutschland,Forsa,2024-05-28
 2001.0,14.05.–17.05.,Nichtwähler/ Unentschl.,0.0,21,5,2024,Umfrage,Deutschland,Forsa,2024-05-21
 2006.0,07.05.–13.05.,Nichtwähler/ Unentschl.,23.0,14,5,2024,Umfrage,Deutschland,Forsa,2024-05-14
