@@ -36196,6 +36196,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.0,18,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-18
 ,,Sonstige,3.0,11,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-11
 ,,Sonstige,3.0,4,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-04
+2002.0,30.08.–02.09.,CDU/CSU,31.5,2,9,2024,Umfrage,Deutschland,INSA / YouGov,2024-09-02
 1202.0,26.08.–30.08.,CDU/CSU,31.0,31,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-31
 2004.0,23.08.–26.08.,CDU/CSU,31.5,26,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-26
 1202.0,19.08.–23.08.,CDU/CSU,31.0,24,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-24
@@ -36500,6 +36501,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,CDU/CSU,21.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,CDU/CSU,21.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,CDU/CSU,24.1,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2002.0,30.08.–02.09.,SPD,15.0,2,9,2024,Umfrage,Deutschland,INSA / YouGov,2024-09-02
 1202.0,26.08.–30.08.,SPD,16.0,31,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-31
 2004.0,23.08.–26.08.,SPD,15.0,26,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-26
 1202.0,19.08.–23.08.,SPD,16.0,24,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-24
@@ -36804,6 +36806,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,SPD,28.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,SPD,28.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,SPD,25.7,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2002.0,30.08.–02.09.,GRÜNE,10.5,2,9,2024,Umfrage,Deutschland,INSA / YouGov,2024-09-02
 1202.0,26.08.–30.08.,GRÜNE,11.0,31,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-31
 2004.0,23.08.–26.08.,GRÜNE,11.5,26,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-26
 1202.0,19.08.–23.08.,GRÜNE,11.0,24,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-24
@@ -37108,6 +37111,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,GRÜNE,15.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,GRÜNE,16.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,GRÜNE,14.8,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2002.0,30.08.–02.09.,FDP,4.5,2,9,2024,Umfrage,Deutschland,INSA / YouGov,2024-09-02
 1202.0,26.08.–30.08.,FDP,4.0,31,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-31
 2004.0,23.08.–26.08.,FDP,5.5,26,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-26
 1202.0,19.08.–23.08.,FDP,5.0,24,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-24
@@ -37412,6 +37416,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,FDP,13.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,FDP,12.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,FDP,11.5,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2002.0,30.08.–02.09.,LINKE,2.5,2,9,2024,Umfrage,Deutschland,INSA / YouGov,2024-09-02
 1202.0,26.08.–30.08.,LINKE,3.0,31,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-31
 2004.0,23.08.–26.08.,LINKE,3.0,26,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-26
 1202.0,19.08.–23.08.,LINKE,3.0,24,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-24
@@ -37716,6 +37721,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,LINKE,4.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,LINKE,5.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,LINKE,4.9,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2002.0,30.08.–02.09.,FW,0.0,2,9,2024,Umfrage,Deutschland,INSA / YouGov,2024-09-02
 1202.0,26.08.–30.08.,FW,0.0,31,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-31
 2004.0,23.08.–26.08.,FW,0.0,26,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-26
 1202.0,19.08.–23.08.,FW,0.0,24,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-24
@@ -38020,6 +38026,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,FW,0.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,FW,0.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,FW,2.4,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2002.0,30.08.–02.09.,AfD,19.0,2,9,2024,Umfrage,Deutschland,INSA / YouGov,2024-09-02
 1202.0,26.08.–30.08.,AfD,19.0,31,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-31
 2004.0,23.08.–26.08.,AfD,18.5,26,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-26
 1202.0,19.08.–23.08.,AfD,18.0,24,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-24
@@ -38324,6 +38331,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,AfD,10.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,AfD,10.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,AfD,10.3,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2002.0,30.08.–02.09.,BSW,9.5,2,9,2024,Umfrage,Deutschland,INSA / YouGov,2024-09-02
 1202.0,26.08.–30.08.,BSW,9.0,31,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-31
 2004.0,23.08.–26.08.,BSW,9.0,26,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-26
 1202.0,19.08.–23.08.,BSW,9.0,24,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-24
@@ -38628,6 +38636,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,BSW,0.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,BSW,0.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,BSW,0.0,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+2002.0,30.08.–02.09.,Sonstige,7.5,2,9,2024,Umfrage,Deutschland,INSA / YouGov,2024-09-02
 1202.0,26.08.–30.08.,Sonstige,7.0,31,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-31
 2004.0,23.08.–26.08.,Sonstige,6.0,26,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-26
 1202.0,19.08.–23.08.,Sonstige,7.0,24,8,2024,Umfrage,Deutschland,INSA / YouGov,2024-08-24
