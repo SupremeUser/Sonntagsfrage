@@ -2574,6 +2574,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.9,20,5,1998,Umfrage,Deutschland,Allensbach,1998-05-20
 ,,Sonstige,1.2,29,4,1998,Umfrage,Deutschland,Allensbach,1998-04-29
 ,,Sonstige,1.8,25,3,1998,Umfrage,Deutschland,Allensbach,1998-03-25
+1427.0,28.08.–03.09.,CDU/CSU,31.0,6,9,2024,Umfrage,Deutschland,Kantar (Emnid),2024-09-06
 1449.0,31.07.–06.08.,CDU/CSU,31.0,9,8,2024,Umfrage,Deutschland,Kantar (Emnid),2024-08-09
 1486.0,03.07.–09.07.,CDU/CSU,31.0,12,7,2024,Umfrage,Deutschland,Kantar (Emnid),2024-07-12
 1425.0,05.06.–11.06.,CDU/CSU,30.0,12,6,2024,Umfrage,Deutschland,Kantar (Emnid),2024-06-12
@@ -3103,6 +3104,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,CDU/CSU,42.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,CDU/CSU,43.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1427.0,28.08.–03.09.,SPD,15.0,6,9,2024,Umfrage,Deutschland,Kantar (Emnid),2024-09-06
 1449.0,31.07.–06.08.,SPD,16.0,9,8,2024,Umfrage,Deutschland,Kantar (Emnid),2024-08-09
 1486.0,03.07.–09.07.,SPD,15.0,12,7,2024,Umfrage,Deutschland,Kantar (Emnid),2024-07-12
 1425.0,05.06.–11.06.,SPD,16.0,12,6,2024,Umfrage,Deutschland,Kantar (Emnid),2024-06-12
@@ -3632,6 +3634,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,SPD,25.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,SPD,26.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1427.0,28.08.–03.09.,GRÜNE,12.0,6,9,2024,Umfrage,Deutschland,Kantar (Emnid),2024-09-06
 1449.0,31.07.–06.08.,GRÜNE,13.0,9,8,2024,Umfrage,Deutschland,Kantar (Emnid),2024-08-09
 1486.0,03.07.–09.07.,GRÜNE,13.0,12,7,2024,Umfrage,Deutschland,Kantar (Emnid),2024-07-12
 1425.0,05.06.–11.06.,GRÜNE,13.0,12,6,2024,Umfrage,Deutschland,Kantar (Emnid),2024-06-12
@@ -4161,6 +4164,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,GRÜNE,8.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,GRÜNE,7.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1427.0,28.08.–03.09.,FDP,4.0,6,9,2024,Umfrage,Deutschland,Kantar (Emnid),2024-09-06
 1449.0,31.07.–06.08.,FDP,5.0,9,8,2024,Umfrage,Deutschland,Kantar (Emnid),2024-08-09
 1486.0,03.07.–09.07.,FDP,5.0,12,7,2024,Umfrage,Deutschland,Kantar (Emnid),2024-07-12
 1425.0,05.06.–11.06.,FDP,5.0,12,6,2024,Umfrage,Deutschland,Kantar (Emnid),2024-06-12
@@ -4690,6 +4694,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FDP,4.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FDP,3.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1427.0,28.08.–03.09.,LINKE,3.0,6,9,2024,Umfrage,Deutschland,Kantar (Emnid),2024-09-06
 1449.0,31.07.–06.08.,LINKE,3.0,9,8,2024,Umfrage,Deutschland,Kantar (Emnid),2024-08-09
 1486.0,03.07.–09.07.,LINKE,3.0,12,7,2024,Umfrage,Deutschland,Kantar (Emnid),2024-07-12
 1425.0,05.06.–11.06.,LINKE,3.0,12,6,2024,Umfrage,Deutschland,Kantar (Emnid),2024-06-12
@@ -5219,6 +5224,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,LINKE,9.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,LINKE,9.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1427.0,28.08.–03.09.,AfD,17.0,6,9,2024,Umfrage,Deutschland,Kantar (Emnid),2024-09-06
 1449.0,31.07.–06.08.,AfD,16.0,9,8,2024,Umfrage,Deutschland,Kantar (Emnid),2024-08-09
 1486.0,03.07.–09.07.,AfD,16.0,12,7,2024,Umfrage,Deutschland,Kantar (Emnid),2024-07-12
 1425.0,05.06.–11.06.,AfD,17.0,12,6,2024,Umfrage,Deutschland,Kantar (Emnid),2024-06-12
@@ -5748,6 +5754,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,AfD,6.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,AfD,6.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1427.0,28.08.–03.09.,FW,0.0,6,9,2024,Umfrage,Deutschland,Kantar (Emnid),2024-09-06
 1449.0,31.07.–06.08.,FW,0.0,9,8,2024,Umfrage,Deutschland,Kantar (Emnid),2024-08-09
 1486.0,03.07.–09.07.,FW,0.0,12,7,2024,Umfrage,Deutschland,Kantar (Emnid),2024-07-12
 1425.0,05.06.–11.06.,FW,3.0,12,6,2024,Umfrage,Deutschland,Kantar (Emnid),2024-06-12
@@ -6277,6 +6284,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FW,0.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FW,0.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FW,1.0,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1427.0,28.08.–03.09.,BSW,8.0,6,9,2024,Umfrage,Deutschland,Kantar (Emnid),2024-09-06
 1449.0,31.07.–06.08.,BSW,7.0,9,8,2024,Umfrage,Deutschland,Kantar (Emnid),2024-08-09
 1486.0,03.07.–09.07.,BSW,7.0,12,7,2024,Umfrage,Deutschland,Kantar (Emnid),2024-07-12
 1425.0,05.06.–11.06.,BSW,6.0,12,6,2024,Umfrage,Deutschland,Kantar (Emnid),2024-06-12
@@ -6806,6 +6814,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,BSW,0.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,BSW,0.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,BSW,0.0,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1427.0,28.08.–03.09.,Sonstige,10.0,6,9,2024,Umfrage,Deutschland,Kantar (Emnid),2024-09-06
 1449.0,31.07.–06.08.,Sonstige,9.0,9,8,2024,Umfrage,Deutschland,Kantar (Emnid),2024-08-09
 1486.0,03.07.–09.07.,Sonstige,10.0,12,7,2024,Umfrage,Deutschland,Kantar (Emnid),2024-07-12
 1425.0,05.06.–11.06.,Sonstige,7.0,12,6,2024,Umfrage,Deutschland,Kantar (Emnid),2024-06-12
@@ -23990,6 +23999,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,16,4,1998,Umfrage,Deutschland,Forsa,1998-04-16
 ,,Sonstige,5.0,8,4,1998,Umfrage,Deutschland,Forsa,1998-04-08
 ,,Sonstige,5.0,2,4,1998,Umfrage,Deutschland,Forsa,1998-04-02
+1328.0,03.09.–05.09.,CDU/CSU,33.0,6,9,2024,Umfrage,Deutschland,Politbarometer,2024-09-06
 1334.0,12.08.–14.08.,CDU/CSU,32.0,15,8,2024,Umfrage,Deutschland,Politbarometer,2024-08-15
 1341.0,09.07.–11.07.,CDU/CSU,32.0,12,7,2024,Umfrage,Deutschland,Politbarometer,2024-07-12
 1186.0,25.06.–27.06.,CDU/CSU,31.0,28,6,2024,Umfrage,Deutschland,Politbarometer,2024-06-28
@@ -24123,6 +24133,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,CDU/CSU,31.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,CDU/CSU,32.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1328.0,03.09.–05.09.,SPD,15.0,6,9,2024,Umfrage,Deutschland,Politbarometer,2024-09-06
 1334.0,12.08.–14.08.,SPD,14.0,15,8,2024,Umfrage,Deutschland,Politbarometer,2024-08-15
 1341.0,09.07.–11.07.,SPD,14.0,12,7,2024,Umfrage,Deutschland,Politbarometer,2024-07-12
 1186.0,25.06.–27.06.,SPD,14.0,28,6,2024,Umfrage,Deutschland,Politbarometer,2024-06-28
@@ -24256,6 +24267,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,SPD,21.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,SPD,21.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1328.0,03.09.–05.09.,GRÜNE,11.0,6,9,2024,Umfrage,Deutschland,Politbarometer,2024-09-06
 1334.0,12.08.–14.08.,GRÜNE,13.0,15,8,2024,Umfrage,Deutschland,Politbarometer,2024-08-15
 1341.0,09.07.–11.07.,GRÜNE,13.0,12,7,2024,Umfrage,Deutschland,Politbarometer,2024-07-12
 1186.0,25.06.–27.06.,GRÜNE,13.0,28,6,2024,Umfrage,Deutschland,Politbarometer,2024-06-28
@@ -24389,6 +24401,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,GRÜNE,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,GRÜNE,11.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1328.0,03.09.–05.09.,FDP,4.0,6,9,2024,Umfrage,Deutschland,Politbarometer,2024-09-06
 1334.0,12.08.–14.08.,FDP,4.0,15,8,2024,Umfrage,Deutschland,Politbarometer,2024-08-15
 1341.0,09.07.–11.07.,FDP,4.0,12,7,2024,Umfrage,Deutschland,Politbarometer,2024-07-12
 1186.0,25.06.–27.06.,FDP,4.0,28,6,2024,Umfrage,Deutschland,Politbarometer,2024-06-28
@@ -24522,6 +24535,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FDP,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FDP,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1328.0,03.09.–05.09.,LINKE,4.0,6,9,2024,Umfrage,Deutschland,Politbarometer,2024-09-06
 1334.0,12.08.–14.08.,LINKE,3.0,15,8,2024,Umfrage,Deutschland,Politbarometer,2024-08-15
 1341.0,09.07.–11.07.,LINKE,3.0,12,7,2024,Umfrage,Deutschland,Politbarometer,2024-07-12
 1186.0,25.06.–27.06.,LINKE,3.0,28,6,2024,Umfrage,Deutschland,Politbarometer,2024-06-28
@@ -24655,6 +24669,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,LINKE,10.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,LINKE,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1328.0,03.09.–05.09.,AfD,17.0,6,9,2024,Umfrage,Deutschland,Politbarometer,2024-09-06
 1334.0,12.08.–14.08.,AfD,16.0,15,8,2024,Umfrage,Deutschland,Politbarometer,2024-08-15
 1341.0,09.07.–11.07.,AfD,17.0,12,7,2024,Umfrage,Deutschland,Politbarometer,2024-07-12
 1186.0,25.06.–27.06.,AfD,17.0,28,6,2024,Umfrage,Deutschland,Politbarometer,2024-06-28
@@ -24788,6 +24803,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,AfD,12.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,AfD,12.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1328.0,03.09.–05.09.,FW,0.0,6,9,2024,Umfrage,Deutschland,Politbarometer,2024-09-06
 1334.0,12.08.–14.08.,FW,0.0,15,8,2024,Umfrage,Deutschland,Politbarometer,2024-08-15
 1341.0,09.07.–11.07.,FW,0.0,12,7,2024,Umfrage,Deutschland,Politbarometer,2024-07-12
 1186.0,25.06.–27.06.,FW,0.0,28,6,2024,Umfrage,Deutschland,Politbarometer,2024-06-28
@@ -24921,6 +24937,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1328.0,03.09.–05.09.,BSW,7.0,6,9,2024,Umfrage,Deutschland,Politbarometer,2024-09-06
 1334.0,12.08.–14.08.,BSW,8.0,15,8,2024,Umfrage,Deutschland,Politbarometer,2024-08-15
 1341.0,09.07.–11.07.,BSW,7.0,12,7,2024,Umfrage,Deutschland,Politbarometer,2024-07-12
 1186.0,25.06.–27.06.,BSW,7.0,28,6,2024,Umfrage,Deutschland,Politbarometer,2024-06-28
@@ -25054,6 +25071,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,BSW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,BSW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1328.0,03.09.–05.09.,Sonstige,9.0,6,9,2024,Umfrage,Deutschland,Politbarometer,2024-09-06
 1334.0,12.08.–14.08.,Sonstige,10.0,15,8,2024,Umfrage,Deutschland,Politbarometer,2024-08-15
 1341.0,09.07.–11.07.,Sonstige,10.0,12,7,2024,Umfrage,Deutschland,Politbarometer,2024-07-12
 1186.0,25.06.–27.06.,Sonstige,11.0,28,6,2024,Umfrage,Deutschland,Politbarometer,2024-06-28
