@@ -29704,6 +29704,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1501.0,10.06.–16.06.,Sonstige,3.5,19,6,2002,Umfrage,Deutschland,GMS,2002-06-19
 1524.0,08.04.–14.04.,Sonstige,3.0,18,4,2002,Umfrage,Deutschland,GMS,2002-04-18
 1512.0,14.02.–20.02.,Sonstige,3.0,22,2,2002,Umfrage,Deutschland,GMS,2002-02-22
+1321.0,07.10.–09.10.,CDU/CSU,31.0,10,10,2024,Umfrage,Deutschland,Infratest dimap,2024-10-10
 1309.0,03.09.–04.09.,CDU/CSU,33.0,5,9,2024,Umfrage,Deutschland,Infratest dimap,2024-09-05
 1311.0,05.08.–07.08.,CDU/CSU,32.0,8,8,2024,Umfrage,Deutschland,Infratest dimap,2024-08-08
 1294.0,01.07.–03.07.,CDU/CSU,31.0,4,7,2024,Umfrage,Deutschland,Infratest dimap,2024-07-04
@@ -29963,6 +29964,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,CDU/CSU,40.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,CDU/CSU,42.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1321.0,07.10.–09.10.,SPD,16.0,10,10,2024,Umfrage,Deutschland,Infratest dimap,2024-10-10
 1309.0,03.09.–04.09.,SPD,15.0,5,9,2024,Umfrage,Deutschland,Infratest dimap,2024-09-05
 1311.0,05.08.–07.08.,SPD,15.0,8,8,2024,Umfrage,Deutschland,Infratest dimap,2024-08-08
 1294.0,01.07.–03.07.,SPD,14.0,4,7,2024,Umfrage,Deutschland,Infratest dimap,2024-07-04
@@ -30222,6 +30224,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,SPD,27.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,SPD,26.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1321.0,07.10.–09.10.,GRÜNE,13.0,10,10,2024,Umfrage,Deutschland,Infratest dimap,2024-10-10
 1309.0,03.09.–04.09.,GRÜNE,11.0,5,9,2024,Umfrage,Deutschland,Infratest dimap,2024-09-05
 1311.0,05.08.–07.08.,GRÜNE,12.0,8,8,2024,Umfrage,Deutschland,Infratest dimap,2024-08-08
 1294.0,01.07.–03.07.,GRÜNE,13.0,4,7,2024,Umfrage,Deutschland,Infratest dimap,2024-07-04
@@ -30481,6 +30484,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,GRÜNE,9.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,GRÜNE,8.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1321.0,07.10.–09.10.,FDP,3.0,10,10,2024,Umfrage,Deutschland,Infratest dimap,2024-10-10
 1309.0,03.09.–04.09.,FDP,4.0,5,9,2024,Umfrage,Deutschland,Infratest dimap,2024-09-05
 1311.0,05.08.–07.08.,FDP,5.0,8,8,2024,Umfrage,Deutschland,Infratest dimap,2024-08-08
 1294.0,01.07.–03.07.,FDP,5.0,4,7,2024,Umfrage,Deutschland,Infratest dimap,2024-07-04
@@ -30740,6 +30744,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,FDP,4.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,FDP,3.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1321.0,07.10.–09.10.,LINKE,3.0,10,10,2024,Umfrage,Deutschland,Infratest dimap,2024-10-10
 1309.0,03.09.–04.09.,LINKE,3.0,5,9,2024,Umfrage,Deutschland,Infratest dimap,2024-09-05
 1311.0,05.08.–07.08.,LINKE,0.0,8,8,2024,Umfrage,Deutschland,Infratest dimap,2024-08-08
 1294.0,01.07.–03.07.,LINKE,3.0,4,7,2024,Umfrage,Deutschland,Infratest dimap,2024-07-04
@@ -30999,6 +31004,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,LINKE,9.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,LINKE,9.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1321.0,07.10.–09.10.,AfD,17.0,10,10,2024,Umfrage,Deutschland,Infratest dimap,2024-10-10
 1309.0,03.09.–04.09.,AfD,17.0,5,9,2024,Umfrage,Deutschland,Infratest dimap,2024-09-05
 1311.0,05.08.–07.08.,AfD,16.0,8,8,2024,Umfrage,Deutschland,Infratest dimap,2024-08-08
 1294.0,01.07.–03.07.,AfD,17.0,4,7,2024,Umfrage,Deutschland,Infratest dimap,2024-07-04
@@ -31258,6 +31264,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,AfD,5.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,AfD,4.5,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1321.0,07.10.–09.10.,FW,3.0,10,10,2024,Umfrage,Deutschland,Infratest dimap,2024-10-10
 1309.0,03.09.–04.09.,FW,0.0,5,9,2024,Umfrage,Deutschland,Infratest dimap,2024-09-05
 1311.0,05.08.–07.08.,FW,0.0,8,8,2024,Umfrage,Deutschland,Infratest dimap,2024-08-08
 1294.0,01.07.–03.07.,FW,0.0,4,7,2024,Umfrage,Deutschland,Infratest dimap,2024-07-04
@@ -31517,6 +31524,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,FW,0.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,FW,0.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,FW,1.0,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1321.0,07.10.–09.10.,BSW,8.0,10,10,2024,Umfrage,Deutschland,Infratest dimap,2024-10-10
 1309.0,03.09.–04.09.,BSW,8.0,5,9,2024,Umfrage,Deutschland,Infratest dimap,2024-09-05
 1311.0,05.08.–07.08.,BSW,9.0,8,8,2024,Umfrage,Deutschland,Infratest dimap,2024-08-08
 1294.0,01.07.–03.07.,BSW,8.0,4,7,2024,Umfrage,Deutschland,Infratest dimap,2024-07-04
@@ -31776,6 +31784,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1028.0,21.10.–23.10.,BSW,0.0,25,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-25
 1503.0,07.10.–09.10.,BSW,0.0,10,10,2013,Umfrage,Deutschland,Infratest dimap,2013-10-10
 ,,BSW,0.0,22,9,2013,Wahl,Deutschland,Infratest dimap,2013-09-22
+1321.0,07.10.–09.10.,Sonstige,6.0,10,10,2024,Umfrage,Deutschland,Infratest dimap,2024-10-10
 1309.0,03.09.–04.09.,Sonstige,9.0,5,9,2024,Umfrage,Deutschland,Infratest dimap,2024-09-05
 1311.0,05.08.–07.08.,Sonstige,11.0,8,8,2024,Umfrage,Deutschland,Infratest dimap,2024-08-08
 1294.0,01.07.–03.07.,Sonstige,9.0,4,7,2024,Umfrage,Deutschland,Infratest dimap,2024-07-04
