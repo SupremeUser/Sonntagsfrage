@@ -1,4 +1,5 @@
 Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
+1006.0,30.11.–12.12.,CDU/CSU,36.0,20,12,2024,Umfrage,Deutschland,Allensbach,2024-12-20
 1049.0,02.11.–14.11.,CDU/CSU,37.0,22,11,2024,Umfrage,Deutschland,Allensbach,2024-11-22
 1041.0,28.09.–11.10.,CDU/CSU,36.0,18,10,2024,Umfrage,Deutschland,Allensbach,2024-10-18
 1017.0,29.08.–11.09.,CDU/CSU,35.5,19,9,2024,Umfrage,Deutschland,Allensbach,2024-09-19
@@ -90,6 +91,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,CDU/CSU,33.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,CDU/CSU,33.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1006.0,30.11.–12.12.,SPD,16.0,20,12,2024,Umfrage,Deutschland,Allensbach,2024-12-20
 1049.0,02.11.–14.11.,SPD,15.0,22,11,2024,Umfrage,Deutschland,Allensbach,2024-11-22
 1041.0,28.09.–11.10.,SPD,15.0,18,10,2024,Umfrage,Deutschland,Allensbach,2024-10-18
 1017.0,29.08.–11.09.,SPD,16.0,19,9,2024,Umfrage,Deutschland,Allensbach,2024-09-19
@@ -181,6 +183,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,SPD,21.5,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,SPD,20.5,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1006.0,30.11.–12.12.,GRÜNE,12.0,20,12,2024,Umfrage,Deutschland,Allensbach,2024-12-20
 1049.0,02.11.–14.11.,GRÜNE,10.0,22,11,2024,Umfrage,Deutschland,Allensbach,2024-11-22
 1041.0,28.09.–11.10.,GRÜNE,10.5,18,10,2024,Umfrage,Deutschland,Allensbach,2024-10-18
 1017.0,29.08.–11.09.,GRÜNE,10.0,19,9,2024,Umfrage,Deutschland,Allensbach,2024-09-19
@@ -272,6 +275,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,GRÜNE,11.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,GRÜNE,9.5,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1006.0,30.11.–12.12.,FDP,4.0,20,12,2024,Umfrage,Deutschland,Allensbach,2024-12-20
 1049.0,02.11.–14.11.,FDP,4.0,22,11,2024,Umfrage,Deutschland,Allensbach,2024-11-22
 1041.0,28.09.–11.10.,FDP,4.5,18,10,2024,Umfrage,Deutschland,Allensbach,2024-10-18
 1017.0,29.08.–11.09.,FDP,4.0,19,9,2024,Umfrage,Deutschland,Allensbach,2024-09-19
@@ -363,6 +367,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,FDP,10.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,FDP,12.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1006.0,30.11.–12.12.,LINKE,0.0,20,12,2024,Umfrage,Deutschland,Allensbach,2024-12-20
 1049.0,02.11.–14.11.,LINKE,0.0,22,11,2024,Umfrage,Deutschland,Allensbach,2024-11-22
 1041.0,28.09.–11.10.,LINKE,0.0,18,10,2024,Umfrage,Deutschland,Allensbach,2024-10-18
 1017.0,29.08.–11.09.,LINKE,0.0,19,9,2024,Umfrage,Deutschland,Allensbach,2024-09-19
@@ -454,6 +459,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,LINKE,9.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,LINKE,9.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1006.0,30.11.–12.12.,AfD,18.0,20,12,2024,Umfrage,Deutschland,Allensbach,2024-12-20
 1049.0,02.11.–14.11.,AfD,17.0,22,11,2024,Umfrage,Deutschland,Allensbach,2024-11-22
 1041.0,28.09.–11.10.,AfD,16.0,18,10,2024,Umfrage,Deutschland,Allensbach,2024-10-18
 1017.0,29.08.–11.09.,AfD,17.0,19,9,2024,Umfrage,Deutschland,Allensbach,2024-09-19
@@ -545,6 +551,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,AfD,11.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,AfD,12.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1006.0,30.11.–12.12.,FW,0.0,20,12,2024,Umfrage,Deutschland,Allensbach,2024-12-20
 1049.0,02.11.–14.11.,FW,0.0,22,11,2024,Umfrage,Deutschland,Allensbach,2024-11-22
 1041.0,28.09.–11.10.,FW,0.0,18,10,2024,Umfrage,Deutschland,Allensbach,2024-10-18
 1017.0,29.08.–11.09.,FW,0.0,19,9,2024,Umfrage,Deutschland,Allensbach,2024-09-19
@@ -636,6 +643,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,FW,0.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,FW,0.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1006.0,30.11.–12.12.,BSW,6.0,20,12,2024,Umfrage,Deutschland,Allensbach,2024-12-20
 1049.0,02.11.–14.11.,BSW,7.5,22,11,2024,Umfrage,Deutschland,Allensbach,2024-11-22
 1041.0,28.09.–11.10.,BSW,9.0,18,10,2024,Umfrage,Deutschland,Allensbach,2024-10-18
 1017.0,29.08.–11.09.,BSW,9.0,19,9,2024,Umfrage,Deutschland,Allensbach,2024-09-19
@@ -727,6 +735,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,BSW,0.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,BSW,0.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1006.0,30.11.–12.12.,Sonstige,8.0,20,12,2024,Umfrage,Deutschland,Allensbach,2024-12-20
 1049.0,02.11.–14.11.,Sonstige,9.5,22,11,2024,Umfrage,Deutschland,Allensbach,2024-11-22
 1041.0,28.09.–11.10.,Sonstige,9.0,18,10,2024,Umfrage,Deutschland,Allensbach,2024-10-18
 1017.0,29.08.–11.09.,Sonstige,8.5,19,9,2024,Umfrage,Deutschland,Allensbach,2024-09-19
@@ -2601,6 +2610,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.9,20,5,1998,Umfrage,Deutschland,Allensbach,1998-05-20
 ,,Sonstige,1.2,29,4,1998,Umfrage,Deutschland,Allensbach,1998-04-29
 ,,Sonstige,1.8,25,3,1998,Umfrage,Deutschland,Allensbach,1998-03-25
+1452.0,11.12.–17.12.,CDU/CSU,31.0,20,12,2024,Umfrage,Deutschland,Kantar (Emnid),2024-12-20
 1432.0,20.11.–26.11.,CDU/CSU,32.0,29,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-29
 1443.0,23.10.–29.10.,CDU/CSU,32.0,1,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-01
 1452.0,25.09.–01.10.,CDU/CSU,31.0,4,10,2024,Umfrage,Deutschland,Kantar (Emnid),2024-10-04
@@ -3134,6 +3144,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,CDU/CSU,42.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,CDU/CSU,43.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,11.12.–17.12.,SPD,17.0,20,12,2024,Umfrage,Deutschland,Kantar (Emnid),2024-12-20
 1432.0,20.11.–26.11.,SPD,15.0,29,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-29
 1443.0,23.10.–29.10.,SPD,16.0,1,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-01
 1452.0,25.09.–01.10.,SPD,16.0,4,10,2024,Umfrage,Deutschland,Kantar (Emnid),2024-10-04
@@ -3667,6 +3678,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,SPD,25.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,SPD,26.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,11.12.–17.12.,GRÜNE,14.0,20,12,2024,Umfrage,Deutschland,Kantar (Emnid),2024-12-20
 1432.0,20.11.–26.11.,GRÜNE,13.0,29,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-29
 1443.0,23.10.–29.10.,GRÜNE,11.0,1,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-01
 1452.0,25.09.–01.10.,GRÜNE,11.0,4,10,2024,Umfrage,Deutschland,Kantar (Emnid),2024-10-04
@@ -4200,6 +4212,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,GRÜNE,8.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,GRÜNE,7.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,11.12.–17.12.,FDP,4.0,20,12,2024,Umfrage,Deutschland,Kantar (Emnid),2024-12-20
 1432.0,20.11.–26.11.,FDP,4.0,29,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-29
 1443.0,23.10.–29.10.,FDP,3.0,1,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-01
 1452.0,25.09.–01.10.,FDP,4.0,4,10,2024,Umfrage,Deutschland,Kantar (Emnid),2024-10-04
@@ -4733,6 +4746,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FDP,4.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FDP,3.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,11.12.–17.12.,LINKE,3.0,20,12,2024,Umfrage,Deutschland,Kantar (Emnid),2024-12-20
 1432.0,20.11.–26.11.,LINKE,3.0,29,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-29
 1443.0,23.10.–29.10.,LINKE,3.0,1,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-01
 1452.0,25.09.–01.10.,LINKE,3.0,4,10,2024,Umfrage,Deutschland,Kantar (Emnid),2024-10-04
@@ -5266,6 +5280,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,LINKE,9.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,LINKE,9.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,11.12.–17.12.,AfD,18.0,20,12,2024,Umfrage,Deutschland,Kantar (Emnid),2024-12-20
 1432.0,20.11.–26.11.,AfD,18.0,29,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-29
 1443.0,23.10.–29.10.,AfD,17.0,1,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-01
 1452.0,25.09.–01.10.,AfD,17.0,4,10,2024,Umfrage,Deutschland,Kantar (Emnid),2024-10-04
@@ -5799,6 +5814,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,AfD,6.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,AfD,6.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,11.12.–17.12.,FW,0.0,20,12,2024,Umfrage,Deutschland,Kantar (Emnid),2024-12-20
 1432.0,20.11.–26.11.,FW,0.0,29,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-29
 1443.0,23.10.–29.10.,FW,0.0,1,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-01
 1452.0,25.09.–01.10.,FW,3.0,4,10,2024,Umfrage,Deutschland,Kantar (Emnid),2024-10-04
@@ -6332,6 +6348,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FW,0.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FW,0.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FW,1.0,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,11.12.–17.12.,BSW,5.0,20,12,2024,Umfrage,Deutschland,Kantar (Emnid),2024-12-20
 1432.0,20.11.–26.11.,BSW,6.0,29,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-29
 1443.0,23.10.–29.10.,BSW,8.0,1,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-01
 1452.0,25.09.–01.10.,BSW,7.0,4,10,2024,Umfrage,Deutschland,Kantar (Emnid),2024-10-04
@@ -6865,6 +6882,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,BSW,0.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,BSW,0.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,BSW,0.0,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1452.0,11.12.–17.12.,Sonstige,8.0,20,12,2024,Umfrage,Deutschland,Kantar (Emnid),2024-12-20
 1432.0,20.11.–26.11.,Sonstige,9.0,29,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-29
 1443.0,23.10.–29.10.,Sonstige,10.0,1,11,2024,Umfrage,Deutschland,Kantar (Emnid),2024-11-01
 1452.0,25.09.–01.10.,Sonstige,8.0,4,10,2024,Umfrage,Deutschland,Kantar (Emnid),2024-10-04
