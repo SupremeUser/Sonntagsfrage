@@ -36587,6 +36587,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.0,18,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-18
 ,,Sonstige,3.0,11,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-11
 ,,Sonstige,3.0,4,4,1998,Umfrage,Deutschland,Infratest dimap,1998-04-04
+1205.0,16.12.–19.12.,CDU/CSU,32.0,21,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-21
 2002.0,13.12.–16.12.,CDU/CSU,31.5,16,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-16
 1203.0,09.12.–13.12.,CDU/CSU,31.0,14,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-14
 2004.0,06.12.–09.12.,CDU/CSU,31.5,9,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-09
@@ -36922,6 +36923,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,CDU/CSU,21.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,CDU/CSU,21.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,CDU/CSU,24.1,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1205.0,16.12.–19.12.,SPD,16.0,21,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-21
 2002.0,13.12.–16.12.,SPD,16.5,16,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-16
 1203.0,09.12.–13.12.,SPD,17.0,14,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-14
 2004.0,06.12.–09.12.,SPD,17.0,9,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-09
@@ -37257,6 +37259,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,SPD,28.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,SPD,28.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,SPD,25.7,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1205.0,16.12.–19.12.,GRÜNE,12.0,21,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-21
 2002.0,13.12.–16.12.,GRÜNE,11.5,16,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-16
 1203.0,09.12.–13.12.,GRÜNE,11.0,14,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-14
 2004.0,06.12.–09.12.,GRÜNE,11.5,9,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-09
@@ -37592,6 +37595,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,GRÜNE,15.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,GRÜNE,16.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,GRÜNE,14.8,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1205.0,16.12.–19.12.,FDP,5.0,21,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-21
 2002.0,13.12.–16.12.,FDP,5.0,16,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-16
 1203.0,09.12.–13.12.,FDP,5.0,14,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-14
 2004.0,06.12.–09.12.,FDP,4.5,9,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-09
@@ -37927,6 +37931,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,FDP,13.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,FDP,12.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,FDP,11.5,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1205.0,16.12.–19.12.,LINKE,3.0,21,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-21
 2002.0,13.12.–16.12.,LINKE,2.5,16,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-16
 1203.0,09.12.–13.12.,LINKE,3.0,14,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-14
 2004.0,06.12.–09.12.,LINKE,3.0,9,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-09
@@ -38262,6 +38267,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,LINKE,4.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,LINKE,5.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,LINKE,4.9,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1205.0,16.12.–19.12.,FW,0.0,21,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-21
 2002.0,13.12.–16.12.,FW,0.0,16,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-16
 1203.0,09.12.–13.12.,FW,0.0,14,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-14
 2004.0,06.12.–09.12.,FW,0.0,9,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-09
@@ -38597,6 +38603,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,FW,0.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,FW,0.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,FW,2.4,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1205.0,16.12.–19.12.,AfD,20.0,21,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-21
 2002.0,13.12.–16.12.,AfD,19.5,16,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-16
 1203.0,09.12.–13.12.,AfD,20.0,14,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-14
 2004.0,06.12.–09.12.,AfD,19.5,9,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-09
@@ -38932,6 +38939,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,AfD,10.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,AfD,10.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,AfD,10.3,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1205.0,16.12.–19.12.,BSW,8.0,21,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-21
 2002.0,13.12.–16.12.,BSW,8.0,16,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-16
 1203.0,09.12.–13.12.,BSW,8.0,14,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-14
 2004.0,06.12.–09.12.,BSW,8.0,9,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-09
@@ -39267,6 +39275,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,BSW,0.0,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,BSW,0.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,BSW,0.0,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1205.0,16.12.–19.12.,Sonstige,4.0,21,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-21
 2002.0,13.12.–16.12.,Sonstige,5.5,16,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-16
 1203.0,09.12.–13.12.,Sonstige,5.0,14,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-14
 2004.0,06.12.–09.12.,Sonstige,5.0,9,12,2024,Umfrage,Deutschland,INSA / YouGov,2024-12-09
