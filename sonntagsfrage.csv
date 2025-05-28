@@ -1,4 +1,5 @@
 Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
+1032.0,03.05.–14.05.,CDU/CSU,28.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,CDU/CSU,27.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
 1031.0,27.02.–11.03.,CDU/CSU,29.5,27,3,2025,Umfrage,Deutschland,Allensbach,2025-03-27
 ,,CDU/CSU,28.5,23,2,2025,Wahl,Deutschland,Allensbach,2025-02-23
@@ -97,6 +98,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,CDU/CSU,33.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,CDU/CSU,33.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1032.0,03.05.–14.05.,SPD,17.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,SPD,16.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
 1031.0,27.02.–11.03.,SPD,16.0,27,3,2025,Umfrage,Deutschland,Allensbach,2025-03-27
 ,,SPD,16.4,23,2,2025,Wahl,Deutschland,Allensbach,2025-02-23
@@ -195,6 +197,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,SPD,21.5,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,SPD,20.5,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1032.0,03.05.–14.05.,GRÜNE,11.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,GRÜNE,12.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
 1031.0,27.02.–11.03.,GRÜNE,11.5,27,3,2025,Umfrage,Deutschland,Allensbach,2025-03-27
 ,,GRÜNE,11.6,23,2,2025,Wahl,Deutschland,Allensbach,2025-02-23
@@ -293,6 +296,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,GRÜNE,11.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,GRÜNE,9.5,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1032.0,03.05.–14.05.,FDP,3.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,FDP,3.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
 1031.0,27.02.–11.03.,FDP,3.0,27,3,2025,Umfrage,Deutschland,Allensbach,2025-03-27
 ,,FDP,4.3,23,2,2025,Wahl,Deutschland,Allensbach,2025-02-23
@@ -391,6 +395,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,FDP,10.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,FDP,12.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1032.0,03.05.–14.05.,LINKE,10.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,LINKE,10.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
 1031.0,27.02.–11.03.,LINKE,10.0,27,3,2025,Umfrage,Deutschland,Allensbach,2025-03-27
 ,,LINKE,8.8,23,2,2025,Wahl,Deutschland,Allensbach,2025-02-23
@@ -489,6 +494,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,LINKE,9.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,LINKE,9.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1032.0,03.05.–14.05.,AfD,22.5,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,AfD,23.5,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
 1031.0,27.02.–11.03.,AfD,21.0,27,3,2025,Umfrage,Deutschland,Allensbach,2025-03-27
 ,,AfD,20.8,23,2,2025,Wahl,Deutschland,Allensbach,2025-02-23
@@ -587,6 +593,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,AfD,11.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,AfD,12.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1032.0,03.05.–14.05.,FW,0.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,FW,0.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
 1031.0,27.02.–11.03.,FW,0.0,27,3,2025,Umfrage,Deutschland,Allensbach,2025-03-27
 ,,FW,1.5,23,2,2025,Wahl,Deutschland,Allensbach,2025-02-23
@@ -685,6 +692,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,FW,0.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,FW,0.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1032.0,03.05.–14.05.,BSW,4.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,BSW,4.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
 1031.0,27.02.–11.03.,BSW,4.0,27,3,2025,Umfrage,Deutschland,Allensbach,2025-03-27
 ,,BSW,4.9,23,2,2025,Wahl,Deutschland,Allensbach,2025-02-23
@@ -783,6 +791,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,BSW,0.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,BSW,0.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1032.0,03.05.–14.05.,Sonstige,4.5,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,Sonstige,4.5,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
 1031.0,27.02.–11.03.,Sonstige,5.0,27,3,2025,Umfrage,Deutschland,Allensbach,2025-03-27
 ,,Sonstige,3.0,23,2,2025,Wahl,Deutschland,Allensbach,2025-02-23
@@ -18405,7 +18414,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,Sonstige,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,Sonstige,7.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,Sonstige,5.300000000000001,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
-2501.0,20.05.–26.05.,Nichtwähler/ Unentschl.,0.0,27,5,2025,Umfrage,Deutschland,Forsa,2025-05-27
+2501.0,20.05.–26.05.,Nichtwähler/ Unentschl.,20.0,27,5,2025,Umfrage,Deutschland,Forsa,2025-05-27
 2504.0,13.05.–19.05.,Nichtwähler/ Unentschl.,20.0,20,5,2025,Umfrage,Deutschland,Forsa,2025-05-20
 3001.0,05.05.–12.05.,Nichtwähler/ Unentschl.,0.0,13,5,2025,Umfrage,Deutschland,Forsa,2025-05-13
 1503.0,29.04.–02.05.,Nichtwähler/ Unentschl.,21.0,5,5,2025,Umfrage,Deutschland,Forsa,2025-05-05
