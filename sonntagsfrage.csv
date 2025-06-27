@@ -24637,6 +24637,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,16,4,1998,Umfrage,Deutschland,Forsa,1998-04-16
 ,,Sonstige,5.0,8,4,1998,Umfrage,Deutschland,Forsa,1998-04-08
 ,,Sonstige,5.0,2,4,1998,Umfrage,Deutschland,Forsa,1998-04-02
+1378.0,24.06.–26.06.,CDU/CSU,29.0,27,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-27
 1247.0,03.06.–05.06.,CDU/CSU,27.0,6,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-06
 1328.0,20.05.–22.05.,CDU/CSU,26.0,23,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-23
 1297.0,28.04.–30.04.,CDU/CSU,27.0,2,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-02
@@ -24790,6 +24791,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,CDU/CSU,31.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,CDU/CSU,32.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1378.0,24.06.–26.06.,SPD,15.0,27,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-27
 1247.0,03.06.–05.06.,SPD,15.0,6,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-06
 1328.0,20.05.–22.05.,SPD,16.0,23,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-23
 1297.0,28.04.–30.04.,SPD,15.0,2,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-02
@@ -24943,6 +24945,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,SPD,21.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,SPD,21.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1378.0,24.06.–26.06.,GRÜNE,12.0,27,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-27
 1247.0,03.06.–05.06.,GRÜNE,12.0,6,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-06
 1328.0,20.05.–22.05.,GRÜNE,12.0,23,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-23
 1297.0,28.04.–30.04.,GRÜNE,11.0,2,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-02
@@ -25096,6 +25099,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,GRÜNE,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,GRÜNE,11.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1378.0,24.06.–26.06.,FDP,3.0,27,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-27
 1247.0,03.06.–05.06.,FDP,3.0,6,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-06
 1328.0,20.05.–22.05.,FDP,4.0,23,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-23
 1297.0,28.04.–30.04.,FDP,4.0,2,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-02
@@ -25249,6 +25253,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FDP,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FDP,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1378.0,24.06.–26.06.,LINKE,10.0,27,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-27
 1247.0,03.06.–05.06.,LINKE,11.0,6,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-06
 1328.0,20.05.–22.05.,LINKE,10.0,23,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-23
 1297.0,28.04.–30.04.,LINKE,10.0,2,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-02
@@ -25402,6 +25407,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,LINKE,10.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,LINKE,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1378.0,24.06.–26.06.,AfD,22.0,27,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-27
 1247.0,03.06.–05.06.,AfD,23.0,6,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-06
 1328.0,20.05.–22.05.,AfD,23.0,23,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-23
 1297.0,28.04.–30.04.,AfD,23.0,2,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-02
@@ -25555,6 +25561,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,AfD,12.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,AfD,12.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1378.0,24.06.–26.06.,FW,0.0,27,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-27
 1247.0,03.06.–05.06.,FW,0.0,6,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-06
 1328.0,20.05.–22.05.,FW,0.0,23,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-23
 1297.0,28.04.–30.04.,FW,0.0,2,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-02
@@ -25708,6 +25715,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1378.0,24.06.–26.06.,BSW,3.0,27,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-27
 1247.0,03.06.–05.06.,BSW,3.0,6,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-06
 1328.0,20.05.–22.05.,BSW,3.0,23,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-23
 1297.0,28.04.–30.04.,BSW,3.0,2,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-02
@@ -25861,6 +25869,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,BSW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,BSW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1378.0,24.06.–26.06.,Sonstige,6.0,27,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-27
 1247.0,03.06.–05.06.,Sonstige,6.0,6,6,2025,Umfrage,Deutschland,Politbarometer,2025-06-06
 1328.0,20.05.–22.05.,Sonstige,6.0,23,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-23
 1297.0,28.04.–30.04.,Sonstige,7.0,2,5,2025,Umfrage,Deutschland,Politbarometer,2025-05-02
