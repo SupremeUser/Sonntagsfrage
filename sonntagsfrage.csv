@@ -1,4 +1,5 @@
 Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
+1054.0,04.07.–16.07.,CDU/CSU,29.0,19,7,2025,Umfrage,Deutschland,Allensbach,2025-07-19
 1054.0,01.06.–12.06.,CDU/CSU,29.0,20,6,2025,Umfrage,Deutschland,Allensbach,2025-06-20
 1032.0,03.05.–14.05.,CDU/CSU,28.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,CDU/CSU,27.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
@@ -99,6 +100,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,CDU/CSU,33.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,CDU/CSU,33.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1054.0,04.07.–16.07.,SPD,15.0,19,7,2025,Umfrage,Deutschland,Allensbach,2025-07-19
 1054.0,01.06.–12.06.,SPD,16.0,20,6,2025,Umfrage,Deutschland,Allensbach,2025-06-20
 1032.0,03.05.–14.05.,SPD,17.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,SPD,16.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
@@ -199,6 +201,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,SPD,21.5,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,SPD,20.5,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1054.0,04.07.–16.07.,GRÜNE,12.0,19,7,2025,Umfrage,Deutschland,Allensbach,2025-07-19
 1054.0,01.06.–12.06.,GRÜNE,11.0,20,6,2025,Umfrage,Deutschland,Allensbach,2025-06-20
 1032.0,03.05.–14.05.,GRÜNE,11.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,GRÜNE,12.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
@@ -299,6 +302,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,GRÜNE,11.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,GRÜNE,9.5,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1054.0,04.07.–16.07.,FDP,4.0,19,7,2025,Umfrage,Deutschland,Allensbach,2025-07-19
 1054.0,01.06.–12.06.,FDP,4.0,20,6,2025,Umfrage,Deutschland,Allensbach,2025-06-20
 1032.0,03.05.–14.05.,FDP,3.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,FDP,3.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
@@ -399,6 +403,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,FDP,10.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,FDP,12.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1054.0,04.07.–16.07.,LINKE,9.0,19,7,2025,Umfrage,Deutschland,Allensbach,2025-07-19
 1054.0,01.06.–12.06.,LINKE,9.0,20,6,2025,Umfrage,Deutschland,Allensbach,2025-06-20
 1032.0,03.05.–14.05.,LINKE,10.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,LINKE,10.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
@@ -499,6 +504,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,LINKE,9.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,LINKE,9.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1054.0,04.07.–16.07.,AfD,23.0,19,7,2025,Umfrage,Deutschland,Allensbach,2025-07-19
 1054.0,01.06.–12.06.,AfD,23.0,20,6,2025,Umfrage,Deutschland,Allensbach,2025-06-20
 1032.0,03.05.–14.05.,AfD,22.5,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,AfD,23.5,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
@@ -599,6 +605,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,AfD,11.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,AfD,12.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1054.0,04.07.–16.07.,FW,0.0,19,7,2025,Umfrage,Deutschland,Allensbach,2025-07-19
 1054.0,01.06.–12.06.,FW,0.0,20,6,2025,Umfrage,Deutschland,Allensbach,2025-06-20
 1032.0,03.05.–14.05.,FW,0.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,FW,0.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
@@ -699,6 +706,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,FW,0.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,FW,0.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1054.0,04.07.–16.07.,BSW,3.5,19,7,2025,Umfrage,Deutschland,Allensbach,2025-07-19
 1054.0,01.06.–12.06.,BSW,4.0,20,6,2025,Umfrage,Deutschland,Allensbach,2025-06-20
 1032.0,03.05.–14.05.,BSW,4.0,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,BSW,4.0,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
@@ -799,6 +807,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1299.0,22.11.–27.11.,BSW,0.0,30,11,2017,Umfrage,Deutschland,Allensbach,2017-11-30
 1454.0,07.10.–19.10.,BSW,0.0,25,10,2017,Umfrage,Deutschland,Allensbach,2017-10-25
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,Allensbach,2017-09-24
+1054.0,04.07.–16.07.,Sonstige,4.5,19,7,2025,Umfrage,Deutschland,Allensbach,2025-07-19
 1054.0,01.06.–12.06.,Sonstige,4.0,20,6,2025,Umfrage,Deutschland,Allensbach,2025-06-20
 1032.0,03.05.–14.05.,Sonstige,4.5,24,5,2025,Umfrage,Deutschland,Allensbach,2025-05-24
 1048.0,28.03.–09.04.,Sonstige,4.5,19,4,2025,Umfrage,Deutschland,Allensbach,2025-04-19
@@ -12960,6 +12969,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,17,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-17
 ,,Sonstige,7.0,10,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-10
 ,,Sonstige,7.0,3,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-03
+2502.0,15.07.–21.07.,CDU/CSU,25.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,CDU/CSU,26.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,CDU/CSU,27.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,CDU/CSU,28.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
@@ -13575,6 +13585,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,CDU/CSU,45.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,CDU/CSU,42.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,15.07.–21.07.,SPD,13.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,SPD,13.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,SPD,13.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,SPD,14.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
@@ -14190,6 +14201,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,SPD,24.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,SPD,25.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,15.07.–21.07.,GRÜNE,12.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,GRÜNE,12.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,GRÜNE,12.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,GRÜNE,11.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
@@ -14805,6 +14817,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,GRÜNE,8.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,GRÜNE,8.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,15.07.–21.07.,FDP,3.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,FDP,4.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,FDP,3.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,FDP,3.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
@@ -15420,6 +15433,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,FDP,3.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,FDP,4.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,15.07.–21.07.,LINKE,12.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,LINKE,11.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,LINKE,11.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,LINKE,11.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
@@ -16035,6 +16049,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,LINKE,8.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,LINKE,9.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,15.07.–21.07.,AfD,25.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,AfD,24.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,AfD,24.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,AfD,24.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
@@ -16650,6 +16665,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,AfD,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,AfD,5.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,15.07.–21.07.,FW,0.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,FW,0.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,FW,0.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,FW,0.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
@@ -17265,6 +17281,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,FW,0.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,FW,0.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,FW,1.0,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,15.07.–21.07.,BSW,4.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,BSW,4.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,BSW,4.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,BSW,3.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
@@ -17880,6 +17897,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,BSW,0.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,BSW,0.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,BSW,0.0,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,15.07.–21.07.,Sonstige,6.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,Sonstige,6.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,Sonstige,6.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,Sonstige,6.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
@@ -18495,6 +18513,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,Sonstige,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,Sonstige,7.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,Sonstige,5.300000000000001,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,15.07.–21.07.,Nichtwähler/ Unentschl.,0.0,22,7,2025,Umfrage,Deutschland,Forsa,2025-07-22
 2503.0,08.07.–14.07.,Nichtwähler/ Unentschl.,0.0,15,7,2025,Umfrage,Deutschland,Forsa,2025-07-15
 2503.0,01.07.–07.07.,Nichtwähler/ Unentschl.,0.0,8,7,2025,Umfrage,Deutschland,Forsa,2025-07-08
 2501.0,24.06.–30.06.,Nichtwähler/ Unentschl.,24.0,1,7,2025,Umfrage,Deutschland,Forsa,2025-07-01
