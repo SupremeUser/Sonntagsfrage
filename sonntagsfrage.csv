@@ -13005,6 +13005,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,17,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-17
 ,,Sonstige,7.0,10,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-10
 ,,Sonstige,7.0,3,4,1998,Umfrage,Deutschland,Kantar (Emnid),1998-04-03
+2502.0,09.09.–15.09.,CDU/CSU,25.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,CDU/CSU,25.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,CDU/CSU,25.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,CDU/CSU,25.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
@@ -13628,6 +13629,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,CDU/CSU,45.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,CDU/CSU,42.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,09.09.–15.09.,SPD,14.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,SPD,14.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,SPD,14.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,SPD,13.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
@@ -14251,6 +14253,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,SPD,24.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,SPD,25.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,09.09.–15.09.,GRÜNE,12.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,GRÜNE,11.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,GRÜNE,11.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,GRÜNE,12.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
@@ -14874,6 +14877,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,GRÜNE,8.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,GRÜNE,8.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,09.09.–15.09.,FDP,3.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,FDP,3.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,FDP,3.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,FDP,3.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
@@ -15497,6 +15501,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,FDP,3.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,FDP,4.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,09.09.–15.09.,LINKE,11.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,LINKE,12.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,LINKE,12.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,LINKE,11.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
@@ -16120,6 +16125,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,LINKE,8.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,LINKE,9.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,09.09.–15.09.,AfD,25.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,AfD,26.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,AfD,26.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,AfD,26.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
@@ -16743,6 +16749,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,AfD,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,AfD,5.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,09.09.–15.09.,FW,0.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,FW,0.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,FW,0.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,FW,0.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
@@ -17366,6 +17373,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,FW,0.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,FW,0.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,FW,1.0,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,09.09.–15.09.,BSW,4.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,BSW,3.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,BSW,3.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,BSW,3.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
@@ -17989,6 +17997,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,BSW,0.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,BSW,0.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,BSW,0.0,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,09.09.–15.09.,Sonstige,6.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,Sonstige,7.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,Sonstige,7.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,Sonstige,7.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
@@ -18612,6 +18621,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,30.09.–04.10.,Sonstige,6.0,9,10,2013,Umfrage,Deutschland,Forsa,2013-10-09
 2499.0,23.09.–27.09.,Sonstige,7.0,1,10,2013,Umfrage,Deutschland,Forsa,2013-10-01
 ,,Sonstige,5.300000000000001,22,9,2013,Wahl,Deutschland,Forsa,2013-09-22
+2502.0,09.09.–15.09.,Nichtwähler/ Unentschl.,0.0,16,9,2025,Umfrage,Deutschland,Forsa,2025-09-16
 2500.0,02.09.–08.09.,Nichtwähler/ Unentschl.,25.0,9,9,2025,Umfrage,Deutschland,Forsa,2025-09-09
 2502.0,26.08.–01.09.,Nichtwähler/ Unentschl.,25.0,2,9,2025,Umfrage,Deutschland,Forsa,2025-09-02
 2501.0,19.08.–25.08.,Nichtwähler/ Unentschl.,26.0,26,8,2025,Umfrage,Deutschland,Forsa,2025-08-26
