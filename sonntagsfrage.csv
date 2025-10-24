@@ -24879,6 +24879,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,16,4,1998,Umfrage,Deutschland,Forsa,1998-04-16
 ,,Sonstige,5.0,8,4,1998,Umfrage,Deutschland,Forsa,1998-04-08
 ,,Sonstige,5.0,2,4,1998,Umfrage,Deutschland,Forsa,1998-04-02
+1272.0,21.10.–23.10.,CDU/CSU,27.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,CDU/CSU,27.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,CDU/CSU,26.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
 1269.0,02.09.–04.09.,CDU/CSU,27.0,5,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-05
@@ -25038,6 +25039,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,CDU/CSU,31.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,CDU/CSU,32.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1272.0,21.10.–23.10.,SPD,15.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,SPD,15.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,SPD,15.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
 1269.0,02.09.–04.09.,SPD,15.0,5,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-05
@@ -25197,6 +25199,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,SPD,21.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,SPD,21.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1272.0,21.10.–23.10.,GRÜNE,11.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,GRÜNE,11.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,GRÜNE,10.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
 1269.0,02.09.–04.09.,GRÜNE,11.0,5,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-05
@@ -25356,6 +25359,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,GRÜNE,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,GRÜNE,11.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1272.0,21.10.–23.10.,FDP,0.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,FDP,3.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,FDP,3.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
 1269.0,02.09.–04.09.,FDP,3.0,5,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-05
@@ -25515,6 +25519,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FDP,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FDP,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1272.0,21.10.–23.10.,LINKE,10.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,LINKE,11.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,LINKE,11.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
 1269.0,02.09.–04.09.,LINKE,10.0,5,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-05
@@ -25674,6 +25679,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,LINKE,10.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,LINKE,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1272.0,21.10.–23.10.,AfD,25.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,AfD,25.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,AfD,26.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
 1269.0,02.09.–04.09.,AfD,25.0,5,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-05
@@ -25833,6 +25839,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,AfD,12.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,AfD,12.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1272.0,21.10.–23.10.,FW,0.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,FW,0.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,FW,0.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
 1269.0,02.09.–04.09.,FW,0.0,5,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-05
@@ -25992,6 +25999,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1272.0,21.10.–23.10.,BSW,0.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,BSW,0.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,BSW,3.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
 1269.0,02.09.–04.09.,BSW,3.0,5,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-05
@@ -26151,6 +26159,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,BSW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,BSW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1272.0,21.10.–23.10.,Sonstige,12.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,Sonstige,8.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,Sonstige,6.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
 1269.0,02.09.–04.09.,Sonstige,6.0,5,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-05
