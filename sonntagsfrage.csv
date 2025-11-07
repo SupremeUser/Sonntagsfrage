@@ -2718,6 +2718,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.9,20,5,1998,Umfrage,Deutschland,Allensbach,1998-05-20
 ,,Sonstige,1.2,29,4,1998,Umfrage,Deutschland,Allensbach,1998-04-29
 ,,Sonstige,1.8,25,3,1998,Umfrage,Deutschland,Allensbach,1998-03-25
+1471.0,28.10.–04.11.,CDU/CSU,26.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
 1478.0,30.09.–07.10.,CDU/CSU,25.0,10,10,2025,Umfrage,Deutschland,Kantar (Emnid),2025-10-10
 1460.0,03.09.–09.09.,CDU/CSU,26.0,10,9,2025,Umfrage,Deutschland,Kantar (Emnid),2025-09-10
 1464.0,06.08.–12.08.,CDU/CSU,26.0,15,8,2025,Umfrage,Deutschland,Kantar (Emnid),2025-08-15
@@ -3262,6 +3263,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,CDU/CSU,42.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,CDU/CSU,43.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1471.0,28.10.–04.11.,SPD,15.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
 1478.0,30.09.–07.10.,SPD,15.0,10,10,2025,Umfrage,Deutschland,Kantar (Emnid),2025-10-10
 1460.0,03.09.–09.09.,SPD,15.0,10,9,2025,Umfrage,Deutschland,Kantar (Emnid),2025-09-10
 1464.0,06.08.–12.08.,SPD,14.0,15,8,2025,Umfrage,Deutschland,Kantar (Emnid),2025-08-15
@@ -3806,6 +3808,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,SPD,25.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,SPD,26.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1471.0,28.10.–04.11.,GRÜNE,12.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
 1478.0,30.09.–07.10.,GRÜNE,12.0,10,10,2025,Umfrage,Deutschland,Kantar (Emnid),2025-10-10
 1460.0,03.09.–09.09.,GRÜNE,11.0,10,9,2025,Umfrage,Deutschland,Kantar (Emnid),2025-09-10
 1464.0,06.08.–12.08.,GRÜNE,12.0,15,8,2025,Umfrage,Deutschland,Kantar (Emnid),2025-08-15
@@ -4350,6 +4353,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,GRÜNE,8.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,GRÜNE,7.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1471.0,28.10.–04.11.,FDP,3.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
 1478.0,30.09.–07.10.,FDP,3.0,10,10,2025,Umfrage,Deutschland,Kantar (Emnid),2025-10-10
 1460.0,03.09.–09.09.,FDP,3.0,10,9,2025,Umfrage,Deutschland,Kantar (Emnid),2025-09-10
 1464.0,06.08.–12.08.,FDP,4.0,15,8,2025,Umfrage,Deutschland,Kantar (Emnid),2025-08-15
@@ -4894,6 +4898,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FDP,4.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FDP,3.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1471.0,28.10.–04.11.,LINKE,10.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
 1478.0,30.09.–07.10.,LINKE,10.0,10,10,2025,Umfrage,Deutschland,Kantar (Emnid),2025-10-10
 1460.0,03.09.–09.09.,LINKE,11.0,10,9,2025,Umfrage,Deutschland,Kantar (Emnid),2025-09-10
 1464.0,06.08.–12.08.,LINKE,10.0,15,8,2025,Umfrage,Deutschland,Kantar (Emnid),2025-08-15
@@ -5438,6 +5443,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,LINKE,9.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,LINKE,9.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1471.0,28.10.–04.11.,AfD,25.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
 1478.0,30.09.–07.10.,AfD,25.0,10,10,2025,Umfrage,Deutschland,Kantar (Emnid),2025-10-10
 1460.0,03.09.–09.09.,AfD,25.0,10,9,2025,Umfrage,Deutschland,Kantar (Emnid),2025-09-10
 1464.0,06.08.–12.08.,AfD,25.0,15,8,2025,Umfrage,Deutschland,Kantar (Emnid),2025-08-15
@@ -5982,6 +5988,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,AfD,6.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,AfD,6.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1471.0,28.10.–04.11.,FW,0.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
 1478.0,30.09.–07.10.,FW,0.0,10,10,2025,Umfrage,Deutschland,Kantar (Emnid),2025-10-10
 1460.0,03.09.–09.09.,FW,0.0,10,9,2025,Umfrage,Deutschland,Kantar (Emnid),2025-09-10
 1464.0,06.08.–12.08.,FW,0.0,15,8,2025,Umfrage,Deutschland,Kantar (Emnid),2025-08-15
@@ -6526,6 +6533,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FW,0.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FW,0.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FW,1.0,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1471.0,28.10.–04.11.,BSW,3.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
 1478.0,30.09.–07.10.,BSW,4.0,10,10,2025,Umfrage,Deutschland,Kantar (Emnid),2025-10-10
 1460.0,03.09.–09.09.,BSW,4.0,10,9,2025,Umfrage,Deutschland,Kantar (Emnid),2025-09-10
 1464.0,06.08.–12.08.,BSW,3.0,15,8,2025,Umfrage,Deutschland,Kantar (Emnid),2025-08-15
@@ -7070,6 +7078,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,BSW,0.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,BSW,0.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,BSW,0.0,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1471.0,28.10.–04.11.,Sonstige,6.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
 1478.0,30.09.–07.10.,Sonstige,6.0,10,10,2025,Umfrage,Deutschland,Kantar (Emnid),2025-10-10
 1460.0,03.09.–09.09.,Sonstige,5.0,10,9,2025,Umfrage,Deutschland,Kantar (Emnid),2025-09-10
 1464.0,06.08.–12.08.,Sonstige,6.0,15,8,2025,Umfrage,Deutschland,Kantar (Emnid),2025-08-15
@@ -24899,6 +24908,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,16,4,1998,Umfrage,Deutschland,Forsa,1998-04-16
 ,,Sonstige,5.0,8,4,1998,Umfrage,Deutschland,Forsa,1998-04-08
 ,,Sonstige,5.0,2,4,1998,Umfrage,Deutschland,Forsa,1998-04-02
+1322.0,04.11.–06.11.,CDU/CSU,26.0,7,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-07
 1272.0,21.10.–23.10.,CDU/CSU,27.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,CDU/CSU,27.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,CDU/CSU,26.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
@@ -25059,6 +25069,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,CDU/CSU,31.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,CDU/CSU,32.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1322.0,04.11.–06.11.,SPD,14.0,7,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-07
 1272.0,21.10.–23.10.,SPD,15.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,SPD,15.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,SPD,15.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
@@ -25219,6 +25230,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,SPD,21.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,SPD,21.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1322.0,04.11.–06.11.,GRÜNE,12.0,7,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-07
 1272.0,21.10.–23.10.,GRÜNE,11.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,GRÜNE,11.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,GRÜNE,10.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
@@ -25379,6 +25391,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,GRÜNE,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,GRÜNE,11.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1322.0,04.11.–06.11.,FDP,0.0,7,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-07
 1272.0,21.10.–23.10.,FDP,0.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,FDP,3.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,FDP,3.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
@@ -25539,6 +25552,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FDP,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FDP,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1322.0,04.11.–06.11.,LINKE,10.0,7,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-07
 1272.0,21.10.–23.10.,LINKE,10.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,LINKE,11.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,LINKE,11.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
@@ -25699,6 +25713,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,LINKE,10.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,LINKE,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1322.0,04.11.–06.11.,AfD,26.0,7,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-07
 1272.0,21.10.–23.10.,AfD,25.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,AfD,25.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,AfD,26.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
@@ -25859,6 +25874,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,AfD,12.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,AfD,12.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1322.0,04.11.–06.11.,FW,0.0,7,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-07
 1272.0,21.10.–23.10.,FW,0.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,FW,0.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,FW,0.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
@@ -26019,6 +26035,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1322.0,04.11.–06.11.,BSW,0.0,7,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-07
 1272.0,21.10.–23.10.,BSW,0.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,BSW,0.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,BSW,3.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
@@ -26179,6 +26196,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,BSW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,BSW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1322.0,04.11.–06.11.,Sonstige,12.0,7,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-07
 1272.0,21.10.–23.10.,Sonstige,12.0,24,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-24
 1300.0,29.09.–01.10.,Sonstige,8.0,2,10,2025,Umfrage,Deutschland,Politbarometer,2025-10-02
 1419.0,16.09.–18.09.,Sonstige,6.0,19,9,2025,Umfrage,Deutschland,Politbarometer,2025-09-19
