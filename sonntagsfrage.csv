@@ -29078,6 +29078,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,3.0,15,12,1994,Umfrage,Deutschland,Politbarometer,1994-12-15
 ,,Sonstige,3.0,15,11,1994,Umfrage,Deutschland,Politbarometer,1994-11-15
 ,,Sonstige,3.5,16,10,1994,Wahl,Deutschland,Politbarometer,1994-10-16
+1027.0,23.12.–05.01.,CDU/CSU,24.0,5,1,2026,Umfrage,Deutschland,GMS,2026-01-05
 1020.0,11.11.–17.11.,CDU/CSU,25.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
 1012.0,24.09.–29.09.,CDU/CSU,26.0,30,9,2025,Umfrage,Deutschland,GMS,2025-09-30
 1007.0,25.06.–30.06.,CDU/CSU,29.0,1,7,2025,Umfrage,Deutschland,GMS,2025-07-01
@@ -29150,6 +29151,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1010.0,28.11.–01.12.,CDU/CSU,32.0,4,12,2017,Umfrage,Deutschland,GMS,2017-12-04
 1005.0,12.10.–18.10.,CDU/CSU,31.0,19,10,2017,Umfrage,Deutschland,GMS,2017-10-19
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,GMS,2017-09-24
+1027.0,23.12.–05.01.,SPD,15.0,5,1,2026,Umfrage,Deutschland,GMS,2026-01-05
 1020.0,11.11.–17.11.,SPD,14.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
 1012.0,24.09.–29.09.,SPD,15.0,30,9,2025,Umfrage,Deutschland,GMS,2025-09-30
 1007.0,25.06.–30.06.,SPD,15.0,1,7,2025,Umfrage,Deutschland,GMS,2025-07-01
@@ -29222,6 +29224,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1010.0,28.11.–01.12.,SPD,21.0,4,12,2017,Umfrage,Deutschland,GMS,2017-12-04
 1005.0,12.10.–18.10.,SPD,21.0,19,10,2017,Umfrage,Deutschland,GMS,2017-10-19
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,GMS,2017-09-24
+1027.0,23.12.–05.01.,GRÜNE,12.0,5,1,2026,Umfrage,Deutschland,GMS,2026-01-05
 1020.0,11.11.–17.11.,GRÜNE,12.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
 1012.0,24.09.–29.09.,GRÜNE,11.0,30,9,2025,Umfrage,Deutschland,GMS,2025-09-30
 1007.0,25.06.–30.06.,GRÜNE,13.0,1,7,2025,Umfrage,Deutschland,GMS,2025-07-01
@@ -29294,6 +29297,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1010.0,28.11.–01.12.,GRÜNE,10.0,4,12,2017,Umfrage,Deutschland,GMS,2017-12-04
 1005.0,12.10.–18.10.,GRÜNE,9.0,19,10,2017,Umfrage,Deutschland,GMS,2017-10-19
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,GMS,2017-09-24
+1027.0,23.12.–05.01.,FDP,3.0,5,1,2026,Umfrage,Deutschland,GMS,2026-01-05
 1020.0,11.11.–17.11.,FDP,3.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
 1012.0,24.09.–29.09.,FDP,3.0,30,9,2025,Umfrage,Deutschland,GMS,2025-09-30
 1007.0,25.06.–30.06.,FDP,4.0,1,7,2025,Umfrage,Deutschland,GMS,2025-07-01
@@ -29366,6 +29370,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1010.0,28.11.–01.12.,FDP,10.0,4,12,2017,Umfrage,Deutschland,GMS,2017-12-04
 1005.0,12.10.–18.10.,FDP,12.0,19,10,2017,Umfrage,Deutschland,GMS,2017-10-19
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,GMS,2017-09-24
+1027.0,23.12.–05.01.,LINKE,10.0,5,1,2026,Umfrage,Deutschland,GMS,2026-01-05
 1020.0,11.11.–17.11.,LINKE,11.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
 1012.0,24.09.–29.09.,LINKE,10.0,30,9,2025,Umfrage,Deutschland,GMS,2025-09-30
 1007.0,25.06.–30.06.,LINKE,9.0,1,7,2025,Umfrage,Deutschland,GMS,2025-07-01
@@ -29438,6 +29443,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1010.0,28.11.–01.12.,LINKE,10.0,4,12,2017,Umfrage,Deutschland,GMS,2017-12-04
 1005.0,12.10.–18.10.,LINKE,10.0,19,10,2017,Umfrage,Deutschland,GMS,2017-10-19
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,GMS,2017-09-24
+1027.0,23.12.–05.01.,AfD,27.0,5,1,2026,Umfrage,Deutschland,GMS,2026-01-05
 1020.0,11.11.–17.11.,AfD,26.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
 1012.0,24.09.–29.09.,AfD,25.0,30,9,2025,Umfrage,Deutschland,GMS,2025-09-30
 1007.0,25.06.–30.06.,AfD,22.0,1,7,2025,Umfrage,Deutschland,GMS,2025-07-01
@@ -29510,7 +29516,8 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1010.0,28.11.–01.12.,AfD,13.0,4,12,2017,Umfrage,Deutschland,GMS,2017-12-04
 1005.0,12.10.–18.10.,AfD,13.0,19,10,2017,Umfrage,Deutschland,GMS,2017-10-19
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,GMS,2017-09-24
-1020.0,11.11.–17.11.,FW,0.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
+1027.0,23.12.–05.01.,FW,2.0,5,1,2026,Umfrage,Deutschland,GMS,2026-01-05
+1020.0,11.11.–17.11.,FW,1.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
 1012.0,24.09.–29.09.,FW,1.0,30,9,2025,Umfrage,Deutschland,GMS,2025-09-30
 1007.0,25.06.–30.06.,FW,1.0,1,7,2025,Umfrage,Deutschland,GMS,2025-07-01
 1012.0,14.05.–19.05.,FW,1.0,19,5,2025,Umfrage,Deutschland,GMS,2025-05-19
@@ -29582,6 +29589,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1010.0,28.11.–01.12.,FW,0.0,4,12,2017,Umfrage,Deutschland,GMS,2017-12-04
 1005.0,12.10.–18.10.,FW,0.0,19,10,2017,Umfrage,Deutschland,GMS,2017-10-19
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,GMS,2017-09-24
+1027.0,23.12.–05.01.,BSW,4.0,5,1,2026,Umfrage,Deutschland,GMS,2026-01-05
 1020.0,11.11.–17.11.,BSW,3.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
 1012.0,24.09.–29.09.,BSW,3.0,30,9,2025,Umfrage,Deutschland,GMS,2025-09-30
 1007.0,25.06.–30.06.,BSW,3.0,1,7,2025,Umfrage,Deutschland,GMS,2025-07-01
@@ -29654,7 +29662,8 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1010.0,28.11.–01.12.,BSW,0.0,4,12,2017,Umfrage,Deutschland,GMS,2017-12-04
 1005.0,12.10.–18.10.,BSW,0.0,19,10,2017,Umfrage,Deutschland,GMS,2017-10-19
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,GMS,2017-09-24
-1020.0,11.11.–17.11.,Sonstige,6.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
+1027.0,23.12.–05.01.,Sonstige,3.0,5,1,2026,Umfrage,Deutschland,GMS,2026-01-05
+1020.0,11.11.–17.11.,Sonstige,5.0,17,11,2025,Umfrage,Deutschland,GMS,2025-11-17
 1012.0,24.09.–29.09.,Sonstige,6.0,30,9,2025,Umfrage,Deutschland,GMS,2025-09-30
 1007.0,25.06.–30.06.,Sonstige,4.0,1,7,2025,Umfrage,Deutschland,GMS,2025-07-01
 1012.0,14.05.–19.05.,Sonstige,6.0,19,5,2025,Umfrage,Deutschland,GMS,2025-05-19
