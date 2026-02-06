@@ -25063,6 +25063,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,16,4,1998,Umfrage,Deutschland,Forsa,1998-04-16
 ,,Sonstige,5.0,8,4,1998,Umfrage,Deutschland,Forsa,1998-04-08
 ,,Sonstige,5.0,2,4,1998,Umfrage,Deutschland,Forsa,1998-04-02
+1289.0,03.02.–05.02.,CDU/CSU,26.0,6,2,2026,Umfrage,Deutschland,Politbarometer,2026-02-06
 1245.0,13.01.–15.01.,CDU/CSU,26.0,16,1,2026,Umfrage,Deutschland,Politbarometer,2026-01-16
 1295.0,09.12.–11.12.,CDU/CSU,26.0,12,12,2025,Umfrage,Deutschland,Politbarometer,2025-12-12
 1207.0,18.11.–20.11.,CDU/CSU,27.0,21,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-21
@@ -25227,6 +25228,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,CDU/CSU,31.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,CDU/CSU,32.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1289.0,03.02.–05.02.,SPD,15.0,6,2,2026,Umfrage,Deutschland,Politbarometer,2026-02-06
 1245.0,13.01.–15.01.,SPD,15.0,16,1,2026,Umfrage,Deutschland,Politbarometer,2026-01-16
 1295.0,09.12.–11.12.,SPD,14.0,12,12,2025,Umfrage,Deutschland,Politbarometer,2025-12-12
 1207.0,18.11.–20.11.,SPD,14.0,21,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-21
@@ -25391,6 +25393,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,SPD,21.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,SPD,21.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1289.0,03.02.–05.02.,GRÜNE,13.0,6,2,2026,Umfrage,Deutschland,Politbarometer,2026-02-06
 1245.0,13.01.–15.01.,GRÜNE,12.0,16,1,2026,Umfrage,Deutschland,Politbarometer,2026-01-16
 1295.0,09.12.–11.12.,GRÜNE,12.0,12,12,2025,Umfrage,Deutschland,Politbarometer,2025-12-12
 1207.0,18.11.–20.11.,GRÜNE,12.0,21,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-21
@@ -25555,6 +25558,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,GRÜNE,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,GRÜNE,11.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1289.0,03.02.–05.02.,FDP,0.0,6,2,2026,Umfrage,Deutschland,Politbarometer,2026-02-06
 1245.0,13.01.–15.01.,FDP,0.0,16,1,2026,Umfrage,Deutschland,Politbarometer,2026-01-16
 1295.0,09.12.–11.12.,FDP,0.0,12,12,2025,Umfrage,Deutschland,Politbarometer,2025-12-12
 1207.0,18.11.–20.11.,FDP,0.0,21,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-21
@@ -25719,6 +25723,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FDP,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FDP,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1289.0,03.02.–05.02.,LINKE,10.0,6,2,2026,Umfrage,Deutschland,Politbarometer,2026-02-06
 1245.0,13.01.–15.01.,LINKE,10.0,16,1,2026,Umfrage,Deutschland,Politbarometer,2026-01-16
 1295.0,09.12.–11.12.,LINKE,11.0,12,12,2025,Umfrage,Deutschland,Politbarometer,2025-12-12
 1207.0,18.11.–20.11.,LINKE,9.0,21,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-21
@@ -25883,6 +25888,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,LINKE,10.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,LINKE,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1289.0,03.02.–05.02.,AfD,24.0,6,2,2026,Umfrage,Deutschland,Politbarometer,2026-02-06
 1245.0,13.01.–15.01.,AfD,25.0,16,1,2026,Umfrage,Deutschland,Politbarometer,2026-01-16
 1295.0,09.12.–11.12.,AfD,25.0,12,12,2025,Umfrage,Deutschland,Politbarometer,2025-12-12
 1207.0,18.11.–20.11.,AfD,27.0,21,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-21
@@ -26047,6 +26053,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,AfD,12.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,AfD,12.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1289.0,03.02.–05.02.,FW,0.0,6,2,2026,Umfrage,Deutschland,Politbarometer,2026-02-06
 1245.0,13.01.–15.01.,FW,0.0,16,1,2026,Umfrage,Deutschland,Politbarometer,2026-01-16
 1295.0,09.12.–11.12.,FW,0.0,12,12,2025,Umfrage,Deutschland,Politbarometer,2025-12-12
 1207.0,18.11.–20.11.,FW,0.0,21,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-21
@@ -26211,6 +26218,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1289.0,03.02.–05.02.,BSW,0.0,6,2,2026,Umfrage,Deutschland,Politbarometer,2026-02-06
 1245.0,13.01.–15.01.,BSW,0.0,16,1,2026,Umfrage,Deutschland,Politbarometer,2026-01-16
 1295.0,09.12.–11.12.,BSW,0.0,12,12,2025,Umfrage,Deutschland,Politbarometer,2025-12-12
 1207.0,18.11.–20.11.,BSW,0.0,21,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-21
@@ -26375,6 +26383,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,BSW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,BSW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1289.0,03.02.–05.02.,Sonstige,12.0,6,2,2026,Umfrage,Deutschland,Politbarometer,2026-02-06
 1245.0,13.01.–15.01.,Sonstige,12.0,16,1,2026,Umfrage,Deutschland,Politbarometer,2026-01-16
 1295.0,09.12.–11.12.,Sonstige,12.0,12,12,2025,Umfrage,Deutschland,Politbarometer,2025-12-12
 1207.0,18.11.–20.11.,Sonstige,11.0,21,11,2025,Umfrage,Deutschland,Politbarometer,2025-11-21
