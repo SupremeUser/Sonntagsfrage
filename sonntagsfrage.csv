@@ -42117,6 +42117,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2000.0,01.10.–04.10.,Sonstige,7.5,4,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-04
 1254.0,27.09.–01.10.,Sonstige,8.0,2,10,2021,Umfrage,Deutschland,INSA / YouGov,2021-10-02
 ,,Sonstige,6.3,26,9,2021,Wahl,Deutschland,INSA / YouGov,2021-09-26
+1657.0,06.02.–09.02.,CDU/CSU,25.0,11,2,2026,Umfrage,Deutschland,YouGov,2026-02-11
 1673.0,09.01.–12.01.,CDU/CSU,25.0,14,1,2026,Umfrage,Deutschland,YouGov,2026-01-14
 1743.0,12.12.–15.12.,CDU/CSU,26.0,17,12,2025,Umfrage,Deutschland,YouGov,2025-12-17
 2005.0,14.11.–17.11.,CDU/CSU,27.0,19,11,2025,Umfrage,Deutschland,YouGov,2025-11-19
@@ -42243,6 +42244,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,CDU/CSU,37.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,CDU/CSU,35.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1657.0,06.02.–09.02.,SPD,16.0,11,2,2026,Umfrage,Deutschland,YouGov,2026-02-11
 1673.0,09.01.–12.01.,SPD,16.0,14,1,2026,Umfrage,Deutschland,YouGov,2026-01-14
 1743.0,12.12.–15.12.,SPD,14.0,17,12,2025,Umfrage,Deutschland,YouGov,2025-12-17
 2005.0,14.11.–17.11.,SPD,14.0,19,11,2025,Umfrage,Deutschland,YouGov,2025-11-19
@@ -42369,6 +42371,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,SPD,25.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,SPD,28.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1657.0,06.02.–09.02.,GRÜNE,11.0,11,2,2026,Umfrage,Deutschland,YouGov,2026-02-11
 1673.0,09.01.–12.01.,GRÜNE,12.0,14,1,2026,Umfrage,Deutschland,YouGov,2026-01-14
 1743.0,12.12.–15.12.,GRÜNE,12.0,17,12,2025,Umfrage,Deutschland,YouGov,2025-12-17
 2005.0,14.11.–17.11.,GRÜNE,11.0,19,11,2025,Umfrage,Deutschland,YouGov,2025-11-19
@@ -42495,6 +42498,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,GRÜNE,7.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,GRÜNE,7.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1657.0,06.02.–09.02.,FDP,4.0,11,2,2026,Umfrage,Deutschland,YouGov,2026-02-11
 1673.0,09.01.–12.01.,FDP,4.0,14,1,2026,Umfrage,Deutschland,YouGov,2026-01-14
 1743.0,12.12.–15.12.,FDP,4.0,17,12,2025,Umfrage,Deutschland,YouGov,2025-12-17
 2005.0,14.11.–17.11.,FDP,4.0,19,11,2025,Umfrage,Deutschland,YouGov,2025-11-19
@@ -42621,6 +42625,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,FDP,9.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,FDP,7.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1657.0,06.02.–09.02.,LINKE,10.0,11,2,2026,Umfrage,Deutschland,YouGov,2026-02-11
 1673.0,09.01.–12.01.,LINKE,10.0,14,1,2026,Umfrage,Deutschland,YouGov,2026-01-14
 1743.0,12.12.–15.12.,LINKE,10.0,17,12,2025,Umfrage,Deutschland,YouGov,2025-12-17
 2005.0,14.11.–17.11.,LINKE,11.0,19,11,2025,Umfrage,Deutschland,YouGov,2025-11-19
@@ -42747,6 +42752,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,LINKE,8.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,LINKE,9.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1657.0,06.02.–09.02.,AfD,25.0,11,2,2026,Umfrage,Deutschland,YouGov,2026-02-11
 1673.0,09.01.–12.01.,AfD,25.0,14,1,2026,Umfrage,Deutschland,YouGov,2026-01-14
 1743.0,12.12.–15.12.,AfD,26.0,17,12,2025,Umfrage,Deutschland,YouGov,2025-12-17
 2005.0,14.11.–17.11.,AfD,25.0,19,11,2025,Umfrage,Deutschland,YouGov,2025-11-19
@@ -42873,6 +42879,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,AfD,9.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,AfD,9.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1657.0,06.02.–09.02.,FW,0.0,11,2,2026,Umfrage,Deutschland,YouGov,2026-02-11
 1673.0,09.01.–12.01.,FW,0.0,14,1,2026,Umfrage,Deutschland,YouGov,2026-01-14
 1743.0,12.12.–15.12.,FW,0.0,17,12,2025,Umfrage,Deutschland,YouGov,2025-12-17
 2005.0,14.11.–17.11.,FW,0.0,19,11,2025,Umfrage,Deutschland,YouGov,2025-11-19
@@ -42999,6 +43006,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,FW,0.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,FW,0.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,FW,1.0,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1657.0,06.02.–09.02.,BSW,4.0,11,2,2026,Umfrage,Deutschland,YouGov,2026-02-11
 1673.0,09.01.–12.01.,BSW,3.0,14,1,2026,Umfrage,Deutschland,YouGov,2026-01-14
 1743.0,12.12.–15.12.,BSW,4.0,17,12,2025,Umfrage,Deutschland,YouGov,2025-12-17
 2005.0,14.11.–17.11.,BSW,4.0,19,11,2025,Umfrage,Deutschland,YouGov,2025-11-19
@@ -43125,6 +43133,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 2010.0,08.05.–11.05.,BSW,0.0,12,5,2017,Umfrage,Deutschland,YouGov,2017-05-12
 1957.0,27.04.–02.05.,BSW,0.0,5,5,2017,Umfrage,Deutschland,YouGov,2017-05-05
 ,,BSW,0.0,22,9,2013,Wahl,Deutschland,YouGov,2013-09-22
+1657.0,06.02.–09.02.,Sonstige,6.0,11,2,2026,Umfrage,Deutschland,YouGov,2026-02-11
 1673.0,09.01.–12.01.,Sonstige,5.0,14,1,2026,Umfrage,Deutschland,YouGov,2026-01-14
 1743.0,12.12.–15.12.,Sonstige,5.0,17,12,2025,Umfrage,Deutschland,YouGov,2025-12-17
 2005.0,14.11.–17.11.,Sonstige,5.0,19,11,2025,Umfrage,Deutschland,YouGov,2025-11-19
