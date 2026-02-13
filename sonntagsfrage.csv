@@ -2745,6 +2745,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,2.9,20,5,1998,Umfrage,Deutschland,Allensbach,1998-05-20
 ,,Sonstige,1.2,29,4,1998,Umfrage,Deutschland,Allensbach,1998-04-29
 ,,Sonstige,1.8,25,3,1998,Umfrage,Deutschland,Allensbach,1998-03-25
+1472.0,04.02.–10.02.,CDU/CSU,25.0,11,2,2026,Umfrage,Deutschland,Kantar (Emnid),2026-02-11
 1455.0,07.01.–13.01.,CDU/CSU,26.0,16,1,2026,Umfrage,Deutschland,Kantar (Emnid),2026-01-16
 1443.0,03.12.–09.12.,CDU/CSU,25.0,10,12,2025,Umfrage,Deutschland,Kantar (Emnid),2025-12-10
 1471.0,28.10.–04.11.,CDU/CSU,26.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
@@ -3292,6 +3293,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,CDU/CSU,42.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,CDU/CSU,43.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,CDU/CSU,41.5,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1472.0,04.02.–10.02.,SPD,15.0,11,2,2026,Umfrage,Deutschland,Kantar (Emnid),2026-02-11
 1455.0,07.01.–13.01.,SPD,15.0,16,1,2026,Umfrage,Deutschland,Kantar (Emnid),2026-01-16
 1443.0,03.12.–09.12.,SPD,14.0,10,12,2025,Umfrage,Deutschland,Kantar (Emnid),2025-12-10
 1471.0,28.10.–04.11.,SPD,15.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
@@ -3839,6 +3841,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,SPD,25.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,SPD,26.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,SPD,25.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1472.0,04.02.–10.02.,GRÜNE,12.0,11,2,2026,Umfrage,Deutschland,Kantar (Emnid),2026-02-11
 1455.0,07.01.–13.01.,GRÜNE,13.0,16,1,2026,Umfrage,Deutschland,Kantar (Emnid),2026-01-16
 1443.0,03.12.–09.12.,GRÜNE,12.0,10,12,2025,Umfrage,Deutschland,Kantar (Emnid),2025-12-10
 1471.0,28.10.–04.11.,GRÜNE,12.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
@@ -4386,6 +4389,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,GRÜNE,8.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,GRÜNE,7.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,GRÜNE,8.4,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1472.0,04.02.–10.02.,FDP,4.0,11,2,2026,Umfrage,Deutschland,Kantar (Emnid),2026-02-11
 1455.0,07.01.–13.01.,FDP,3.0,16,1,2026,Umfrage,Deutschland,Kantar (Emnid),2026-01-16
 1443.0,03.12.–09.12.,FDP,3.0,10,12,2025,Umfrage,Deutschland,Kantar (Emnid),2025-12-10
 1471.0,28.10.–04.11.,FDP,3.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
@@ -4933,6 +4937,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FDP,4.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FDP,3.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FDP,4.8,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1472.0,04.02.–10.02.,LINKE,11.0,11,2,2026,Umfrage,Deutschland,Kantar (Emnid),2026-02-11
 1455.0,07.01.–13.01.,LINKE,10.0,16,1,2026,Umfrage,Deutschland,Kantar (Emnid),2026-01-16
 1443.0,03.12.–09.12.,LINKE,11.0,10,12,2025,Umfrage,Deutschland,Kantar (Emnid),2025-12-10
 1471.0,28.10.–04.11.,LINKE,10.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
@@ -5480,6 +5485,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,LINKE,9.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,LINKE,9.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,LINKE,8.6,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1472.0,04.02.–10.02.,AfD,24.0,11,2,2026,Umfrage,Deutschland,Kantar (Emnid),2026-02-11
 1455.0,07.01.–13.01.,AfD,25.0,16,1,2026,Umfrage,Deutschland,Kantar (Emnid),2026-01-16
 1443.0,03.12.–09.12.,AfD,25.0,10,12,2025,Umfrage,Deutschland,Kantar (Emnid),2025-12-10
 1471.0,28.10.–04.11.,AfD,25.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
@@ -6027,6 +6033,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,AfD,6.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,AfD,6.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,AfD,4.7,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1472.0,04.02.–10.02.,FW,0.0,11,2,2026,Umfrage,Deutschland,Kantar (Emnid),2026-02-11
 1455.0,07.01.–13.01.,FW,0.0,16,1,2026,Umfrage,Deutschland,Kantar (Emnid),2026-01-16
 1443.0,03.12.–09.12.,FW,3.0,10,12,2025,Umfrage,Deutschland,Kantar (Emnid),2025-12-10
 1471.0,28.10.–04.11.,FW,0.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
@@ -6574,6 +6581,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,FW,0.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,FW,0.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,FW,1.0,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1472.0,04.02.–10.02.,BSW,3.0,11,2,2026,Umfrage,Deutschland,Kantar (Emnid),2026-02-11
 1455.0,07.01.–13.01.,BSW,3.0,16,1,2026,Umfrage,Deutschland,Kantar (Emnid),2026-01-16
 1443.0,03.12.–09.12.,BSW,4.0,10,12,2025,Umfrage,Deutschland,Kantar (Emnid),2025-12-10
 1471.0,28.10.–04.11.,BSW,3.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
@@ -7121,6 +7129,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1849.0,26.09.–01.10.,BSW,0.0,6,10,2013,Umfrage,Deutschland,Kantar (Emnid),2013-10-06
 1382.0,24.09.–26.09.,BSW,0.0,29,9,2013,Umfrage,Deutschland,Kantar (Emnid),2013-09-29
 ,,BSW,0.0,22,9,2013,Wahl,Deutschland,Kantar (Emnid),2013-09-22
+1472.0,04.02.–10.02.,Sonstige,6.0,11,2,2026,Umfrage,Deutschland,Kantar (Emnid),2026-02-11
 1455.0,07.01.–13.01.,Sonstige,5.0,16,1,2026,Umfrage,Deutschland,Kantar (Emnid),2026-01-16
 1443.0,03.12.–09.12.,Sonstige,3.0,10,12,2025,Umfrage,Deutschland,Kantar (Emnid),2025-12-10
 1471.0,28.10.–04.11.,Sonstige,6.0,7,11,2025,Umfrage,Deutschland,Kantar (Emnid),2025-11-07
