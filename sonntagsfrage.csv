@@ -25460,6 +25460,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 ,,Sonstige,6.0,16,4,1998,Umfrage,Deutschland,Forsa,1998-04-16
 ,,Sonstige,5.0,8,4,1998,Umfrage,Deutschland,Forsa,1998-04-08
 ,,Sonstige,5.0,2,4,1998,Umfrage,Deutschland,Forsa,1998-04-02
+1319.0,17.08.–19.08.,CDU/CSU,22.0,20,8,2026,Umfrage,Deutschland,Politbarometer,2026-08-20
 1405.0,28.07.–30.07.,CDU/CSU,23.0,31,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-31
 1284.0,14.07.–16.07.,CDU/CSU,23.0,17,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-17
 1190.0,16.06.–18.06.,CDU/CSU,24.0,19,6,2026,Umfrage,Deutschland,Politbarometer,2026-06-19
@@ -25634,6 +25635,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,CDU/CSU,31.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,CDU/CSU,32.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,CDU/CSU,32.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1319.0,17.08.–19.08.,SPD,12.0,20,8,2026,Umfrage,Deutschland,Politbarometer,2026-08-20
 1405.0,28.07.–30.07.,SPD,12.0,31,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-31
 1284.0,14.07.–16.07.,SPD,12.0,17,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-17
 1190.0,16.06.–18.06.,SPD,13.0,19,6,2026,Umfrage,Deutschland,Politbarometer,2026-06-19
@@ -25808,6 +25810,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,SPD,21.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,SPD,21.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,SPD,20.5,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1319.0,17.08.–19.08.,GRÜNE,14.0,20,8,2026,Umfrage,Deutschland,Politbarometer,2026-08-20
 1405.0,28.07.–30.07.,GRÜNE,13.0,31,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-31
 1284.0,14.07.–16.07.,GRÜNE,14.0,17,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-17
 1190.0,16.06.–18.06.,GRÜNE,12.0,19,6,2026,Umfrage,Deutschland,Politbarometer,2026-06-19
@@ -25982,6 +25985,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,GRÜNE,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,GRÜNE,11.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,GRÜNE,8.9,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1319.0,17.08.–19.08.,FDP,4.0,20,8,2026,Umfrage,Deutschland,Politbarometer,2026-08-20
 1405.0,28.07.–30.07.,FDP,4.0,31,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-31
 1284.0,14.07.–16.07.,FDP,4.0,17,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-17
 1190.0,16.06.–18.06.,FDP,4.0,19,6,2026,Umfrage,Deutschland,Politbarometer,2026-06-19
@@ -26156,6 +26160,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FDP,11.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FDP,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FDP,10.7,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1319.0,17.08.–19.08.,LINKE,12.0,20,8,2026,Umfrage,Deutschland,Politbarometer,2026-08-20
 1405.0,28.07.–30.07.,LINKE,12.0,31,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-31
 1284.0,14.07.–16.07.,LINKE,13.0,17,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-17
 1190.0,16.06.–18.06.,LINKE,11.0,19,6,2026,Umfrage,Deutschland,Politbarometer,2026-06-19
@@ -26330,6 +26335,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,LINKE,10.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,LINKE,10.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,LINKE,9.2,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1319.0,17.08.–19.08.,AfD,27.0,20,8,2026,Umfrage,Deutschland,Politbarometer,2026-08-20
 1405.0,28.07.–30.07.,AfD,28.0,31,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-31
 1284.0,14.07.–16.07.,AfD,27.0,17,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-17
 1190.0,16.06.–18.06.,AfD,28.0,19,6,2026,Umfrage,Deutschland,Politbarometer,2026-06-19
@@ -26504,6 +26510,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,AfD,12.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,AfD,12.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,AfD,12.6,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1319.0,17.08.–19.08.,FW,0.0,20,8,2026,Umfrage,Deutschland,Politbarometer,2026-08-20
 1405.0,28.07.–30.07.,FW,0.0,31,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-31
 1284.0,14.07.–16.07.,FW,0.0,17,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-17
 1190.0,16.06.–18.06.,FW,0.0,19,6,2026,Umfrage,Deutschland,Politbarometer,2026-06-19
@@ -26678,6 +26685,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,FW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,FW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,FW,1.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1319.0,17.08.–19.08.,BSW,0.0,20,8,2026,Umfrage,Deutschland,Politbarometer,2026-08-20
 1405.0,28.07.–30.07.,BSW,0.0,31,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-31
 1284.0,14.07.–16.07.,BSW,0.0,17,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-17
 1190.0,16.06.–18.06.,BSW,0.0,19,6,2026,Umfrage,Deutschland,Politbarometer,2026-06-19
@@ -26852,6 +26860,7 @@ Befragte,Zeitraum,Partei,Ergebnis,Tag,Monat,Jahr,Art,Region,Institut,Datum
 1180.0,10.10.–12.10.,BSW,0.0,13,10,2017,Umfrage,Deutschland,Politbarometer,2017-10-13
 1425.0,26.09.–28.09.,BSW,0.0,29,9,2017,Umfrage,Deutschland,Politbarometer,2017-09-29
 ,,BSW,0.0,24,9,2017,Wahl,Deutschland,Politbarometer,2017-09-24
+1319.0,17.08.–19.08.,Sonstige,9.0,20,8,2026,Umfrage,Deutschland,Politbarometer,2026-08-20
 1405.0,28.07.–30.07.,Sonstige,8.0,31,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-31
 1284.0,14.07.–16.07.,Sonstige,7.0,17,7,2026,Umfrage,Deutschland,Politbarometer,2026-07-17
 1190.0,16.06.–18.06.,Sonstige,8.0,19,6,2026,Umfrage,Deutschland,Politbarometer,2026-06-19
